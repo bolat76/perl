@@ -1,0 +1,86 @@
+
+<start of new project = 4-20190707150522>
+OEP_School: 71
+OEP_Group: 71-3-M0
+OEP_Lesson: 1
+OEP_Date: 04.06.2019
+OEP_Topic: вводное занятие
+OEP_Participation_56BC4584: 1
+OEP_LateMinutes_56BC4584: 0
+OEP_LiftMinus_56BC4584: 0
+OEP_Tests_56BC4584: 0
+OEP_LiftPlus_56BC4584: 
+OEP_TotalPoints_56BC4584: 1200
+OEP_Eval_56BC4584: 0
+OEP_Participation_56BC4585: 1
+OEP_LateMinutes_56BC4585: 0
+OEP_LiftMinus_56BC4585: 0
+OEP_Tests_56BC4585: 0
+OEP_LiftPlus_56BC4585: 
+OEP_TotalPoints_56BC4585: 1200
+OEP_Eval_56BC4585: 0
+OEP_Participation_56BC4586: 1
+OEP_LateMinutes_56BC4586: 0
+OEP_LiftMinus_56BC4586: 0
+OEP_Tests_56BC4586: 0
+OEP_LiftPlus_56BC4586: 
+OEP_TotalPoints_56BC4586: 1200
+OEP_Eval_56BC4586: 0
+OEP_Participation_56BC4587: 1
+OEP_LateMinutes_56BC4587: 0
+OEP_LiftMinus_56BC4587: 0
+OEP_Tests_56BC4587: 0
+OEP_LiftPlus_56BC4587: 
+OEP_TotalPoints_56BC4587: 1200
+OEP_Eval_56BC4587: 0
+OEP_Participation_56BC4589: 1
+OEP_LateMinutes_56BC4589: 0
+OEP_LiftMinus_56BC4589: 0
+OEP_Tests_56BC4589: 0
+OEP_LiftPlus_56BC4589: 
+OEP_TotalPoints_56BC4589: 1200
+OEP_Eval_56BC4589: 0
+OEP_Comments: 
+
+<start of new project = 4-20190707151328>
+OEP_School: 71
+OEP_Group: 71-3-M0
+OEP_Lesson: 2
+OEP_Date: 06.06.2019
+OEP_Topic: 2
+OEP_Participation_56BC4585: 1
+OEP_LateMinutes_56BC4585: 0
+OEP_LiftMinus_56BC4585: 0
+OEP_Tests_56BC4585: 0
+OEP_LiftPlus_56BC4585: 
+OEP_TotalPoints_56BC4585: 1200
+OEP_Eval_56BC4585: 0
+OEP_Participation_56BC4586: 1
+OEP_LateMinutes_56BC4586: 0
+OEP_LiftMinus_56BC4586: 0
+OEP_Tests_56BC4586: 0
+OEP_LiftPlus_56BC4586: 
+OEP_TotalPoints_56BC4586: 1200
+OEP_Eval_56BC4586: 0
+OEP_Participation_56BC4587: 1
+OEP_LateMinutes_56BC4587: 0
+OEP_LiftMinus_56BC4587: 0
+OEP_Tests_56BC4587: 0
+OEP_LiftPlus_56BC4587: 
+OEP_TotalPoints_56BC4587: 1200
+OEP_Eval_56BC4587: 0
+OEP_Participation_56BC4588: 1
+OEP_LateMinutes_56BC4588: 0
+OEP_LiftMinus_56BC4588: 0
+OEP_Tests_56BC4588: 0
+OEP_LiftPlus_56BC4588: 
+OEP_TotalPoints_56BC4588: 1200
+OEP_Eval_56BC4588: 0
+OEP_Participation_56BC4589: 1
+OEP_LateMinutes_56BC4589: 0
+OEP_LiftMinus_56BC4589: 0
+OEP_Tests_56BC4589: 0
+OEP_LiftPlus_56BC4589: 
+OEP_TotalPoints_56BC4589: 1200
+OEP_Eval_56BC4589: 0
+OEP_Comments: 

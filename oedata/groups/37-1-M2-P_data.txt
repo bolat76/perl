@@ -1,0 +1,31 @@
+
+<start of new project = Tue Jul 2 15:50:21 2019>
+OEP_Created: Tue Jul 2 15:50:21 2019
+OEP_Editor: 3
+OEP_School: 37
+OEP_Group: 37-1-M2-P
+OEP_Traineer: Milana Rogatinskaya
+OEP_VolunteerOne: Милана Рогатинская
+OEP_VolunteerOneCode: 54LD4710
+OEP_VolunteerTwo: Милана Рогатинская
+OEP_VolunteerTwoCode: 54LD4710
+OEP_StartDate: 24.06.2019
+OEP_FinishDate: 02.08.2019
+OEP_Paid: Free
+OEP_Status: Active
+OEP_Calendar: 175, 177, 179, 182, 184, 186, 189, 191, 193, 196, 198, 200, 203, 205, 207, 210, 212, 214, 217, 219, 221, 224, 226, 228, 231, 233, 235, 238, 240, 242
+OEP_TimeList: 11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00
+OEP_MondayTime: 11:00-13:00
+OEP_TuesdayTime: 
+OEP_WednesdayTime: 11:00-13:00
+OEP_ThursdayTime: 
+OEP_FridayTime: 11:00-13:00
+OEP_SaturdayTime: 
+OEP_SundayTime: 
+OEP_Monday: 1
+OEP_Tuesday: 
+OEP_Wednesday: 1
+OEP_Thursday: 
+OEP_Friday: 1
+OEP_Saturday: 
+OEP_Sunday: 

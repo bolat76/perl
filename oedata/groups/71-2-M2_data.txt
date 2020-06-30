@@ -1,0 +1,31 @@
+
+<start of new project = Fri Oct 4 15:43:55 2019>
+OEP_Created: Fri Oct 4 15:43:55 2019
+OEP_Editor: 8
+OEP_School: 71
+OEP_Group: 71-2-M2
+OEP_Traineer: Murager Sharipkanov
+OEP_VolunteerOne: Murager Sharipkanov 
+OEP_VolunteerOneCode: 54LD4706
+OEP_VolunteerTwo: Ади Нурлыбаев 
+OEP_VolunteerTwoCode: 54LD4703
+OEP_StartDate: 11.05.2019
+OEP_FinishDate: 13.08.2019
+OEP_Paid: Paid
+OEP_Status: Finished
+OEP_Calendar: 131, 135, 138, 142, 149, 159, 162, 164, 166, 169, 171, 176, 183, 185, 190, 192, 194, 197, 199, 201, 204, 206, 208, 211, 213, 215, 218, 220, 222, 225, 261, 262, 263
+OEP_TimeList: 12.00-14.00<tab>12.00-14.00<tab>12.00-14.00<tab>12.00-14.00<tab>12.00-14.00<tab>12.00-14.00<tab>12.00-14.00<tab>12.00-14.00<tab>12.00-14.00<tab>12.00-14.00<tab>13:00-15:00<tab>13:00-15:00<tab>13:00-15:00<tab>12:00-14:00<tab>13:00-15:00<tab>13:00-15:00<tab>13:00-15:00<tab>13:00-15:00<tab>13:00-15:00<tab>13:00-15:00<tab>13:00-15:00<tab>13:00-15:00<tab>13:00-15:00<tab>13:00-15:00<tab>13:00-15:00<tab>13:00-15:00<tab>13:00-15:00<tab>13:00-15:00<tab>13:00-15:00<tab>13:00-15:00<tab><tab><tab>
+OEP_MondayTime: 
+OEP_TuesdayTime: 12.00-14.00
+OEP_WednesdayTime: 
+OEP_ThursdayTime: 12.00-14.00
+OEP_FridayTime: 
+OEP_SaturdayTime: 12.00-14.00
+OEP_SundayTime: 
+OEP_Monday: 
+OEP_Tuesday: 1
+OEP_Wednesday: 
+OEP_Thursday: 1
+OEP_Friday: 
+OEP_Saturday: 1
+OEP_Sunday: 

@@ -1,0 +1,998 @@
+
+<start of new project = 3-20192606152317>
+OEP_School: 71
+OEP_Group: 71-1-M1
+OEP_Lesson: 1
+OEP_Date: 11.05.2019
+OEP_Topic: 1.Practical English - how do you spell it. 2.Vocabulary - the family.
+OEP_Participation_56BC4568: 1
+OEP_LateMinutes_56BC4568: 0
+OEP_LiftMinus_56BC4568: 0
+OEP_Tests_56BC4568: 0
+OEP_LiftPlus_56BC4568: 
+OEP_TotalPoints_56BC4568: 1200
+OEP_Eval_56BC4568: 0
+OEP_Participation_56BC4569: 1
+OEP_LateMinutes_56BC4569: 0
+OEP_LiftMinus_56BC4569: 0
+OEP_Tests_56BC4569: 0
+OEP_LiftPlus_56BC4569: 
+OEP_TotalPoints_56BC4569: 1200
+OEP_Eval_56BC4569: 0
+OEP_Participation_56BC4571: 1
+OEP_LateMinutes_56BC4571: 0
+OEP_LiftMinus_56BC4571: 0
+OEP_Tests_56BC4571: 0
+OEP_LiftPlus_56BC4571: 
+OEP_TotalPoints_56BC4571: 1200
+OEP_Eval_56BC4571: 0
+OEP_Participation_56BC4572: 1
+OEP_LateMinutes_56BC4572: 0
+OEP_LiftMinus_56BC4572: 0
+OEP_Tests_56BC4572: 0
+OEP_LiftPlus_56BC4572: 
+OEP_TotalPoints_56BC4572: 1200
+OEP_Eval_56BC4572: 0
+OEP_Participation_56BC4574: 1
+OEP_LateMinutes_56BC4574: 0
+OEP_LiftMinus_56BC4574: 0
+OEP_Tests_56BC4574: 0
+OEP_LiftPlus_56BC4574: 
+OEP_TotalPoints_56BC4574: 1200
+OEP_Eval_56BC4574: 0
+OEP_Comments: 
+
+<start of new project = 3-20192606152617>
+OEP_School: 71
+OEP_Group: 71-1-M1
+OEP_Lesson: 2
+OEP_Date: 15.05.2019
+OEP_Topic: 1.Vocabulary -The family. 2.practical English - How do you spell it?. 3. Vocabulary - Feelings.
+OEP_Participation_56BC4567: 1
+OEP_LateMinutes_56BC4567: 0
+OEP_LiftMinus_56BC4567: 0
+OEP_Tests_56BC4567: 0
+OEP_LiftPlus_56BC4567: 
+OEP_TotalPoints_56BC4567: 1200
+OEP_Eval_56BC4567: 0
+OEP_Participation_56BC4568: 1
+OEP_LateMinutes_56BC4568: 0
+OEP_LiftMinus_56BC4568: 0
+OEP_Tests_56BC4568: 0
+OEP_LiftPlus_56BC4568: 
+OEP_TotalPoints_56BC4568: 1200
+OEP_Eval_56BC4568: 0
+OEP_Participation_56BC4569: 1
+OEP_LateMinutes_56BC4569: 0
+OEP_LiftMinus_56BC4569: 0
+OEP_Tests_56BC4569: 0
+OEP_LiftPlus_56BC4569: 
+OEP_TotalPoints_56BC4569: 1200
+OEP_Eval_56BC4569: 0
+OEP_Participation_56BC4570: 1
+OEP_LateMinutes_56BC4570: 0
+OEP_LiftMinus_56BC4570: 0
+OEP_Tests_56BC4570: 0
+OEP_LiftPlus_56BC4570: 
+OEP_TotalPoints_56BC4570: 1200
+OEP_Eval_56BC4570: 0
+OEP_Participation_56BC4571: 1
+OEP_LateMinutes_56BC4571: 0
+OEP_LiftMinus_56BC4571: 0
+OEP_Tests_56BC4571: 0
+OEP_LiftPlus_56BC4571: 
+OEP_TotalPoints_56BC4571: 1200
+OEP_Eval_56BC4571: 0
+OEP_Participation_56BC4572: 1
+OEP_LateMinutes_56BC4572: 0
+OEP_LiftMinus_56BC4572: 0
+OEP_Tests_56BC4572: 0
+OEP_LiftPlus_56BC4572: 
+OEP_TotalPoints_56BC4572: 1200
+OEP_Eval_56BC4572: 0
+OEP_Participation_56BC4574: 1
+OEP_LateMinutes_56BC4574: 0
+OEP_LiftMinus_56BC4574: 0
+OEP_Tests_56BC4574: 0
+OEP_LiftPlus_56BC4574: 
+OEP_TotalPoints_56BC4574: 1200
+OEP_Eval_56BC4574: 0
+OEP_Comments: 
+
+<start of new project = 3-20192606152839>
+OEP_School: 71
+OEP_Group: 71-1-M1
+OEP_Lesson: 3
+OEP_Date: 18.05.2019
+OEP_Topic: 1.practical English - Can I have an orange juice, please. 2. Vocabulary - Feelings.
+OEP_Participation_56BC4567: 1
+OEP_LateMinutes_56BC4567: 0
+OEP_LiftMinus_56BC4567: 0
+OEP_Tests_56BC4567: 0
+OEP_LiftPlus_56BC4567: 
+OEP_TotalPoints_56BC4567: 1200
+OEP_Eval_56BC4567: 0
+OEP_Participation_56BC4568: 1
+OEP_LateMinutes_56BC4568: 0
+OEP_LiftMinus_56BC4568: 0
+OEP_Tests_56BC4568: 0
+OEP_LiftPlus_56BC4568: 
+OEP_TotalPoints_56BC4568: 1200
+OEP_Eval_56BC4568: 0
+OEP_Participation_56BC4569: 1
+OEP_LateMinutes_56BC4569: 0
+OEP_LiftMinus_56BC4569: 0
+OEP_Tests_56BC4569: 0
+OEP_LiftPlus_56BC4569: 
+OEP_TotalPoints_56BC4569: 1200
+OEP_Eval_56BC4569: 0
+OEP_Participation_56BC4570: 1
+OEP_LateMinutes_56BC4570: 0
+OEP_LiftMinus_56BC4570: 0
+OEP_Tests_56BC4570: 0
+OEP_LiftPlus_56BC4570: 
+OEP_TotalPoints_56BC4570: 1200
+OEP_Eval_56BC4570: 0
+OEP_Participation_56BC4571: 1
+OEP_LateMinutes_56BC4571: 0
+OEP_LiftMinus_56BC4571: 0
+OEP_Tests_56BC4571: 0
+OEP_LiftPlus_56BC4571: 
+OEP_TotalPoints_56BC4571: 1200
+OEP_Eval_56BC4571: 0
+OEP_Participation_56BC4572: 1
+OEP_LateMinutes_56BC4572: 0
+OEP_LiftMinus_56BC4572: 0
+OEP_Tests_56BC4572: 0
+OEP_LiftPlus_56BC4572: 
+OEP_TotalPoints_56BC4572: 1200
+OEP_Eval_56BC4572: 0
+OEP_Participation_56BC4573: 1
+OEP_LateMinutes_56BC4573: 0
+OEP_LiftMinus_56BC4573: 0
+OEP_Tests_56BC4573: 0
+OEP_LiftPlus_56BC4573: 
+OEP_TotalPoints_56BC4573: 1200
+OEP_Eval_56BC4573: 0
+OEP_Participation_56BC4574: 1
+OEP_LateMinutes_56BC4574: 0
+OEP_LiftMinus_56BC4574: 0
+OEP_Tests_56BC4574: 0
+OEP_LiftPlus_56BC4574: 
+OEP_TotalPoints_56BC4574: 1200
+OEP_Eval_56BC4574: 0
+OEP_Comments: 
+
+<start of new project = 3-20192606153117>
+OEP_School: 71
+OEP_Group: 71-1-M1
+OEP_Lesson: 4
+OEP_Date: 22.05.2019
+OEP_Topic: 1.practical English - Can I have an orange juice, please?. 2. обобщение изученного.
+OEP_Participation_56BC4567: 1
+OEP_LateMinutes_56BC4567: 0
+OEP_LiftMinus_56BC4567: 0
+OEP_Tests_56BC4567: 0
+OEP_LiftPlus_56BC4567: 
+OEP_TotalPoints_56BC4567: 1200
+OEP_Eval_56BC4567: 0
+OEP_Participation_56BC4568: 1
+OEP_LateMinutes_56BC4568: 0
+OEP_LiftMinus_56BC4568: 0
+OEP_Tests_56BC4568: 0
+OEP_LiftPlus_56BC4568: 
+OEP_TotalPoints_56BC4568: 1200
+OEP_Eval_56BC4568: 0
+OEP_Participation_56BC4569: 1
+OEP_LateMinutes_56BC4569: 0
+OEP_LiftMinus_56BC4569: 0
+OEP_Tests_56BC4569: 0
+OEP_LiftPlus_56BC4569: 
+OEP_TotalPoints_56BC4569: 1200
+OEP_Eval_56BC4569: 0
+OEP_Participation_56BC4570: 1
+OEP_LateMinutes_56BC4570: 0
+OEP_LiftMinus_56BC4570: 0
+OEP_Tests_56BC4570: 0
+OEP_LiftPlus_56BC4570: 
+OEP_TotalPoints_56BC4570: 1200
+OEP_Eval_56BC4570: 0
+OEP_Participation_56BC4572: 1
+OEP_LateMinutes_56BC4572: 0
+OEP_LiftMinus_56BC4572: 0
+OEP_Tests_56BC4572: 0
+OEP_LiftPlus_56BC4572: 
+OEP_TotalPoints_56BC4572: 1200
+OEP_Eval_56BC4572: 0
+OEP_Participation_56BC4573: 1
+OEP_LateMinutes_56BC4573: 0
+OEP_LiftMinus_56BC4573: 0
+OEP_Tests_56BC4573: 0
+OEP_LiftPlus_56BC4573: 
+OEP_TotalPoints_56BC4573: 1200
+OEP_Eval_56BC4573: 0
+OEP_Participation_56BC4574: 1
+OEP_LateMinutes_56BC4574: 0
+OEP_LiftMinus_56BC4574: 0
+OEP_Tests_56BC4574: 0
+OEP_LiftPlus_56BC4574: 
+OEP_TotalPoints_56BC4574: 1200
+OEP_Eval_56BC4574: 0
+OEP_Participation_56BC4575: 1
+OEP_LateMinutes_56BC4575: 0
+OEP_LiftMinus_56BC4575: 0
+OEP_Tests_56BC4575: 0
+OEP_LiftPlus_56BC4575: 
+OEP_TotalPoints_56BC4575: 1200
+OEP_Eval_56BC4575: 0
+OEP_Comments: 
+
+<start of new project = 3-20192606153418>
+OEP_School: 71
+OEP_Group: 71-1-M1
+OEP_Lesson: 5
+OEP_Date: 25.05.2019
+OEP_Topic: коучинг сессия
+OEP_Participation_56BC4567: 1
+OEP_LateMinutes_56BC4567: 0
+OEP_LiftMinus_56BC4567: 0
+OEP_Tests_56BC4567: 0
+OEP_LiftPlus_56BC4567: 
+OEP_TotalPoints_56BC4567: 1200
+OEP_Eval_56BC4567: 0
+OEP_Participation_56BC4568: 1
+OEP_LateMinutes_56BC4568: 0
+OEP_LiftMinus_56BC4568: 0
+OEP_Tests_56BC4568: 0
+OEP_LiftPlus_56BC4568: 
+OEP_TotalPoints_56BC4568: 1200
+OEP_Eval_56BC4568: 0
+OEP_Participation_56BC4569: 1
+OEP_LateMinutes_56BC4569: 0
+OEP_LiftMinus_56BC4569: 0
+OEP_Tests_56BC4569: 0
+OEP_LiftPlus_56BC4569: 
+OEP_TotalPoints_56BC4569: 1200
+OEP_Eval_56BC4569: 0
+OEP_Participation_56BC4570: 1
+OEP_LateMinutes_56BC4570: 0
+OEP_LiftMinus_56BC4570: 0
+OEP_Tests_56BC4570: 0
+OEP_LiftPlus_56BC4570: 
+OEP_TotalPoints_56BC4570: 1200
+OEP_Eval_56BC4570: 0
+OEP_Participation_56BC4571: 1
+OEP_LateMinutes_56BC4571: 0
+OEP_LiftMinus_56BC4571: 0
+OEP_Tests_56BC4571: 0
+OEP_LiftPlus_56BC4571: 
+OEP_TotalPoints_56BC4571: 1200
+OEP_Eval_56BC4571: 0
+OEP_Participation_56BC4572: 1
+OEP_LateMinutes_56BC4572: 0
+OEP_LiftMinus_56BC4572: 0
+OEP_Tests_56BC4572: 0
+OEP_LiftPlus_56BC4572: 
+OEP_TotalPoints_56BC4572: 1200
+OEP_Eval_56BC4572: 0
+OEP_Participation_56BC4573: 1
+OEP_LateMinutes_56BC4573: 0
+OEP_LiftMinus_56BC4573: 0
+OEP_Tests_56BC4573: 0
+OEP_LiftPlus_56BC4573: 
+OEP_TotalPoints_56BC4573: 1200
+OEP_Eval_56BC4573: 0
+OEP_Participation_56BC4574: 1
+OEP_LateMinutes_56BC4574: 0
+OEP_LiftMinus_56BC4574: 0
+OEP_Tests_56BC4574: 0
+OEP_LiftPlus_56BC4574: 
+OEP_TotalPoints_56BC4574: 1200
+OEP_Eval_56BC4574: 0
+OEP_Participation_56BC4575: 1
+OEP_LateMinutes_56BC4575: 0
+OEP_LiftMinus_56BC4575: 0
+OEP_Tests_56BC4575: 0
+OEP_LiftPlus_56BC4575: 
+OEP_TotalPoints_56BC4575: 1200
+OEP_Eval_56BC4575: 0
+OEP_Comments: 
+
+<start of new project = 3-20192606155220>
+OEP_School: 71
+OEP_Group: 71-1-M1
+OEP_Lesson: 6
+OEP_Date: 29.05.2019
+OEP_Topic: 1. practical English - What time is it?. 2.Vocabulary - Health and illness & sports
+OEP_Participation_56BC4567: 1
+OEP_LateMinutes_56BC4567: 0
+OEP_LiftMinus_56BC4567: 0
+OEP_Tests_56BC4567: 0
+OEP_LiftPlus_56BC4567: 
+OEP_TotalPoints_56BC4567: 1200
+OEP_Eval_56BC4567: 0
+OEP_Participation_56BC4568: 1
+OEP_LateMinutes_56BC4568: 0
+OEP_LiftMinus_56BC4568: 0
+OEP_Tests_56BC4568: 0
+OEP_LiftPlus_56BC4568: 
+OEP_TotalPoints_56BC4568: 1200
+OEP_Eval_56BC4568: 0
+OEP_Participation_56BC4569: 1
+OEP_LateMinutes_56BC4569: 0
+OEP_LiftMinus_56BC4569: 0
+OEP_Tests_56BC4569: 0
+OEP_LiftPlus_56BC4569: 
+OEP_TotalPoints_56BC4569: 1200
+OEP_Eval_56BC4569: 0
+OEP_Participation_56BC4570: 1
+OEP_LateMinutes_56BC4570: 0
+OEP_LiftMinus_56BC4570: 0
+OEP_Tests_56BC4570: 0
+OEP_LiftPlus_56BC4570: 
+OEP_TotalPoints_56BC4570: 1200
+OEP_Eval_56BC4570: 0
+OEP_Participation_56BC4571: 1
+OEP_LateMinutes_56BC4571: 0
+OEP_LiftMinus_56BC4571: 0
+OEP_Tests_56BC4571: 0
+OEP_LiftPlus_56BC4571: 
+OEP_TotalPoints_56BC4571: 1200
+OEP_Eval_56BC4571: 0
+OEP_Participation_56BC4572: 1
+OEP_LateMinutes_56BC4572: 0
+OEP_LiftMinus_56BC4572: 0
+OEP_Tests_56BC4572: 0
+OEP_LiftPlus_56BC4572: 
+OEP_TotalPoints_56BC4572: 1200
+OEP_Eval_56BC4572: 0
+OEP_Participation_56BC4573: 1
+OEP_LateMinutes_56BC4573: 0
+OEP_LiftMinus_56BC4573: 0
+OEP_Tests_56BC4573: 0
+OEP_LiftPlus_56BC4573: 
+OEP_TotalPoints_56BC4573: 1200
+OEP_Eval_56BC4573: 0
+OEP_Participation_56BC4574: 1
+OEP_LateMinutes_56BC4574: 0
+OEP_LiftMinus_56BC4574: 0
+OEP_Tests_56BC4574: 0
+OEP_LiftPlus_56BC4574: 
+OEP_TotalPoints_56BC4574: 1200
+OEP_Eval_56BC4574: 0
+OEP_Participation_56BC4575: 1
+OEP_LateMinutes_56BC4575: 0
+OEP_LiftMinus_56BC4575: 0
+OEP_Tests_56BC4575: 0
+OEP_LiftPlus_56BC4575: 
+OEP_TotalPoints_56BC4575: 1200
+OEP_Eval_56BC4575: 0
+OEP_Comments: 
+
+<start of new project = 3-20192606155401>
+OEP_School: 71
+OEP_Group: 71-1-M1
+OEP_Lesson: 7
+OEP_Date: 03.06.2019
+OEP_Topic: 1.Vocabulary - Health and Sports. 2. practical English - what time is it?
+OEP_Participation_56BC4567: 1
+OEP_LateMinutes_56BC4567: 0
+OEP_LiftMinus_56BC4567: 0
+OEP_Tests_56BC4567: 0
+OEP_LiftPlus_56BC4567: 
+OEP_TotalPoints_56BC4567: 1200
+OEP_Eval_56BC4567: 0
+OEP_Participation_56BC4568: 1
+OEP_LateMinutes_56BC4568: 0
+OEP_LiftMinus_56BC4568: 0
+OEP_Tests_56BC4568: 0
+OEP_LiftPlus_56BC4568: 
+OEP_TotalPoints_56BC4568: 1200
+OEP_Eval_56BC4568: 0
+OEP_Participation_56BC4569: 1
+OEP_LateMinutes_56BC4569: 0
+OEP_LiftMinus_56BC4569: 0
+OEP_Tests_56BC4569: 0
+OEP_LiftPlus_56BC4569: 
+OEP_TotalPoints_56BC4569: 1200
+OEP_Eval_56BC4569: 0
+OEP_Participation_56BC4570: 1
+OEP_LateMinutes_56BC4570: 0
+OEP_LiftMinus_56BC4570: 0
+OEP_Tests_56BC4570: 0
+OEP_LiftPlus_56BC4570: 
+OEP_TotalPoints_56BC4570: 1200
+OEP_Eval_56BC4570: 0
+OEP_Participation_56BC4571: 1
+OEP_LateMinutes_56BC4571: 0
+OEP_LiftMinus_56BC4571: 0
+OEP_Tests_56BC4571: 0
+OEP_LiftPlus_56BC4571: 
+OEP_TotalPoints_56BC4571: 1200
+OEP_Eval_56BC4571: 0
+OEP_Participation_56BC4572: 1
+OEP_LateMinutes_56BC4572: 0
+OEP_LiftMinus_56BC4572: 0
+OEP_Tests_56BC4572: 0
+OEP_LiftPlus_56BC4572: 
+OEP_TotalPoints_56BC4572: 1200
+OEP_Eval_56BC4572: 0
+OEP_Participation_56BC4573: 1
+OEP_LateMinutes_56BC4573: 0
+OEP_LiftMinus_56BC4573: 0
+OEP_Tests_56BC4573: 0
+OEP_LiftPlus_56BC4573: 
+OEP_TotalPoints_56BC4573: 1200
+OEP_Eval_56BC4573: 0
+OEP_Participation_56BC4574: 1
+OEP_LateMinutes_56BC4574: 0
+OEP_LiftMinus_56BC4574: 0
+OEP_Tests_56BC4574: 0
+OEP_LiftPlus_56BC4574: 
+OEP_TotalPoints_56BC4574: 1200
+OEP_Eval_56BC4574: 0
+OEP_Participation_56BC4575: 1
+OEP_LateMinutes_56BC4575: 0
+OEP_LiftMinus_56BC4575: 0
+OEP_Tests_56BC4575: 0
+OEP_LiftPlus_56BC4575: 
+OEP_TotalPoints_56BC4575: 1200
+OEP_Eval_56BC4575: 0
+OEP_Comments: 
+
+<start of new project = 3-20192606155541>
+OEP_School: 71
+OEP_Group: 71-1-M1
+OEP_Lesson: 8
+OEP_Date: 05.06.2019
+OEP_Topic: тест по vocabulary
+OEP_Participation_56BC4567: 1
+OEP_LateMinutes_56BC4567: 0
+OEP_LiftMinus_56BC4567: 0
+OEP_Tests_56BC4567: 0
+OEP_LiftPlus_56BC4567: 
+OEP_TotalPoints_56BC4567: 1200
+OEP_Eval_56BC4567: 0
+OEP_Participation_56BC4568: 1
+OEP_LateMinutes_56BC4568: 0
+OEP_LiftMinus_56BC4568: 0
+OEP_Tests_56BC4568: 0
+OEP_LiftPlus_56BC4568: 
+OEP_TotalPoints_56BC4568: 1200
+OEP_Eval_56BC4568: 0
+OEP_Participation_56BC4569: 1
+OEP_LateMinutes_56BC4569: 0
+OEP_LiftMinus_56BC4569: 0
+OEP_Tests_56BC4569: 0
+OEP_LiftPlus_56BC4569: 
+OEP_TotalPoints_56BC4569: 1200
+OEP_Eval_56BC4569: 0
+OEP_Participation_56BC4570: 1
+OEP_LateMinutes_56BC4570: 0
+OEP_LiftMinus_56BC4570: 0
+OEP_Tests_56BC4570: 0
+OEP_LiftPlus_56BC4570: 
+OEP_TotalPoints_56BC4570: 1200
+OEP_Eval_56BC4570: 0
+OEP_Participation_56BC4571: 1
+OEP_LateMinutes_56BC4571: 0
+OEP_LiftMinus_56BC4571: 0
+OEP_Tests_56BC4571: 0
+OEP_LiftPlus_56BC4571: 
+OEP_TotalPoints_56BC4571: 1200
+OEP_Eval_56BC4571: 0
+OEP_Participation_56BC4572: 1
+OEP_LateMinutes_56BC4572: 0
+OEP_LiftMinus_56BC4572: 0
+OEP_Tests_56BC4572: 0
+OEP_LiftPlus_56BC4572: 
+OEP_TotalPoints_56BC4572: 1200
+OEP_Eval_56BC4572: 0
+OEP_Participation_56BC4574: 1
+OEP_LateMinutes_56BC4574: 0
+OEP_LiftMinus_56BC4574: 0
+OEP_Tests_56BC4574: 0
+OEP_LiftPlus_56BC4574: 
+OEP_TotalPoints_56BC4574: 1200
+OEP_Eval_56BC4574: 0
+OEP_Participation_56BC4575: 1
+OEP_LateMinutes_56BC4575: 0
+OEP_LiftMinus_56BC4575: 0
+OEP_Tests_56BC4575: 0
+OEP_LiftPlus_56BC4575: 
+OEP_TotalPoints_56BC4575: 1200
+OEP_Eval_56BC4575: 0
+OEP_Comments: 
+
+<start of new project = 3-20192606155712>
+OEP_School: 71
+OEP_Group: 71-1-M1
+OEP_Lesson: 9
+OEP_Date: 07.06.2019
+OEP_Topic: 1.vocabulary - wheather. 2.practical English - what's the date.
+OEP_Participation_56BC4567: 1
+OEP_LateMinutes_56BC4567: 0
+OEP_LiftMinus_56BC4567: 0
+OEP_Tests_56BC4567: 0
+OEP_LiftPlus_56BC4567: 
+OEP_TotalPoints_56BC4567: 1200
+OEP_Eval_56BC4567: 0
+OEP_Participation_56BC4568: 1
+OEP_LateMinutes_56BC4568: 0
+OEP_LiftMinus_56BC4568: 0
+OEP_Tests_56BC4568: 0
+OEP_LiftPlus_56BC4568: 
+OEP_TotalPoints_56BC4568: 1200
+OEP_Eval_56BC4568: 0
+OEP_Participation_56BC4569: 1
+OEP_LateMinutes_56BC4569: 0
+OEP_LiftMinus_56BC4569: 0
+OEP_Tests_56BC4569: 0
+OEP_LiftPlus_56BC4569: 
+OEP_TotalPoints_56BC4569: 1200
+OEP_Eval_56BC4569: 0
+OEP_Participation_56BC4570: 1
+OEP_LateMinutes_56BC4570: 0
+OEP_LiftMinus_56BC4570: 0
+OEP_Tests_56BC4570: 0
+OEP_LiftPlus_56BC4570: 
+OEP_TotalPoints_56BC4570: 1200
+OEP_Eval_56BC4570: 0
+OEP_Participation_56BC4571: 1
+OEP_LateMinutes_56BC4571: 0
+OEP_LiftMinus_56BC4571: 0
+OEP_Tests_56BC4571: 0
+OEP_LiftPlus_56BC4571: 
+OEP_TotalPoints_56BC4571: 1200
+OEP_Eval_56BC4571: 0
+OEP_Participation_56BC4572: 1
+OEP_LateMinutes_56BC4572: 0
+OEP_LiftMinus_56BC4572: 0
+OEP_Tests_56BC4572: 0
+OEP_LiftPlus_56BC4572: 
+OEP_TotalPoints_56BC4572: 1200
+OEP_Eval_56BC4572: 0
+OEP_Participation_56BC4573: 1
+OEP_LateMinutes_56BC4573: 0
+OEP_LiftMinus_56BC4573: 0
+OEP_Tests_56BC4573: 0
+OEP_LiftPlus_56BC4573: 
+OEP_TotalPoints_56BC4573: 1200
+OEP_Eval_56BC4573: 0
+OEP_Participation_56BC4574: 1
+OEP_LateMinutes_56BC4574: 0
+OEP_LiftMinus_56BC4574: 0
+OEP_Tests_56BC4574: 0
+OEP_LiftPlus_56BC4574: 
+OEP_TotalPoints_56BC4574: 1200
+OEP_Eval_56BC4574: 0
+OEP_Participation_56BC4575: 1
+OEP_LateMinutes_56BC4575: 0
+OEP_LiftMinus_56BC4575: 0
+OEP_Tests_56BC4575: 0
+OEP_LiftPlus_56BC4575: 
+OEP_TotalPoints_56BC4575: 1200
+OEP_Eval_56BC4575: 0
+OEP_Comments: 
+
+<start of new project = 3-20192606162642>
+OEP_School: 71
+OEP_Group: 71-1-M1
+OEP_Lesson: 10
+OEP_Date: 10.06.2019
+OEP_Topic: 1."Vocabulary ": Holidays & travelling". 2. Speaking club
+OEP_Participation_56BC4567: 1
+OEP_LateMinutes_56BC4567: 0
+OEP_LiftMinus_56BC4567: 0
+OEP_Tests_56BC4567: 0
+OEP_LiftPlus_56BC4567: 
+OEP_TotalPoints_56BC4567: 1200
+OEP_Eval_56BC4567: 0
+OEP_Participation_56BC4568: 1
+OEP_LateMinutes_56BC4568: 0
+OEP_LiftMinus_56BC4568: 0
+OEP_Tests_56BC4568: 0
+OEP_LiftPlus_56BC4568: 
+OEP_TotalPoints_56BC4568: 1200
+OEP_Eval_56BC4568: 0
+OEP_Participation_56BC4569: 1
+OEP_LateMinutes_56BC4569: 0
+OEP_LiftMinus_56BC4569: 0
+OEP_Tests_56BC4569: 0
+OEP_LiftPlus_56BC4569: 
+OEP_TotalPoints_56BC4569: 1200
+OEP_Eval_56BC4569: 0
+OEP_Participation_56BC4570: 1
+OEP_LateMinutes_56BC4570: 0
+OEP_LiftMinus_56BC4570: 0
+OEP_Tests_56BC4570: 0
+OEP_LiftPlus_56BC4570: 
+OEP_TotalPoints_56BC4570: 1200
+OEP_Eval_56BC4570: 0
+OEP_Participation_56BC4571: 1
+OEP_LateMinutes_56BC4571: 0
+OEP_LiftMinus_56BC4571: 0
+OEP_Tests_56BC4571: 0
+OEP_LiftPlus_56BC4571: 
+OEP_TotalPoints_56BC4571: 1200
+OEP_Eval_56BC4571: 0
+OEP_Participation_56BC4572: 1
+OEP_LateMinutes_56BC4572: 0
+OEP_LiftMinus_56BC4572: 0
+OEP_Tests_56BC4572: 0
+OEP_LiftPlus_56BC4572: 
+OEP_TotalPoints_56BC4572: 1200
+OEP_Eval_56BC4572: 0
+OEP_Participation_56BC4573: 1
+OEP_LateMinutes_56BC4573: 0
+OEP_LiftMinus_56BC4573: 0
+OEP_Tests_56BC4573: 0
+OEP_LiftPlus_56BC4573: 
+OEP_TotalPoints_56BC4573: 1200
+OEP_Eval_56BC4573: 0
+OEP_Participation_56BC4574: 1
+OEP_LateMinutes_56BC4574: 0
+OEP_LiftMinus_56BC4574: 0
+OEP_Tests_56BC4574: 0
+OEP_LiftPlus_56BC4574: 
+OEP_TotalPoints_56BC4574: 1200
+OEP_Eval_56BC4574: 0
+OEP_Comments: 
+
+<start of new project = 3-20192606162743>
+OEP_School: 71
+OEP_Group: 71-1-M1
+OEP_Lesson: 11
+OEP_Date: 12.06.2019
+OEP_Topic: 1."vocabulary": unit: in the town. 2."practical English": Would you like to come?".
+OEP_Participation_56BC4567: 1
+OEP_LateMinutes_56BC4567: 0
+OEP_LiftMinus_56BC4567: 0
+OEP_Tests_56BC4567: 0
+OEP_LiftPlus_56BC4567: 
+OEP_TotalPoints_56BC4567: 1200
+OEP_Eval_56BC4567: 0
+OEP_Participation_56BC4568: 1
+OEP_LateMinutes_56BC4568: 0
+OEP_LiftMinus_56BC4568: 0
+OEP_Tests_56BC4568: 0
+OEP_LiftPlus_56BC4568: 
+OEP_TotalPoints_56BC4568: 1200
+OEP_Eval_56BC4568: 0
+OEP_Participation_56BC4569: 1
+OEP_LateMinutes_56BC4569: 0
+OEP_LiftMinus_56BC4569: 0
+OEP_Tests_56BC4569: 0
+OEP_LiftPlus_56BC4569: 
+OEP_TotalPoints_56BC4569: 1200
+OEP_Eval_56BC4569: 0
+OEP_Participation_56BC4570: 1
+OEP_LateMinutes_56BC4570: 0
+OEP_LiftMinus_56BC4570: 0
+OEP_Tests_56BC4570: 0
+OEP_LiftPlus_56BC4570: 
+OEP_TotalPoints_56BC4570: 1200
+OEP_Eval_56BC4570: 0
+OEP_Participation_56BC4571: 1
+OEP_LateMinutes_56BC4571: 0
+OEP_LiftMinus_56BC4571: 0
+OEP_Tests_56BC4571: 0
+OEP_LiftPlus_56BC4571: 
+OEP_TotalPoints_56BC4571: 1200
+OEP_Eval_56BC4571: 0
+OEP_Participation_56BC4572: 1
+OEP_LateMinutes_56BC4572: 0
+OEP_LiftMinus_56BC4572: 0
+OEP_Tests_56BC4572: 0
+OEP_LiftPlus_56BC4572: 
+OEP_TotalPoints_56BC4572: 1200
+OEP_Eval_56BC4572: 0
+OEP_Participation_56BC4573: 1
+OEP_LateMinutes_56BC4573: 0
+OEP_LiftMinus_56BC4573: 0
+OEP_Tests_56BC4573: 0
+OEP_LiftPlus_56BC4573: 
+OEP_TotalPoints_56BC4573: 1200
+OEP_Eval_56BC4573: 0
+OEP_Participation_56BC4574: 1
+OEP_LateMinutes_56BC4574: 0
+OEP_LiftMinus_56BC4574: 0
+OEP_Tests_56BC4574: 0
+OEP_LiftPlus_56BC4574: 
+OEP_TotalPoints_56BC4574: 1200
+OEP_Eval_56BC4574: 0
+OEP_Participation_56BC4575: 1
+OEP_LateMinutes_56BC4575: 0
+OEP_LiftMinus_56BC4575: 0
+OEP_Tests_56BC4575: 0
+OEP_LiftPlus_56BC4575: 
+OEP_TotalPoints_56BC4575: 1200
+OEP_Eval_56BC4575: 0
+OEP_Comments: 
+
+<start of new project = 3-20192606163818>
+OEP_School: 71
+OEP_Group: 71-1-M1
+OEP_Lesson: 12
+OEP_Date: 14.06.2019
+OEP_Topic: тест по "vocabulary "
+OEP_Participation_56BC4567: 1
+OEP_LateMinutes_56BC4567: 0
+OEP_LiftMinus_56BC4567: 0
+OEP_Tests_56BC4567: 0
+OEP_LiftPlus_56BC4567: 
+OEP_TotalPoints_56BC4567: 1200
+OEP_Eval_56BC4567: 0
+OEP_Participation_56BC4568: 1
+OEP_LateMinutes_56BC4568: 0
+OEP_LiftMinus_56BC4568: 0
+OEP_Tests_56BC4568: 0
+OEP_LiftPlus_56BC4568: 
+OEP_TotalPoints_56BC4568: 1200
+OEP_Eval_56BC4568: 0
+OEP_Participation_56BC4570: 1
+OEP_LateMinutes_56BC4570: 0
+OEP_LiftMinus_56BC4570: 0
+OEP_Tests_56BC4570: 0
+OEP_LiftPlus_56BC4570: 
+OEP_TotalPoints_56BC4570: 1200
+OEP_Eval_56BC4570: 0
+OEP_Participation_56BC4572: 1
+OEP_LateMinutes_56BC4572: 0
+OEP_LiftMinus_56BC4572: 0
+OEP_Tests_56BC4572: 0
+OEP_LiftPlus_56BC4572: 
+OEP_TotalPoints_56BC4572: 1200
+OEP_Eval_56BC4572: 0
+OEP_Participation_56BC4573: 1
+OEP_LateMinutes_56BC4573: 0
+OEP_LiftMinus_56BC4573: 0
+OEP_Tests_56BC4573: 0
+OEP_LiftPlus_56BC4573: 
+OEP_TotalPoints_56BC4573: 1200
+OEP_Eval_56BC4573: 0
+OEP_Participation_56BC4574: 1
+OEP_LateMinutes_56BC4574: 0
+OEP_LiftMinus_56BC4574: 0
+OEP_Tests_56BC4574: 0
+OEP_LiftPlus_56BC4574: 
+OEP_TotalPoints_56BC4574: 1200
+OEP_Eval_56BC4574: 0
+OEP_Participation_56BC4575: 1
+OEP_LateMinutes_56BC4575: 0
+OEP_LiftMinus_56BC4575: 0
+OEP_Tests_56BC4575: 0
+OEP_LiftPlus_56BC4575: 
+OEP_TotalPoints_56BC4575: 1200
+OEP_Eval_56BC4575: 0
+OEP_Comments: 
+
+<start of new project = 3-20192606163947>
+OEP_School: 71
+OEP_Group: 71-1-M1
+OEP_Lesson: 13
+OEP_Date: 17.06.2019
+OEP_Topic: 1. "vocabulary " : unit: Talking & Everyday things. 2. "Practical English: is there a bank near here"
+OEP_Participation_56BC4567: 1
+OEP_LateMinutes_56BC4567: 0
+OEP_LiftMinus_56BC4567: 0
+OEP_Tests_56BC4567: 0
+OEP_LiftPlus_56BC4567: 
+OEP_TotalPoints_56BC4567: 1200
+OEP_Eval_56BC4567: 0
+OEP_Participation_56BC4568: 1
+OEP_LateMinutes_56BC4568: 0
+OEP_LiftMinus_56BC4568: 0
+OEP_Tests_56BC4568: 0
+OEP_LiftPlus_56BC4568: 
+OEP_TotalPoints_56BC4568: 1200
+OEP_Eval_56BC4568: 0
+OEP_Participation_56BC4570: 1
+OEP_LateMinutes_56BC4570: 0
+OEP_LiftMinus_56BC4570: 0
+OEP_Tests_56BC4570: 0
+OEP_LiftPlus_56BC4570: 
+OEP_TotalPoints_56BC4570: 1200
+OEP_Eval_56BC4570: 0
+OEP_Participation_56BC4572: 1
+OEP_LateMinutes_56BC4572: 0
+OEP_LiftMinus_56BC4572: 0
+OEP_Tests_56BC4572: 0
+OEP_LiftPlus_56BC4572: 
+OEP_TotalPoints_56BC4572: 1200
+OEP_Eval_56BC4572: 0
+OEP_Participation_56BC4573: 1
+OEP_LateMinutes_56BC4573: 0
+OEP_LiftMinus_56BC4573: 0
+OEP_Tests_56BC4573: 0
+OEP_LiftPlus_56BC4573: 
+OEP_TotalPoints_56BC4573: 1200
+OEP_Eval_56BC4573: 0
+OEP_Participation_56BC4574: 1
+OEP_LateMinutes_56BC4574: 0
+OEP_LiftMinus_56BC4574: 0
+OEP_Tests_56BC4574: 0
+OEP_LiftPlus_56BC4574: 
+OEP_TotalPoints_56BC4574: 1200
+OEP_Eval_56BC4574: 0
+OEP_Participation_56BC4575: 1
+OEP_LateMinutes_56BC4575: 0
+OEP_LiftMinus_56BC4575: 0
+OEP_Tests_56BC4575: 0
+OEP_LiftPlus_56BC4575: 
+OEP_TotalPoints_56BC4575: 1200
+OEP_Eval_56BC4575: 0
+OEP_Comments: 
+
+<start of new project = 3-20192606164111>
+OEP_School: 71
+OEP_Group: 71-1-M1
+OEP_Lesson: 14
+OEP_Date: 19.06.2019
+OEP_Topic: not defined
+OEP_Participation_56BC4567: 1
+OEP_LateMinutes_56BC4567: 0
+OEP_LiftMinus_56BC4567: 0
+OEP_Tests_56BC4567: 0
+OEP_LiftPlus_56BC4567: 
+OEP_TotalPoints_56BC4567: 1200
+OEP_Eval_56BC4567: 0
+OEP_Participation_56BC4568: 1
+OEP_LateMinutes_56BC4568: 0
+OEP_LiftMinus_56BC4568: 0
+OEP_Tests_56BC4568: 0
+OEP_LiftPlus_56BC4568: 
+OEP_TotalPoints_56BC4568: 1200
+OEP_Eval_56BC4568: 0
+OEP_Participation_56BC4570: 1
+OEP_LateMinutes_56BC4570: 0
+OEP_LiftMinus_56BC4570: 0
+OEP_Tests_56BC4570: 0
+OEP_LiftPlus_56BC4570: 
+OEP_TotalPoints_56BC4570: 1200
+OEP_Eval_56BC4570: 0
+OEP_Participation_56BC4571: 1
+OEP_LateMinutes_56BC4571: 0
+OEP_LiftMinus_56BC4571: 0
+OEP_Tests_56BC4571: 0
+OEP_LiftPlus_56BC4571: 
+OEP_TotalPoints_56BC4571: 1200
+OEP_Eval_56BC4571: 0
+OEP_Participation_56BC4572: 1
+OEP_LateMinutes_56BC4572: 0
+OEP_LiftMinus_56BC4572: 0
+OEP_Tests_56BC4572: 0
+OEP_LiftPlus_56BC4572: 
+OEP_TotalPoints_56BC4572: 1200
+OEP_Eval_56BC4572: 0
+OEP_Participation_56BC4573: 1
+OEP_LateMinutes_56BC4573: 0
+OEP_LiftMinus_56BC4573: 0
+OEP_Tests_56BC4573: 0
+OEP_LiftPlus_56BC4573: 
+OEP_TotalPoints_56BC4573: 1200
+OEP_Eval_56BC4573: 0
+OEP_Participation_56BC4574: 1
+OEP_LateMinutes_56BC4574: 0
+OEP_LiftMinus_56BC4574: 0
+OEP_Tests_56BC4574: 0
+OEP_LiftPlus_56BC4574: 
+OEP_TotalPoints_56BC4574: 1200
+OEP_Eval_56BC4574: 0
+OEP_Participation_56BC4575: 1
+OEP_LateMinutes_56BC4575: 0
+OEP_LiftMinus_56BC4575: 0
+OEP_Tests_56BC4575: 0
+OEP_LiftPlus_56BC4575: 
+OEP_TotalPoints_56BC4575: 1200
+OEP_Eval_56BC4575: 0
+OEP_Comments: 
+
+<start of new project = 3-20192606164241>
+OEP_School: 71
+OEP_Group: 71-1-M1
+OEP_Lesson: 15
+OEP_Date: 21.06.2019
+OEP_Topic: not defined
+OEP_Participation_56BC4567: 1
+OEP_LateMinutes_56BC4567: 0
+OEP_LiftMinus_56BC4567: 0
+OEP_Tests_56BC4567: 0
+OEP_LiftPlus_56BC4567: 
+OEP_TotalPoints_56BC4567: 1200
+OEP_Eval_56BC4567: 0
+OEP_Participation_56BC4568: 1
+OEP_LateMinutes_56BC4568: 0
+OEP_LiftMinus_56BC4568: 0
+OEP_Tests_56BC4568: 0
+OEP_LiftPlus_56BC4568: 
+OEP_TotalPoints_56BC4568: 1200
+OEP_Eval_56BC4568: 0
+OEP_Participation_56BC4570: 1
+OEP_LateMinutes_56BC4570: 0
+OEP_LiftMinus_56BC4570: 0
+OEP_Tests_56BC4570: 0
+OEP_LiftPlus_56BC4570: 
+OEP_TotalPoints_56BC4570: 1200
+OEP_Eval_56BC4570: 0
+OEP_Participation_56BC4571: 1
+OEP_LateMinutes_56BC4571: 0
+OEP_LiftMinus_56BC4571: 0
+OEP_Tests_56BC4571: 0
+OEP_LiftPlus_56BC4571: 
+OEP_TotalPoints_56BC4571: 1200
+OEP_Eval_56BC4571: 0
+OEP_Participation_56BC4572: 1
+OEP_LateMinutes_56BC4572: 0
+OEP_LiftMinus_56BC4572: 0
+OEP_Tests_56BC4572: 0
+OEP_LiftPlus_56BC4572: 
+OEP_TotalPoints_56BC4572: 1200
+OEP_Eval_56BC4572: 0
+OEP_Participation_56BC4573: 1
+OEP_LateMinutes_56BC4573: 0
+OEP_LiftMinus_56BC4573: 0
+OEP_Tests_56BC4573: 0
+OEP_LiftPlus_56BC4573: 
+OEP_TotalPoints_56BC4573: 1200
+OEP_Eval_56BC4573: 0
+OEP_Participation_56BC4574: 1
+OEP_LateMinutes_56BC4574: 0
+OEP_LiftMinus_56BC4574: 0
+OEP_Tests_56BC4574: 0
+OEP_LiftPlus_56BC4574: 
+OEP_TotalPoints_56BC4574: 1200
+OEP_Eval_56BC4574: 0
+OEP_Participation_56BC4575: 1
+OEP_LateMinutes_56BC4575: 0
+OEP_LiftMinus_56BC4575: 0
+OEP_Tests_56BC4575: 0
+OEP_LiftPlus_56BC4575: 
+OEP_TotalPoints_56BC4575: 1200
+OEP_Eval_56BC4575: 0
+OEP_Comments: 
+
+<start of new project = 3-20192606164350>
+OEP_School: 71
+OEP_VolunteerOneWas: 
+OEP_VolunteerTwoWas: 
+OEP_Group: 71-1-M1
+OEP_Lesson: 16
+OEP_Date: 24.06.2019
+OEP_Topic: not defined
+OEP_Participation_56BC4567: 1
+OEP_LateMinutes_56BC4567: 0
+OEP_LiftMinus_56BC4567: 0
+OEP_Tests_56BC4567: 0
+OEP_LiftPlus_56BC4567: 
+OEP_TotalPoints_56BC4567: 1200
+OEP_Eval_56BC4567: 0
+OEP_Participation_56BC4570: 1
+OEP_LateMinutes_56BC4570: 0
+OEP_LiftMinus_56BC4570: 0
+OEP_Tests_56BC4570: 0
+OEP_LiftPlus_56BC4570: 
+OEP_TotalPoints_56BC4570: 1200
+OEP_Eval_56BC4570: 0
+OEP_Participation_56BC4571: 1
+OEP_LateMinutes_56BC4571: 0
+OEP_LiftMinus_56BC4571: 0
+OEP_Tests_56BC4571: 0
+OEP_LiftPlus_56BC4571: 
+OEP_TotalPoints_56BC4571: 1200
+OEP_Eval_56BC4571: 0
+OEP_Participation_56BC4573: 1
+OEP_LateMinutes_56BC4573: 0
+OEP_LiftMinus_56BC4573: 0
+OEP_Tests_56BC4573: 0
+OEP_LiftPlus_56BC4573: 
+OEP_TotalPoints_56BC4573: 1200
+OEP_Eval_56BC4573: 0
+OEP_Participation_56BC4575: 1
+OEP_LateMinutes_56BC4575: 0
+OEP_LiftMinus_56BC4575: 0
+OEP_Tests_56BC4575: 0
+OEP_LiftPlus_56BC4575: 
+OEP_TotalPoints_56BC4575: 1200
+OEP_Eval_56BC4575: 0
+OEP_Comments: 

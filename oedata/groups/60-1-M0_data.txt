@@ -1,0 +1,31 @@
+
+<start of new project = Sat Oct 26 16:52:12 2019>
+OEP_Created: Sat Oct 26 16:52:12 2019
+OEP_Editor: 8
+OEP_School: 60
+OEP_Group: 60-1-M0
+OEP_Traineer: Зауреш Накесбекова 
+OEP_VolunteerOne: Сагнай Оспанова 
+OEP_VolunteerOneCode: 54LD4738
+OEP_VolunteerTwo: Айдана Арыстанова 
+OEP_VolunteerTwoCode: 54LD4739
+OEP_StartDate: 26.10.2019
+OEP_FinishDate: 26.12.2019
+OEP_Paid: Paid
+OEP_Status: Active
+OEP_Calendar: 299, 300, 306, 307, 313, 314, 320, 321, 327, 328, 334, 335, 341, 342, 348, 349, 355, 356, 362, 363, 369
+OEP_TimeList: 10:00 -12:00<tab>10:00 - 12:00<tab>10:00 -12:00<tab>10:00 - 12:00<tab>10:00 -12:00<tab>10:00 - 12:00<tab>10:00 -12:00<tab>10:00 - 12:00<tab>10:00 -12:00<tab>10:00 - 12:00<tab>10:00 -12:00<tab>10:00 - 12:00<tab>10:00 -12:00<tab>10:00 - 12:00<tab>10:00 -12:00<tab>10:00 - 12:00<tab>10:00 -12:00<tab>10:00 - 12:00<tab>10:00 -12:00<tab>10:00 - 12:00<tab>10:00 -12:00
+OEP_MondayTime: 
+OEP_TuesdayTime: 
+OEP_WednesdayTime: 
+OEP_ThursdayTime: 
+OEP_FridayTime: 
+OEP_SaturdayTime: 10:00 -12:00
+OEP_SundayTime: 10:00 - 12:00
+OEP_Monday: 
+OEP_Tuesday: 
+OEP_Wednesday: 
+OEP_Thursday: 
+OEP_Friday: 
+OEP_Saturday: 1
+OEP_Sunday: 1

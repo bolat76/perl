@@ -1,0 +1,175 @@
+
+<start of new project = 5-20190707163215>
+OEP_School: 37
+OEP_Group: 37-4-M1
+OEP_Lesson: 1
+OEP_Date: 18.06.2019
+OEP_Topic: intro
+OEP_Participation_56BC4613: 1
+OEP_LateMinutes_56BC4613: 0
+OEP_LiftMinus_56BC4613: 0
+OEP_Tests_56BC4613: 0
+OEP_LiftPlus_56BC4613: 
+OEP_TotalPoints_56BC4613: 1200
+OEP_Eval_56BC4613: 0
+OEP_Participation_56BC4615: 1
+OEP_LateMinutes_56BC4615: 0
+OEP_LiftMinus_56BC4615: 0
+OEP_Tests_56BC4615: 0
+OEP_LiftPlus_56BC4615: 
+OEP_TotalPoints_56BC4615: 1200
+OEP_Eval_56BC4615: 0
+OEP_Participation_56BC4618: 1
+OEP_LateMinutes_56BC4618: 0
+OEP_LiftMinus_56BC4618: 0
+OEP_Tests_56BC4618: 0
+OEP_LiftPlus_56BC4618: 
+OEP_TotalPoints_56BC4618: 1200
+OEP_Eval_56BC4618: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707163301>
+OEP_School: 37
+OEP_Group: 37-4-M1
+OEP_Lesson: 2
+OEP_Date: 20.06.2019
+OEP_Topic: 2
+OEP_Participation_56BC4609: 1
+OEP_LateMinutes_56BC4609: 0
+OEP_LiftMinus_56BC4609: 0
+OEP_Tests_56BC4609: 0
+OEP_LiftPlus_56BC4609: 
+OEP_TotalPoints_56BC4609: 1200
+OEP_Eval_56BC4609: 0
+OEP_Participation_56BC4614: 1
+OEP_LateMinutes_56BC4614: 0
+OEP_LiftMinus_56BC4614: 0
+OEP_Tests_56BC4614: 0
+OEP_LiftPlus_56BC4614: 
+OEP_TotalPoints_56BC4614: 1200
+OEP_Eval_56BC4614: 0
+OEP_Participation_56BC4615: 1
+OEP_LateMinutes_56BC4615: 0
+OEP_LiftMinus_56BC4615: 0
+OEP_Tests_56BC4615: 0
+OEP_LiftPlus_56BC4615: 
+OEP_TotalPoints_56BC4615: 1200
+OEP_Eval_56BC4615: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707163651>
+OEP_School: 37
+OEP_Group: 37-4-M1
+OEP_Lesson: 3
+OEP_Date: 25.06.2019
+OEP_Topic: classroom
+OEP_Participation_56BC4613: 1
+OEP_LateMinutes_56BC4613: 0
+OEP_LiftMinus_56BC4613: 0
+OEP_Tests_56BC4613: 0
+OEP_LiftPlus_56BC4613: 
+OEP_TotalPoints_56BC4613: 1200
+OEP_Eval_56BC4613: 0
+OEP_Participation_56BC4614: 1
+OEP_LateMinutes_56BC4614: 0
+OEP_LiftMinus_56BC4614: 0
+OEP_Tests_56BC4614: 0
+OEP_LiftPlus_56BC4614: 
+OEP_TotalPoints_56BC4614: 1200
+OEP_Eval_56BC4614: 0
+OEP_Participation_56BC4618: 1
+OEP_LateMinutes_56BC4618: 0
+OEP_LiftMinus_56BC4618: 0
+OEP_Tests_56BC4618: 0
+OEP_LiftPlus_56BC4618: 
+OEP_TotalPoints_56BC4618: 1200
+OEP_Eval_56BC4618: 0
+OEP_Participation_56BC4701: 1
+OEP_LateMinutes_56BC4701: 0
+OEP_LiftMinus_56BC4701: 0
+OEP_Tests_56BC4701: 0
+OEP_LiftPlus_56BC4701: 
+OEP_TotalPoints_56BC4701: 1200
+OEP_Eval_56BC4701: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707163823>
+OEP_School: 37
+OEP_Group: 37-4-M1
+OEP_Lesson: 4
+OEP_Date: 07.07.2019
+OEP_Topic: can I have an orange jiuce?
+OEP_Participation_56BC4609: 1
+OEP_LateMinutes_56BC4609: 0
+OEP_LiftMinus_56BC4609: 0
+OEP_Tests_56BC4609: 0
+OEP_LiftPlus_56BC4609: 
+OEP_TotalPoints_56BC4609: 1200
+OEP_Eval_56BC4609: 0
+OEP_Participation_56BC4613: 1
+OEP_LateMinutes_56BC4613: 0
+OEP_LiftMinus_56BC4613: 0
+OEP_Tests_56BC4613: 0
+OEP_LiftPlus_56BC4613: 
+OEP_TotalPoints_56BC4613: 1200
+OEP_Eval_56BC4613: 0
+OEP_Participation_56BC4614: 1
+OEP_LateMinutes_56BC4614: 0
+OEP_LiftMinus_56BC4614: 0
+OEP_Tests_56BC4614: 0
+OEP_LiftPlus_56BC4614: 
+OEP_TotalPoints_56BC4614: 1200
+OEP_Eval_56BC4614: 0
+OEP_Participation_56BC4618: 1
+OEP_LateMinutes_56BC4618: 0
+OEP_LiftMinus_56BC4618: 0
+OEP_Tests_56BC4618: 0
+OEP_LiftPlus_56BC4618: 
+OEP_TotalPoints_56BC4618: 1200
+OEP_Eval_56BC4618: 0
+OEP_Participation_56BC4701: 1
+OEP_LateMinutes_56BC4701: 0
+OEP_LiftMinus_56BC4701: 0
+OEP_Tests_56BC4701: 0
+OEP_LiftPlus_56BC4701: 
+OEP_TotalPoints_56BC4701: 1200
+OEP_Eval_56BC4701: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707163950>
+OEP_School: 37
+OEP_Group: 37-4-M1
+OEP_Lesson: 5
+OEP_Date: 29.06.2019
+OEP_Topic: 5
+OEP_Participation_56BC4613: 1
+OEP_LateMinutes_56BC4613: 0
+OEP_LiftMinus_56BC4613: 0
+OEP_Tests_56BC4613: 0
+OEP_LiftPlus_56BC4613: 
+OEP_TotalPoints_56BC4613: 1200
+OEP_Eval_56BC4613: 0
+OEP_Participation_56BC4614: 1
+OEP_LateMinutes_56BC4614: 0
+OEP_LiftMinus_56BC4614: 0
+OEP_Tests_56BC4614: 0
+OEP_LiftPlus_56BC4614: 
+OEP_TotalPoints_56BC4614: 1200
+OEP_Eval_56BC4614: 0
+OEP_Participation_56BC4618: 1
+OEP_LateMinutes_56BC4618: 0
+OEP_LiftMinus_56BC4618: 0
+OEP_Tests_56BC4618: 0
+OEP_LiftPlus_56BC4618: 
+OEP_TotalPoints_56BC4618: 1200
+OEP_Eval_56BC4618: 0
+OEP_Comments: 
+
+<start of new project = 11-20190308101812>
+OEP_School: 37
+OEP_Group: 37-4-M1
+OEP_Lesson: 15
+OEP_Date: 01.08.2019
+OEP_Topic: Common adjectives 
+OEP_Comments: 
+

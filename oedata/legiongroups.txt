@@ -1,0 +1,3 @@
+1<tab>GRP1001<tab>Красная группа<tab>Active<tab>Sun Jul 28 20:15:48 2019<tab>reserve
+2<tab>GRP1002<tab>синяя группа<tab>Active<tab>Tue Aug 6 14:16:26 2019<tab>reserve
+3<tab>GRP1003<tab>Белая группа<tab>Active<tab>Tue Aug 6 14:20:24 2019<tab>reserve

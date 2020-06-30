@@ -1,0 +1,31 @@
+
+<start of new project = Mon Nov 4 00:22:36 2019>
+OEP_Created: Mon Nov 4 00:22:36 2019
+OEP_Editor: 8
+OEP_School: 85
+OEP_Group: 85-5-M2
+OEP_Traineer: Дамираш Урдашева 
+OEP_VolunteerOne: Аккун Муканова 
+OEP_VolunteerOneCode: 54LD4743
+OEP_VolunteerTwo: Аккун Муканова 
+OEP_VolunteerTwoCode: 54LD4743
+OEP_StartDate: 02.11.2019
+OEP_FinishDate: 04.01.2020
+OEP_Paid: Paid
+OEP_Status: Active
+OEP_Calendar: 306, 307, 313, 314, 320, 321, 327, 328, 334, 335, 341, 342, 348, 349, 355, 356, 362, 363, 369, 370, 376, 377, 383, 384, 390, 391, 397, 398, 404, 405, 411, 412, 418
+OEP_TimeList: 15:00 - 17:00<tab>15:00 -17:00<tab>15:00 - 17:00<tab>15:00 -17:00<tab>15:00 - 17:00<tab>15:00 -17:00<tab>15:00 - 17:00<tab>15:00 -17:00<tab>15:00 - 17:00<tab>15:00 -17:00<tab>15:00 - 17:00<tab>15:00 -17:00<tab>15:00 - 17:00<tab>15:00 -17:00<tab>15:00 - 17:00<tab>15:00 -17:00<tab>15:00 - 17:00<tab>15:00 -17:00<tab>15:00 - 17:00<tab>15:00 -17:00<tab>15:00 - 17:00<tab>15:00 -17:00<tab>15:00 - 17:00<tab>15:00 -17:00<tab>15:00 - 17:00<tab>15:00 -17:00<tab>15:00 - 17:00<tab>15:00 -17:00<tab>15:00 - 17:00<tab>15:00 -17:00<tab>15:00 - 17:00<tab>15:00 -17:00<tab>15:00 - 17:00
+OEP_MondayTime: 
+OEP_TuesdayTime: 
+OEP_WednesdayTime: 
+OEP_ThursdayTime: 
+OEP_FridayTime: 
+OEP_SaturdayTime: 15:00 - 17:00
+OEP_SundayTime: 15:00 -17:00
+OEP_Monday: 
+OEP_Tuesday: 
+OEP_Wednesday: 
+OEP_Thursday: 
+OEP_Friday: 
+OEP_Saturday: 1
+OEP_Sunday: 1

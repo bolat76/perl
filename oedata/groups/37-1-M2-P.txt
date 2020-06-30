@@ -1,0 +1,896 @@
+
+<start of new project = 5-20190707141554>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 1
+OEP_Date: 14.03.2019
+OEP_Topic: Intro
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 0
+OEP_LiftPlus_56BC4592: 
+OEP_TotalPoints_56BC4592: 1200
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4594: 1
+OEP_LateMinutes_56BC4594: 0
+OEP_LiftMinus_56BC4594: 0
+OEP_Tests_56BC4594: 0
+OEP_LiftPlus_56BC4594: 
+OEP_TotalPoints_56BC4594: 1200
+OEP_Eval_56BC4594: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707141614>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 1
+OEP_Date: 14.03.2019
+OEP_Topic: Intro
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 0
+OEP_LiftPlus_56BC4592: 
+OEP_TotalPoints_56BC4592: 1200
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4594: 1
+OEP_LateMinutes_56BC4594: 0
+OEP_LiftMinus_56BC4594: 0
+OEP_Tests_56BC4594: 0
+OEP_LiftPlus_56BC4594: 
+OEP_TotalPoints_56BC4594: 1200
+OEP_Eval_56BC4594: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707141747>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 2
+OEP_Date: 19.03.2019
+OEP_Topic: Me, my friends, and my family
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 0
+OEP_LiftPlus_56BC4592: 
+OEP_TotalPoints_56BC4592: 1200
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4594: 1
+OEP_LateMinutes_56BC4594: 0
+OEP_LiftMinus_56BC4594: 0
+OEP_Tests_56BC4594: 0
+OEP_LiftPlus_56BC4594: 
+OEP_TotalPoints_56BC4594: 1200
+OEP_Eval_56BC4594: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707142804>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 3
+OEP_Date: 21.03.2019
+OEP_Topic: my family
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 0
+OEP_LiftPlus_56BC4592: 
+OEP_TotalPoints_56BC4592: 1200
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707143710>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 4
+OEP_Date: 26.03.2019
+OEP_Topic: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707143739>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 4
+OEP_Date: 26.03.2019
+OEP_Topic: 0
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 0
+OEP_LiftPlus_56BC4592: 
+OEP_TotalPoints_56BC4592: 1200
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4594: 1
+OEP_LateMinutes_56BC4594: 0
+OEP_LiftMinus_56BC4594: 0
+OEP_Tests_56BC4594: 0
+OEP_LiftPlus_56BC4594: 
+OEP_TotalPoints_56BC4594: 1200
+OEP_Eval_56BC4594: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707144033>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 5
+OEP_Date: 28.03.2019
+OEP_Topic: summary
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4594: 1
+OEP_LateMinutes_56BC4594: 0
+OEP_LiftMinus_56BC4594: 0
+OEP_Tests_56BC4594: 0
+OEP_LiftPlus_56BC4594: 
+OEP_TotalPoints_56BC4594: 1200
+OEP_Eval_56BC4594: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707144610>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 6
+OEP_Date: 02.04.2019
+OEP_Topic: eating in, eating out
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 0
+OEP_LiftPlus_56BC4592: 
+OEP_TotalPoints_56BC4592: 1200
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4594: 1
+OEP_LateMinutes_56BC4594: 0
+OEP_LiftMinus_56BC4594: 0
+OEP_Tests_56BC4594: 0
+OEP_LiftPlus_56BC4594: 
+OEP_TotalPoints_56BC4594: 1200
+OEP_Eval_56BC4594: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707144807>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 7
+OEP_Date: 04.04.2019
+OEP_Topic: eating in, eating out
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4594: 1
+OEP_LateMinutes_56BC4594: 0
+OEP_LiftMinus_56BC4594: 0
+OEP_Tests_56BC4594: 0
+OEP_LiftPlus_56BC4594: 
+OEP_TotalPoints_56BC4594: 1200
+OEP_Eval_56BC4594: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707145054>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 8
+OEP_Date: 09.04.2019
+OEP_Topic: What are you doing now?
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 0
+OEP_LiftPlus_56BC4592: 
+OEP_TotalPoints_56BC4592: 1200
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707152131>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 9
+OEP_Date: 07.07.2019
+OEP_Topic: revision
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 0
+OEP_LiftPlus_56BC4592: 
+OEP_TotalPoints_56BC4592: 1200
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707153334>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 11
+OEP_Date: 07.07.2019
+OEP_Topic: Great Places to visit
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 0
+OEP_LiftPlus_56BC4592: 
+OEP_TotalPoints_56BC4592: 1200
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707154334>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 14
+OEP_Date: 30.04.2019
+OEP_Topic: getting there
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4594: 1
+OEP_LateMinutes_56BC4594: 0
+OEP_LiftMinus_56BC4594: 0
+OEP_Tests_56BC4594: 0
+OEP_LiftPlus_56BC4594: 
+OEP_TotalPoints_56BC4594: 1200
+OEP_Eval_56BC4594: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707154456>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 16
+OEP_Date: 2.04.2019
+OEP_Topic: revision
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 0
+OEP_LiftPlus_56BC4592: 
+OEP_TotalPoints_56BC4592: 1200
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4594: 1
+OEP_LateMinutes_56BC4594: 0
+OEP_LiftMinus_56BC4594: 0
+OEP_Tests_56BC4594: 0
+OEP_LiftPlus_56BC4594: 
+OEP_TotalPoints_56BC4594: 1200
+OEP_Eval_56BC4594: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707154720>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 17
+OEP_Date: 14.05.2019
+OEP_Topic: School rules
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 0
+OEP_LiftPlus_56BC4592: 
+OEP_TotalPoints_56BC4592: 1200
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4594: 1
+OEP_LateMinutes_56BC4594: 0
+OEP_LiftMinus_56BC4594: 0
+OEP_Tests_56BC4594: 0
+OEP_LiftPlus_56BC4594: 
+OEP_TotalPoints_56BC4594: 1200
+OEP_Eval_56BC4594: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707154849>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 18
+OEP_Date: 16.05.2019
+OEP_Topic: school rules
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 0
+OEP_LiftPlus_56BC4592: 
+OEP_TotalPoints_56BC4592: 1200
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4594: 1
+OEP_LateMinutes_56BC4594: 0
+OEP_LiftMinus_56BC4594: 0
+OEP_Tests_56BC4594: 0
+OEP_LiftPlus_56BC4594: 
+OEP_TotalPoints_56BC4594: 1200
+OEP_Eval_56BC4594: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707155406>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 19
+OEP_Date: 21.05.2019
+OEP_Topic: We had a great time
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 0
+OEP_LiftPlus_56BC4592: 
+OEP_TotalPoints_56BC4592: 1200
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707155522>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 20
+OEP_Date: 23.05.2019
+OEP_Topic: revision
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 0
+OEP_LiftPlus_56BC4592: 
+OEP_TotalPoints_56BC4592: 1200
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707155645>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 21
+OEP_Date: 28.05.2019
+OEP_Topic: what is on?
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 86
+OEP_LiftPlus_56BC4592: 360
+OEP_TotalPoints_56BC4592: 1560
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 88
+OEP_LiftPlus_56BC4593: 380
+OEP_TotalPoints_56BC4593: 1580
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4594: 1
+OEP_LateMinutes_56BC4594: 0
+OEP_LiftMinus_56BC4594: 0
+OEP_Tests_56BC4594: 88
+OEP_LiftPlus_56BC4594: 380
+OEP_TotalPoints_56BC4594: 1580
+OEP_Eval_56BC4594: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 86
+OEP_LiftPlus_56BC4595: 360
+OEP_TotalPoints_56BC4595: 1560
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707160045>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 22
+OEP_Date: 
+OEP_Topic: whats on
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 0
+OEP_LiftPlus_56BC4592: 
+OEP_TotalPoints_56BC4592: 1200
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4594: 1
+OEP_LateMinutes_56BC4594: 0
+OEP_LiftMinus_56BC4594: 0
+OEP_Tests_56BC4594: 0
+OEP_LiftPlus_56BC4594: 
+OEP_TotalPoints_56BC4594: 1200
+OEP_Eval_56BC4594: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707160231>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 23
+OEP_Date: 04.06.2019
+OEP_Topic: Are you an outdoors person>
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 0
+OEP_LiftPlus_56BC4592: 
+OEP_TotalPoints_56BC4592: 1200
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4594: 1
+OEP_LateMinutes_56BC4594: 0
+OEP_LiftMinus_56BC4594: 0
+OEP_Tests_56BC4594: 0
+OEP_LiftPlus_56BC4594: 
+OEP_TotalPoints_56BC4594: 1200
+OEP_Eval_56BC4594: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707160326>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 24
+OEP_Date: 07.07.2019
+OEP_Topic: Are you outdoors person
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 0
+OEP_LiftPlus_56BC4592: 
+OEP_TotalPoints_56BC4592: 1200
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4594: 1
+OEP_LateMinutes_56BC4594: 0
+OEP_LiftMinus_56BC4594: 0
+OEP_Tests_56BC4594: 0
+OEP_LiftPlus_56BC4594: 
+OEP_TotalPoints_56BC4594: 1200
+OEP_Eval_56BC4594: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707160418>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 25
+OEP_Date: 11.06.2019
+OEP_Topic: revision
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 0
+OEP_LiftPlus_56BC4592: 
+OEP_TotalPoints_56BC4592: 1200
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4594: 1
+OEP_LateMinutes_56BC4594: 0
+OEP_LiftMinus_56BC4594: 0
+OEP_Tests_56BC4594: 0
+OEP_LiftPlus_56BC4594: 
+OEP_TotalPoints_56BC4594: 1200
+OEP_Eval_56BC4594: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707160537>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 26
+OEP_Date: 13.06.2019
+OEP_Topic: Health and illness
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 0
+OEP_LiftPlus_56BC4592: 
+OEP_TotalPoints_56BC4592: 1200
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4594: 1
+OEP_LateMinutes_56BC4594: 0
+OEP_LiftMinus_56BC4594: 0
+OEP_Tests_56BC4594: 0
+OEP_LiftPlus_56BC4594: 
+OEP_TotalPoints_56BC4594: 1200
+OEP_Eval_56BC4594: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707160740>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 27
+OEP_Date: 15.06.2019
+OEP_Topic: 1
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 0
+OEP_LiftPlus_56BC4592: 
+OEP_TotalPoints_56BC4592: 1200
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4594: 1
+OEP_LateMinutes_56BC4594: 0
+OEP_LiftMinus_56BC4594: 0
+OEP_Tests_56BC4594: 0
+OEP_LiftPlus_56BC4594: 
+OEP_TotalPoints_56BC4594: 1200
+OEP_Eval_56BC4594: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707161008>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 28
+OEP_Date: 
+OEP_Topic: healthy body
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 0
+OEP_LiftPlus_56BC4592: 
+OEP_TotalPoints_56BC4592: 1200
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4594: 1
+OEP_LateMinutes_56BC4594: 0
+OEP_LiftMinus_56BC4594: 0
+OEP_Tests_56BC4594: 0
+OEP_LiftPlus_56BC4594: 
+OEP_TotalPoints_56BC4594: 1200
+OEP_Eval_56BC4594: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707161056>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 29
+OEP_Date: 25.06.2019
+OEP_Topic: Technology and me
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 0
+OEP_LiftPlus_56BC4592: 
+OEP_TotalPoints_56BC4592: 1200
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 0
+OEP_LiftPlus_56BC4593: 
+OEP_TotalPoints_56BC4593: 1200
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4594: 1
+OEP_LateMinutes_56BC4594: 0
+OEP_LiftMinus_56BC4594: 0
+OEP_Tests_56BC4594: 0
+OEP_LiftPlus_56BC4594: 
+OEP_TotalPoints_56BC4594: 1200
+OEP_Eval_56BC4594: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 0
+OEP_LiftPlus_56BC4595: 
+OEP_TotalPoints_56BC4595: 1200
+OEP_Eval_56BC4595: 0
+OEP_Comments: 
+
+<start of new project = 5-20190707161259>
+OEP_School: 37
+OEP_Group: 37-2-M2
+OEP_Lesson: 30
+OEP_Date: 07.07.2019
+OEP_Topic: Technology and me 
+OEP_Participation_56BC4592: 1
+OEP_LateMinutes_56BC4592: 0
+OEP_LiftMinus_56BC4592: 0
+OEP_Tests_56BC4592: 76
+OEP_LiftPlus_56BC4592: 260
+OEP_TotalPoints_56BC4592: 1460
+OEP_Eval_56BC4592: 0
+OEP_Participation_56BC4593: 1
+OEP_LateMinutes_56BC4593: 0
+OEP_LiftMinus_56BC4593: 0
+OEP_Tests_56BC4593: 73
+OEP_LiftPlus_56BC4593: 230
+OEP_TotalPoints_56BC4593: 1430
+OEP_Eval_56BC4593: 0
+OEP_Participation_56BC4594: 1
+OEP_LateMinutes_56BC4594: 0
+OEP_LiftMinus_56BC4594: 0
+OEP_Tests_56BC4594: 95
+OEP_LiftPlus_56BC4594: 450
+OEP_TotalPoints_56BC4594: 1650
+OEP_Eval_56BC4594: 0
+OEP_Participation_56BC4595: 1
+OEP_LateMinutes_56BC4595: 0
+OEP_LiftMinus_56BC4595: 0
+OEP_Tests_56BC4595: 81
+OEP_LiftPlus_56BC4595: 310
+OEP_TotalPoints_56BC4595: 1510
+OEP_Eval_56BC4595: 0
+OEP_Comments: 

@@ -1,0 +1,8 @@
+1<tab>56BC4703<tab>99-10-M2<tab><tab><tab><tab><tab>reserve
+2<tab>56BC4704<tab>98-1-M1<tab><tab><tab><tab><tab>reserve
+3<tab>56BC4706<tab>99-1-M1<tab><tab><tab><tab><tab>reserve
+4<tab>56BC4707<tab>99-1-M1<tab><tab><tab><tab><tab>reserve
+5<tab>56BC4708<tab>99-1-M1<tab><tab><tab><tab><tab>reserve
+6<tab>56BC4709<tab>99-10-M2<tab><tab><tab><tab><tab>reserve
+7<tab>56BC4710<tab>98-1-M1<tab><tab><tab><tab><tab>reserve
+8<tab>56BC4711<tab>99-1-M1<tab><tab><tab><tab><tab>reserve

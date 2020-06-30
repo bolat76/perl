@@ -1,0 +1,4 @@
+1<tab>56BC4592<tab>37-2-M2<tab>14.04.2019<tab>27.06.2019<tab><tab><tab>Paid<tab>Paid<tab>Free<tab>Free<tab>reserve
+2<tab>56BC4593<tab>37-2-M2<tab>06.07.2019<tab>05.05.2019<tab>10.06.2019<tab>06.07.2019<tab>reserve
+3<tab>56BC4594<tab>37-2-M2<tab>17.05.2019<tab>09.07.2019<tab><tab><tab>Paid<tab>Paid<tab>Free<tab>Free<tab>reserve
+4<tab>56BC4595<tab>37-2-M2<tab>14.04.2019<tab>07.05.2019<tab>03.06.2019<tab>08.07.2019<tab>reserve

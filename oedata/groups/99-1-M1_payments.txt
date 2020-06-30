@@ -1,0 +1,4 @@
+1<tab>56BC4706<tab>99-1-M1<tab>17.07.2019<tab><tab><tab><tab>reserve
+2<tab>56BC4707<tab>99-1-M1<tab>15.07.2019<tab><tab><tab><tab>reserve
+3<tab>56BC4708<tab>99-1-M1<tab><tab><tab><tab><tab>Free<tab>reserve
+4<tab>56BC4711<tab>99-1-M1<tab>18.07.2019<tab><tab><tab><tab>reserve

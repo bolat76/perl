@@ -1,0 +1,279 @@
+
+<start of new project = 3-20192606151019>
+OEP_School: 84
+OEP_Group: 84-5-M2
+OEP_Lesson: 1
+OEP_Date: 17.06.2019
+OEP_Topic: My family, my friends and me
+OEP_Participation_56BC4692: 1
+OEP_LateMinutes_56BC4692: 0
+OEP_LiftMinus_56BC4692: 0
+OEP_Tests_56BC4692: 0
+OEP_LiftPlus_56BC4692: 
+OEP_TotalPoints_56BC4692: 1200
+OEP_Eval_56BC4692: 0
+OEP_Participation_56BC4693: 1
+OEP_LateMinutes_56BC4693: 0
+OEP_LiftMinus_56BC4693: 0
+OEP_Tests_56BC4693: 0
+OEP_LiftPlus_56BC4693: 
+OEP_TotalPoints_56BC4693: 1200
+OEP_Eval_56BC4693: 0
+OEP_Participation_56BC4695: 1
+OEP_LateMinutes_56BC4695: 0
+OEP_LiftMinus_56BC4695: 0
+OEP_Tests_56BC4695: 0
+OEP_LiftPlus_56BC4695: 
+OEP_TotalPoints_56BC4695: 1200
+OEP_Eval_56BC4695: 0
+OEP_Participation_56BC4696: 1
+OEP_LateMinutes_56BC4696: 0
+OEP_LiftMinus_56BC4696: 0
+OEP_Tests_56BC4696: 0
+OEP_LiftPlus_56BC4696: 
+OEP_TotalPoints_56BC4696: 1200
+OEP_Eval_56BC4696: 0
+OEP_Participation_56BC4697: 1
+OEP_LateMinutes_56BC4697: 0
+OEP_LiftMinus_56BC4697: 0
+OEP_Tests_56BC4697: 0
+OEP_LiftPlus_56BC4697: 
+OEP_TotalPoints_56BC4697: 1200
+OEP_Eval_56BC4697: 0
+OEP_Participation_56BC4698: 1
+OEP_LateMinutes_56BC4698: 0
+OEP_LiftMinus_56BC4698: 0
+OEP_Tests_56BC4698: 0
+OEP_LiftPlus_56BC4698: 
+OEP_TotalPoints_56BC4698: 1200
+OEP_Eval_56BC4698: 0
+OEP_Participation_56BC4699: 1
+OEP_LateMinutes_56BC4699: 0
+OEP_LiftMinus_56BC4699: 0
+OEP_Tests_56BC4699: 0
+OEP_LiftPlus_56BC4699: 
+OEP_TotalPoints_56BC4699: 1200
+OEP_Eval_56BC4699: 0
+OEP_Comments: Ученики знают тему лучше чем ожидалось.<br>понравились ученикам - устный перевод на английский. <br>проблемы нет.<br>не получилось - Работа с книгой была ограничена, у учеников нет учебников.
+
+<start of new project = 3-20192606151321>
+OEP_School: 84
+OEP_Group: 84-5-M2
+OEP_Lesson: 2
+OEP_Date: 19.06.2019
+OEP_Topic: My family, my friends and me
+OEP_Participation_56BC4692: 1
+OEP_LateMinutes_56BC4692: 18
+OEP_LiftMinus_56BC4692: 180
+OEP_Tests_56BC4692: 0
+OEP_LiftPlus_56BC4692: 
+OEP_TotalPoints_56BC4692: 1020
+OEP_Eval_56BC4692: 0
+OEP_Participation_56BC4693: 1
+OEP_LateMinutes_56BC4693: 0
+OEP_LiftMinus_56BC4693: 0
+OEP_Tests_56BC4693: 0
+OEP_LiftPlus_56BC4693: 
+OEP_TotalPoints_56BC4693: 1200
+OEP_Eval_56BC4693: 0
+OEP_Participation_56BC4694: 1
+OEP_LateMinutes_56BC4694: 0
+OEP_LiftMinus_56BC4694: 0
+OEP_Tests_56BC4694: 0
+OEP_LiftPlus_56BC4694: 
+OEP_TotalPoints_56BC4694: 1200
+OEP_Eval_56BC4694: 0
+OEP_Participation_56BC4695: 1
+OEP_LateMinutes_56BC4695: 0
+OEP_LiftMinus_56BC4695: 0
+OEP_Tests_56BC4695: 0
+OEP_LiftPlus_56BC4695: 
+OEP_TotalPoints_56BC4695: 1200
+OEP_Eval_56BC4695: 0
+OEP_Participation_56BC4696: 1
+OEP_LateMinutes_56BC4696: 0
+OEP_LiftMinus_56BC4696: 0
+OEP_Tests_56BC4696: 0
+OEP_LiftPlus_56BC4696: 
+OEP_TotalPoints_56BC4696: 1200
+OEP_Eval_56BC4696: 0
+OEP_Participation_56BC4697: 1
+OEP_LateMinutes_56BC4697: 0
+OEP_LiftMinus_56BC4697: 0
+OEP_Tests_56BC4697: 0
+OEP_LiftPlus_56BC4697: 
+OEP_TotalPoints_56BC4697: 1200
+OEP_Eval_56BC4697: 0
+OEP_Participation_56BC4699: 1
+OEP_LateMinutes_56BC4699: 0
+OEP_LiftMinus_56BC4699: 0
+OEP_Tests_56BC4699: 0
+OEP_LiftPlus_56BC4699: 
+OEP_TotalPoints_56BC4699: 1200
+OEP_Eval_56BC4699: 0
+OEP_Comments: понравились ученикам - Listening to a song and filling in the blanks in lyrics
+
+<start of new project = 3-20192606151544>
+OEP_School: 84
+OEP_Group: 84-5-M2
+OEP_Lesson: 3
+OEP_Date: 21.06.2019
+OEP_Topic: In my free time
+OEP_Participation_56BC4692: 1
+OEP_LateMinutes_56BC4692: 4
+OEP_LiftMinus_56BC4692: 40
+OEP_Tests_56BC4692: 0
+OEP_LiftPlus_56BC4692: 
+OEP_TotalPoints_56BC4692: 1160
+OEP_Eval_56BC4692: 0
+OEP_Participation_56BC4695: 1
+OEP_LateMinutes_56BC4695: 0
+OEP_LiftMinus_56BC4695: 0
+OEP_Tests_56BC4695: 0
+OEP_LiftPlus_56BC4695: 
+OEP_TotalPoints_56BC4695: 1200
+OEP_Eval_56BC4695: 0
+OEP_Participation_56BC4697: 1
+OEP_LateMinutes_56BC4697: 0
+OEP_LiftMinus_56BC4697: 0
+OEP_Tests_56BC4697: 0
+OEP_LiftPlus_56BC4697: 
+OEP_TotalPoints_56BC4697: 1200
+OEP_Eval_56BC4697: 0
+OEP_Participation_56BC4699: 1
+OEP_LateMinutes_56BC4699: 0
+OEP_LiftMinus_56BC4699: 0
+OEP_Tests_56BC4699: 0
+OEP_LiftPlus_56BC4699: 
+OEP_TotalPoints_56BC4699: 1200
+OEP_Eval_56BC4699: 0
+OEP_Comments: понравились ученикам - Hangman game
+
+<start of new project = 3-20192606151729>
+OEP_School: 84
+OEP_Group: 84-5-M2
+OEP_Lesson: 4
+OEP_Date: 24.06.2019
+OEP_Topic: In my free time
+OEP_Participation_56BC4693: 1
+OEP_LateMinutes_56BC4693: 0
+OEP_LiftMinus_56BC4693: 0
+OEP_Tests_56BC4693: 0
+OEP_LiftPlus_56BC4693: 
+OEP_TotalPoints_56BC4693: 1200
+OEP_Eval_56BC4693: 0
+OEP_Participation_56BC4694: 1
+OEP_LateMinutes_56BC4694: 0
+OEP_LiftMinus_56BC4694: 0
+OEP_Tests_56BC4694: 0
+OEP_LiftPlus_56BC4694: 
+OEP_TotalPoints_56BC4694: 1200
+OEP_Eval_56BC4694: 0
+OEP_Participation_56BC4695: 1
+OEP_LateMinutes_56BC4695: 0
+OEP_LiftMinus_56BC4695: 0
+OEP_Tests_56BC4695: 0
+OEP_LiftPlus_56BC4695: 
+OEP_TotalPoints_56BC4695: 1200
+OEP_Eval_56BC4695: 0
+OEP_Participation_56BC4697: 1
+OEP_LateMinutes_56BC4697: 0
+OEP_LiftMinus_56BC4697: 0
+OEP_Tests_56BC4697: 0
+OEP_LiftPlus_56BC4697: 
+OEP_TotalPoints_56BC4697: 1200
+OEP_Eval_56BC4697: 0
+OEP_Participation_56BC4699: 1
+OEP_LateMinutes_56BC4699: 3
+OEP_LiftMinus_56BC4699: 30
+OEP_Tests_56BC4699: 0
+OEP_LiftPlus_56BC4699: 
+OEP_TotalPoints_56BC4699: 1170
+OEP_Eval_56BC4699: 0
+OEP_Comments: 
+
+<start of new project = 13-20190107183452>
+OEP_School: 84
+OEP_Group: 84-5-M2
+OEP_Lesson: 7
+OEP_Date: 01.07.2019
+OEP_Topic: Present Continuous
+OEP_Participation_56BC4693: 1
+OEP_LateMinutes_56BC4693: 0
+OEP_LiftMinus_56BC4693: 0
+OEP_Tests_56BC4693: 0
+OEP_LiftPlus_56BC4693: 
+OEP_TotalPoints_56BC4693: 1200
+OEP_Eval_56BC4693: 8
+OEP_Participation_56BC4694: 1
+OEP_LateMinutes_56BC4694: 0
+OEP_LiftMinus_56BC4694: 0
+OEP_Tests_56BC4694: 0
+OEP_LiftPlus_56BC4694: 
+OEP_TotalPoints_56BC4694: 1200
+OEP_Eval_56BC4694: 7
+OEP_Participation_56BC4695: 1
+OEP_LateMinutes_56BC4695: 0
+OEP_LiftMinus_56BC4695: 0
+OEP_Tests_56BC4695: 0
+OEP_LiftPlus_56BC4695: 
+OEP_TotalPoints_56BC4695: 1200
+OEP_Eval_56BC4695: 8
+OEP_Participation_56BC4697: 1
+OEP_LateMinutes_56BC4697: 0
+OEP_LiftMinus_56BC4697: 0
+OEP_Tests_56BC4697: 0
+OEP_LiftPlus_56BC4697: 
+OEP_TotalPoints_56BC4697: 1200
+OEP_Eval_56BC4697: 7
+OEP_Participation_56BC4699: 1
+OEP_LateMinutes_56BC4699: 0
+OEP_LiftMinus_56BC4699: 0
+OEP_Tests_56BC4699: 0
+OEP_LiftPlus_56BC4699: 
+OEP_TotalPoints_56BC4699: 1200
+OEP_Eval_56BC4699: 7
+OEP_Comments: 
+
+<start of new project = 13-20190307095441>
+OEP_School: 84
+OEP_Group: 84-5-M2
+OEP_Lesson: 8
+OEP_Date: 03.07.2019
+OEP_Topic: Коучинг
+OEP_Participation_56BC4693: 1
+OEP_LateMinutes_56BC4693: 0
+OEP_LiftMinus_56BC4693: 0
+OEP_Tests_56BC4693: 0
+OEP_LiftPlus_56BC4693: 
+OEP_TotalPoints_56BC4693: 1200
+OEP_Eval_56BC4693: 0
+OEP_Participation_56BC4694: 1
+OEP_LateMinutes_56BC4694: 0
+OEP_LiftMinus_56BC4694: 0
+OEP_Tests_56BC4694: 0
+OEP_LiftPlus_56BC4694: 
+OEP_TotalPoints_56BC4694: 1200
+OEP_Eval_56BC4694: 0
+OEP_Participation_56BC4695: 1
+OEP_LateMinutes_56BC4695: 0
+OEP_LiftMinus_56BC4695: 0
+OEP_Tests_56BC4695: 0
+OEP_LiftPlus_56BC4695: 
+OEP_TotalPoints_56BC4695: 1200
+OEP_Eval_56BC4695: 0
+OEP_Participation_56BC4697: 1
+OEP_LateMinutes_56BC4697: 0
+OEP_LiftMinus_56BC4697: 0
+OEP_Tests_56BC4697: 0
+OEP_LiftPlus_56BC4697: 
+OEP_TotalPoints_56BC4697: 1200
+OEP_Eval_56BC4697: 0
+OEP_Participation_56BC4699: 1
+OEP_LateMinutes_56BC4699: 3
+OEP_LiftMinus_56BC4699: 30
+OEP_Tests_56BC4699: 0
+OEP_LiftPlus_56BC4699: 
+OEP_TotalPoints_56BC4699: 1170
+OEP_Eval_56BC4699: 0
+OEP_Comments: 

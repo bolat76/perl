@@ -1,0 +1,31 @@
+
+<start of new project = Mon Nov 4 20:18:46 2019>
+OEP_Created: Mon Nov 4 20:18:46 2019
+OEP_Editor: 8
+OEP_School: 85
+OEP_Group: 85-3-M0
+OEP_Traineer: Дамираш Урдашева 
+OEP_VolunteerOne: Дария Манапова 
+OEP_VolunteerOneCode: 54LD4740
+OEP_VolunteerTwo: Дария Манапова 
+OEP_VolunteerTwoCode: 54LD4740
+OEP_StartDate: 27.10.2019
+OEP_FinishDate: 30.12.2019
+OEP_Paid: Paid
+OEP_Status: Active
+OEP_Calendar: 300, 306, 307, 313, 314, 320, 321, 327, 328, 334, 335, 341, 342, 348, 349, 355, 356, 362, 363, 369, 370
+OEP_TimeList: 10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00
+OEP_MondayTime: 
+OEP_TuesdayTime: 
+OEP_WednesdayTime: 
+OEP_ThursdayTime: 
+OEP_FridayTime: 
+OEP_SaturdayTime: 10:00 - 12:00
+OEP_SundayTime: 10:00 - 12:00
+OEP_Monday: 
+OEP_Tuesday: 
+OEP_Wednesday: 
+OEP_Thursday: 
+OEP_Friday: 
+OEP_Saturday: 1
+OEP_Sunday: 1

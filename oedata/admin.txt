@@ -1,0 +1,13 @@
+
+<p> </p>
+<table bgcolor = Silver cellpadding='7' border='2'>
+<tr><td align='center'><a href='http://accelerator.kvadra.kz/cgi-bin/leader.cgi'>[РЕДАКТИРОВАТЬ ДАННЫЕ ВОЛОНТЕРОВ]</a></td>
+<td align = 'center'><a href = 'http://accelerator.kvadra.kz/cgi-bin/stat.cgi'>[ ОТЧЕТЫ УЧЕНИКОВ ]</a></td>
+<td align='center'><a href='http://accelerator.kvadra.kz/cgi-bin/trainer.cgi'>[РЕДАКТИРОВАТЬ ДАННЫЕ ТРЕНЕРОВ]</a></td></tr>
+<tr><td align='center'><a href='http://accelerator.kvadra.kz/cgi-bin/candidates.cgi'>[РЕДАКТИРОВАТЬ СТАТУС КАНДИДАТОВ]</a></td>
+<td align='center'><a href='http://accelerator.kvadra.kz/cgi-bin/paydata.cgi'>[ ОПЛАТА УЧЕНИКОВ ]</a></td>
+<td align='center'><a href='http://accelerator.kvadra.kz/cgi-bin/schoolpay.cgi'>[ ОПЛАТА В РАЗРЕЗЕ ШКОЛ ]</a></td></tr>
+<tr><td align='center'><a href='http://accelerator.kvadra.kz/cgi-bin/student.cgi'>[РЕДАКТИРОВАТЬ ДАННЫЕ УЧЕНИКОВ]</a></td>
+<td align = 'center'><a href='http://accelerator.kvadra.kz/cgi-bin/read.cgi?list=soclift'>[ БАЛЛЫ УЧЕНИКОВ ]</a></td>
+<td align='center'><a href='http://accelerator.kvadra.kz/cgi-bin/parent.cgi'>[РЕДАКТИРОВАТЬ ДАННЫЕ РОДИТЕЛЕЙ]</a></td></tr></table>
+<p> </p>

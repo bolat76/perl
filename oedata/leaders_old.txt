@@ -1,0 +1,26 @@
+1<tab>54LD4703<tab>Ади<tab>Нурлыбаев<tab><tab>america<tab>71<tab>71-2-M2<tab>87779994906<tab>nurlybayev.adi@gmail.com<tab>25.07.2019<tab><tab>Male<tab><tab><tab><tab>reserve
+2<tab>54LD4704<tab>Ainur<tab>Shakenova<tab><tab>america<tab><tab><tab><tab><tab>19.06.19<tab>reserve
+3<tab>54LD4705<tab>Болатхан<tab>Джайдаринов<tab><tab>america<tab><tab><tab>8 777 277 0326<tab>b.jaidarinov@gmail.com<tab>25.07.2019<tab>12.07.1976<tab>Male<tab>85 room<tab>1233333<tab>12341556688<tab>reserve
+4<tab>54LD4706<tab>Murager<tab>Sharipkanov<tab><tab>america<tab><tab><tab><tab><tab>19.06.19<tab>reserve
+5<tab>54LD4707<tab>Камила<tab>Ажигулова<tab><tab>america<tab>37<tab>37-2-M2<tab>87019445365<tab>azhigulova.k@nisa.edu.kz<tab>25.07.2019<tab><tab><tab><tab><tab><tab>reserve
+6<tab>54LD4708<tab>Ludmila<tab>Burlachenko<tab><tab>america<tab><tab><tab><tab>burlachenko@bk.ru<tab>19.06.19<tab>reserve
+7<tab>54LD4709<tab>Мерей<tab>Ауелбек<tab><tab>america<tab><tab><tab><tab>mereyauelbek@gmail.com<tab>19.06.2019<tab>reserve
+8<tab>54LD4710<tab>Милана<tab>Рогатинская<tab><tab>america<tab>37<tab>37-5-M2<tab>87027632713<tab>jourlana.m@gmail.com<tab>25.07.2019<tab><tab><tab><tab><tab><tab>reserve
+9<tab>54LD4711<tab>Тамила<tab>Каримова<tab><tab>america<tab><tab><tab><tab><tab>25.07.2019<tab>reserve
+10<tab>54LD4712<tab>Aigul<tab>Kurmangaliyeva<tab><tab>america<tab><tab><tab><tab><tab>19.06.19<tab>reserve
+11<tab>54LD4713<tab>Аружан<tab>Курманай<tab><tab>america<tab><tab><tab><tab>kurmanai.a@nisa.edu.kz<tab>19.06.2019<tab>reserve
+12<tab>54LD4714<tab>Astan<tab>Makhmet<tab><tab>america<tab><tab><tab><tab><tab>19.06.19<tab>reserve
+13<tab>54LD4715<tab>Жулдыз<tab>Есова<tab><tab>america<tab>37<tab>37-3-M0<tab>87087514458<tab>zhuzi.01.kz@gmail.com<tab>25.07.2019<tab><tab>Female<tab><tab><tab><tab>reserve
+14<tab>54LD4716<tab>Erlan<tab>Ermagambetov<tab><tab>america<tab><tab><tab><tab><tab>19.06.19<tab>reserve
+15<tab>54LD4717<tab>Галымжан<tab>Маркс<tab><tab>america<tab>84<tab>84-2-M1<tab>87777581840<tab>galymzhan.marx@gmail.com<tab>25.07.2019<tab><tab>Male<tab><tab><tab><tab>reserve
+16<tab>54LD4718<tab>Луиза<tab>Айткожа<tab><tab>america<tab>84<tab>84-1-M1<tab>87054031515<tab>Luizaaitk@gmail.com<tab>25.07.2019<tab><tab>Female<tab><tab><tab><tab>reserve
+17<tab>54LD4719<tab>Meruert<tab>Aitzhanova<tab><tab>america<tab><tab><tab><tab><tab>19.06.19<tab>reserve
+18<tab>54LD4720<tab>Нурмухаммед<tab>Баядилов<tab><tab>america<tab>85<tab>85-1-M2<tab>87019298851<tab>Nureked1@gmail.com<tab>25.07.2019<tab><tab>Male<tab><tab><tab><tab>reserve
+19<tab>54LD4721<tab>Syrym<tab>Serikov<tab><tab>america<tab><tab><tab><tab><tab>19.06.19<tab>reserve
+20<tab>54LD4722<tab>Ziyada<tab>Bakhytkalieva<tab><tab>america<tab><tab><tab><tab><tab>19.06.19<tab>reserve
+21<tab>54LD4723<tab>Madina<tab>Imankarina<tab><tab>america<tab>84<tab>84-4-M0<tab>87082835766<tab>i.madina99@mail.ru<tab>26.07.2019<tab><tab>Female<tab><tab><tab><tab>reserve
+22<tab>54LD4724<tab>София<tab>Тен<tab><tab>america<tab>85<tab>85-1-M2<tab>87753059650<tab>sonya_ten@list.ru<tab>25.07.2019<tab><tab>Female<tab><tab><tab><tab>reserve
+23<tab>54LD4725<tab>Анара<tab>Байдулла<tab><tab>america<tab>75<tab>75-1-M1<tab>87784987788<tab>anara.baidulla@bk.ru<tab>25.07.2019<tab><tab>Female<tab><tab><tab><tab>reserve
+24<tab>54LD4726<tab>Аружан<tab>Айдарбек<tab><tab>america<tab>85<tab>85-1-M2<tab>87475894959<tab>aruzhanaidarbekova@yandex.ru<tab>25.07.2019<tab><tab>Female<tab><tab><tab><tab>reserve
+25<tab>54LD4727<tab>Нагимаш<tab>Аскергали<tab><tab>america<tab>70<tab>70-1-M1<tab>87767100801<tab>askergali.n@nisa.edu.kz<tab>25.07.2019<tab><tab>Female<tab><tab><tab><tab>reserve
+26<tab>54LD4728<tab>Айганым<tab>Рашит<tab><tab>america<tab>70<tab>70-1-M1<tab>87761259151<tab>aiganymr@list.ru<tab>25.07.2019<tab><tab>Female<tab><tab><tab><tab>reserve

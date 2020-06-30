@@ -1,0 +1,23 @@
+<html lang="ru"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="ru" />
+<style>
+    body { 
+        font-size: 30pt; 
+    }
+    a {
+        font-size: 30pt; 
+   }
+    p {
+        font-size: 30pt; 
+   }
+    caption {
+        font-size: 30pt; 
+    }   
+    td {
+        font-size: 30pt; 
+    }     
+</style>
+<title>
+ - Open English Project</title></head><body><center>
+

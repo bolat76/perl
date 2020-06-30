@@ -1,0 +1,28 @@
+
+<start of new project = Tue Sep 17 13:30:23 2019>
+LEG_Created: Tue Sep 17 13:30:23 2019
+LEG_Creator: 3
+LEG_LastEdited: Tue Sep 17 16:07:45 2019
+LEG_Editor: 3
+LEG_Description: Красная группа
+LEG_Status: Active
+LEG_Course: Новый поток Запад
+LEG_Traineer: Милана Рогатинская
+LEG_Group: GRP1001
+LEG_StartDate: 18.09.2019
+LEG_DayOne: 18.09.2019
+LEG_DayTwo: 20.09.2019
+LEG_DayThree: 23.09.2019
+LEG_DayFour: 25.09.2019
+LEG_DayFive: 27.09.2019
+LEG_DaySix: 30.09.2019
+LEG_CouchDay: 02.10.2019
+LEG_TestDay: 04.10.2019
+LEG_TimeOne: 15:00
+LEG_TimeTwo: 15:00
+LEG_TimeThree: 15:00
+LEG_TimeFour: 15:00
+LEG_TimeFive: 15:00
+LEG_TimeSix: 15:00
+LEG_CouchTime: 15:00
+LEG_TestTime: 15:00

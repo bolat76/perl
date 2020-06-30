@@ -1,0 +1,31 @@
+
+<start of new project = Fri Oct 4 15:45:31 2019>
+OEP_Created: Fri Oct 4 15:45:31 2019
+OEP_Editor: 8
+OEP_School: 84
+OEP_Group: 84-4-M0
+OEP_Traineer: Merei Auelbek
+OEP_VolunteerOne: Madina Imankarina 
+OEP_VolunteerOneCode: 54LD4723
+OEP_VolunteerTwo: Madina Imankarina 
+OEP_VolunteerTwoCode: 54LD4723
+OEP_StartDate: 17.06.2019
+OEP_FinishDate: 26.07.2019
+OEP_Paid: Paid
+OEP_Status: Finished
+OEP_Calendar: 168, 170, 172, 175, 177, 179, 182, 184, 186, 189, 191, 193, 196, 198, 200, 203, 205, 207, 257, 257, 257
+OEP_TimeList: 9:30-11:30<tab>9:30-11:30<tab>9:30-11:30<tab>9:30-11:30<tab>9:30-11:30<tab>9:30-11:30<tab>9:30-11:30<tab>9:30-11:30<tab>9:30-11:30<tab>9:30-11:30<tab>9:30-11:30<tab>9:30-11:30<tab>9:30-11:30<tab>9:30-11:30<tab>9:30-11:30<tab>9:30-11:30<tab>9:30-11:30<tab>9:30-11:30<tab><tab><tab>
+OEP_MondayTime: 9:30-11:30
+OEP_TuesdayTime: 
+OEP_WednesdayTime: 9:30-11:30
+OEP_ThursdayTime: 
+OEP_FridayTime: 9:30-11:30
+OEP_SaturdayTime: 
+OEP_SundayTime: 
+OEP_Monday: 1
+OEP_Tuesday: 
+OEP_Wednesday: 1
+OEP_Thursday: 
+OEP_Friday: 1
+OEP_Saturday: 
+OEP_Sunday: 

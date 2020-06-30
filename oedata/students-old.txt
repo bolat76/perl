@@ -1,0 +1,226 @@
+1<tab>56BC4567<tab>Томирис<tab>Төленді<tab><tab>71<tab>71-1-M1<tab>reserve
+2<tab>56BC4568<tab>Айсана<tab>Тамабаева<tab><tab>71<tab>71-1-M1<tab>reserve
+3<tab>56BC4569<tab>Мансия<tab>Шәкір<tab><tab>71<tab>71-1-M1<tab>reserve
+4<tab>56BC4570<tab>Нуржан<tab>Ахметов<tab><tab>71<tab>71-1-M1<tab>reserve
+5<tab>56BC4571<tab>Сара<tab>Рысбекова<tab><tab>71<tab>71-1-M1<tab>reserve
+6<tab>56BC4572<tab>Даяна<tab>Шагирова<tab><tab>71<tab>71-1-M1<tab>reserve
+7<tab>56BC4573<tab>Алихан<tab>Ерболұлы<tab><tab>71<tab>71-1-M1<tab>reserve
+8<tab>56BC4574<tab>Аружан<tab>Хакимова<tab><tab><tab><tab>reserve
+9<tab>56BC4575<tab>Сабина<tab>Абдуллаева<tab><tab>71<tab>71-1-M1<tab>reserve
+10<tab>56BC4576<tab>Дайана<tab>Айтмурзина<tab><tab>71<tab>71-2-M2<tab>reserve
+11<tab>56BC4577<tab>Айша<tab>Сапарбай<tab><tab>71<tab>71-2-M2<tab>reserve
+12<tab>56BC4578<tab>Анвар<tab>Тамабаев<tab><tab>71<tab>71-2-M2<tab>reserve
+13<tab>56BC4579<tab>Жулдыз<tab>Нарегеева<tab><tab>71<tab>71-2-M2<tab>reserve
+14<tab>56BC4580<tab>Асемай<tab>Телекус<tab><tab>71<tab>71-2-M2<tab>reserve
+15<tab>56BC4581<tab>Тамырлан<tab>Даниярулы<tab><tab><tab><tab>reserve
+16<tab>56BC4582<tab>Ильяс<tab>Даулетбаев<tab><tab>71<tab>71-2-M2<tab>reserve
+17<tab>56BC4583<tab>Айша<tab>Абжанова<tab><tab>71<tab>71-2-M2<tab>reserve
+18<tab>56BC4584<tab>Мирас<tab>Сериков<tab>Асланович<tab><tab><tab><tab><tab><tab><tab>reserve
+19<tab>56BC4585<tab>Мухаммадали<tab>Бурумбаев<tab><tab>71<tab>71-3-M0<tab>reserve
+20<tab>56BC4586<tab>Данил<tab>Макаров<tab>Витальевич<tab>71<tab>71-3-M0<tab>reserve
+21<tab>56BC4587<tab>Аружан<tab>Бекшина<tab>Маратовна<tab>71<tab>71-3-M0<tab>reserve
+22<tab>56BC4588<tab>Аида<tab>Панченко<tab>Султановна<tab>71<tab>71-3-M0<tab>reserve
+23<tab>56BC4589<tab>Арслан<tab>Касенаев<tab><tab>71<tab>71-3-M0<tab>reserve
+24<tab>56BC4590<tab>Алихан<tab>Кабыкенов<tab><tab>71<tab>71-3-M0<tab>reserve
+25<tab>56BC4591<tab>Жармахан<tab>Мұсақұл<tab>Сәкенұлы<tab>71<tab>71-3-M0<tab>reserve
+26<tab>56BC4592<tab>Бахытгуль<tab>Дюсембина<tab><tab>37<tab>37-2-M2<tab>reserve
+27<tab>56BC4593<tab>Камила<tab>Слободочкова<tab><tab>37<tab>37-2-M2<tab>reserve
+28<tab>56BC4594<tab>Мадина<tab>Батталова<tab><tab>37<tab>37-2-M2<tab>reserve
+29<tab>56BC4595<tab>Танаис<tab>Шафиева<tab><tab>37<tab>37-2-M2<tab>reserve
+30<tab>56BC4596<tab>Валерия<tab>Пак<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+31<tab>56BC4597<tab>Дильназ<tab>Кудайбергенова<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+32<tab>56BC4598<tab>Дамир<tab>Абдулгазимов<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+33<tab>56BC4599<tab>Асем<tab>Кудайбергенова<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+34<tab>56BC4600<tab>Екатерина<tab>Камышинская<tab><tab>37<tab>37-3-M0<tab>reserve
+35<tab>56BC4601<tab>Алибек<tab>Капез<tab><tab>37<tab>37-3-M0<tab>reserve
+36<tab>56BC4602<tab>Нурислам<tab>Дуйсенбеков<tab><tab>37<tab>37-3-M0<tab>reserve
+37<tab>56BC4603<tab>Ясмин<tab>Есимбек<tab><tab>37<tab>37-3-M0<tab>reserve
+38<tab>56BC4604<tab><tab><tab><tab><tab><tab>reserve
+39<tab>56BC4605<tab>Диас<tab>Набиев<tab><tab>37<tab>37-3-M0<tab>reserve
+40<tab>56BC4606<tab>Борис<tab>Швецов<tab><tab>37<tab>37-3-M0<tab>reserve
+41<tab>56BC4607<tab>Тамерлан<tab>Баширов<tab><tab>37<tab>37-3-M0<tab><tab><tab><tab><tab>reserve
+42<tab>56BC4608<tab>Руслан<tab>Цамаев<tab><tab>37<tab>37-3-M0<tab>reserve
+43<tab>56BC4609<tab>Казбек<tab>Ахметолла<tab>Ильясулы<tab>37<tab>37-4-M1<tab>reserve
+44<tab>56BC4610<tab>Инкар<tab>Мухамедрахимова<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+45<tab>56BC4611<tab><tab><tab><tab><tab><tab>reserve
+46<tab>56BC4612<tab><tab><tab><tab><tab><tab>reserve
+47<tab>56BC4613<tab>Адель<tab>Мурат<tab><tab>37<tab>37-4-M1<tab>reserve
+48<tab>56BC4614<tab>Данара<tab>Уйсимбаева<tab>Даулетовна<tab><tab><tab>reserve
+49<tab>56BC4615<tab>Инна<tab>Корчагина<tab>Викторова<tab><tab><tab>reserve
+50<tab>56BC4616<tab>Ясмин<tab>Абай<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+51<tab>56BC4617<tab><tab><tab><tab><tab><tab>reserve
+52<tab>56BC4618<tab>Аружан<tab>Мурат<tab><tab>37<tab>37-4-M1<tab>reserve
+53<tab>56BC4619<tab><tab><tab><tab><tab><tab>reserve
+54<tab>56BC4620<tab><tab><tab><tab><tab><tab>reserve
+55<tab>56BC4621<tab>Анастасия<tab>Правецкая<tab>Игоревна<tab>37<tab>37-5-M2<tab>reserve
+56<tab>56BC4622<tab>Асан<tab>Муханбеткалиев<tab><tab><tab><tab>reserve
+57<tab>56BC4623<tab>Дарина<tab>Швецова<tab>Денисовна<tab>37<tab>37-5-M2<tab>reserve
+58<tab>56BC4624<tab>Дильназ<tab>Уйсимбаева<tab>Даулетовна<tab><tab><tab><tab><tab><tab><tab>reserve
+59<tab>56BC4625<tab>Дияр<tab>Еркен<tab>Рашидулы<tab>37<tab>37-5-M2<tab>reserve
+60<tab>56BC4626<tab><tab><tab><tab><tab><tab>reserve
+61<tab>56BC4627<tab>Адилет<tab>Каскарауов<tab><tab>52<tab>52-1-M2-P<tab>reserve
+62<tab>56BC4628<tab>Акерке<tab>Бекбай<tab><tab>52<tab>52-1-M2-P<tab>reserve
+63<tab>56BC4629<tab>Дана<tab>Абильда<tab><tab>52<tab>52-1-M2-P<tab>reserve
+64<tab>56BC4630<tab>Аяулым<tab>Куантай<tab><tab>52<tab>52-1-M2-P<tab>reserve
+65<tab>56BC4631<tab>Нуртилеу<tab>Нурмаханбетов<tab><tab>52<tab>52-1-M2-P<tab>reserve
+66<tab>56BC4632<tab>Шахризада<tab>Зейкенова<tab><tab>52<tab>52-1-M2-P<tab>reserve
+67<tab>56BC4633<tab>Инкар<tab>Сулейманова<tab><tab>52<tab>52-1-M2-P<tab>reserve
+68<tab>56BC4634<tab>Естияр<tab>Сагалиев<tab><tab>52<tab>52-1-M2-P<tab>reserve
+69<tab>56BC4635<tab>Аружан<tab>Тажибай<tab><tab>52<tab>52-1-M2-P<tab>reserve
+70<tab>56BC4636<tab><tab>Дауытова<tab><tab>83<tab>83-1-M0<tab>reserve
+71<tab>56BC4637<tab><tab>Капышева<tab><tab>83<tab>83-1-M0<tab>reserve
+72<tab>56BC4638<tab><tab>Нуров<tab><tab>83<tab>83-1-M0<tab>reserve
+73<tab>56BC4639<tab><tab>Уркумбаева<tab><tab>83<tab>83-1-M0<tab>reserve
+74<tab>56BC4640<tab><tab>Садвакасова<tab><tab>83<tab>83-1-M0<tab>reserve
+75<tab>56BC4641<tab><tab>Сатыбалды<tab><tab>83<tab>83-1-M0<tab>reserve
+76<tab>56BC4642<tab><tab>Сулейманов<tab><tab>83<tab>83-1-M0<tab>reserve
+77<tab>56BC4643<tab>Ксения<tab>Морковкина<tab><tab>83<tab>83-2-M1<tab>reserve
+78<tab>56BC4644<tab>Карим<tab>Кынтырбаев<tab><tab>83<tab>83-2-M1<tab>reserve
+79<tab>56BC4645<tab>Саятбек<tab>Серик<tab><tab>83<tab>83-2-M1<tab>reserve
+80<tab>56BC4646<tab>Карина<tab>Асылбек<tab><tab>83<tab>83-2-M1<tab>reserve
+81<tab>56BC4647<tab>Аян<tab>Сексенов<tab><tab>83<tab>83-2-M1<tab>reserve
+82<tab>56BC4648<tab>Жания<tab>Калимова<tab><tab>83<tab>83-2-M1<tab>reserve
+83<tab>56BC4649<tab>Аяна<tab>Бектимирова<tab><tab>83<tab>83-2-M1<tab>reserve
+84<tab>56BC4650<tab>Арафат<tab>Юбузов<tab><tab>83<tab>83-2-M1<tab>reserve
+85<tab>56BC4651<tab>Диана<tab>Гетманская<tab><tab>83<tab>83-3-M2-P<tab>reserve
+86<tab>56BC4652<tab>Лаура<tab>Елембаева<tab><tab>83<tab>83-3-M2-P<tab>reserve
+87<tab>56BC4653<tab>Жамиля<tab>Арыстанбекова<tab><tab>83<tab>83-3-M2-P<tab>reserve
+88<tab>56BC4654<tab>Айхан<tab>Тугамбекова<tab><tab>83<tab>83-3-M2-P<tab>reserve
+89<tab>56BC4655<tab>Милана<tab>Ахметзянова<tab><tab>83<tab>83-3-M2-P<tab>reserve
+90<tab>56BC4656<tab>Алия<tab>Сипульдина<tab><tab>83<tab>83-3-M2-P<tab>reserve
+91<tab>56BC4657<tab>Асет<tab>Смагулов<tab><tab>83<tab>83-3-M2-P<tab>reserve
+92<tab>56BC4658<tab>Аида<tab>Марат<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+93<tab>56BC4659<tab>Адильжан<tab>Есимов<tab><tab>84<tab>84-1-M1<tab>reserve
+94<tab>56BC4660<tab>Сабина<tab>Алимжан<tab>Закиржанкызы<tab>84<tab>84-1-M1<tab>reserve
+95<tab>56BC4661<tab>Аружан<tab>Сабырова<tab><tab>84<tab>84-1-M1<tab>reserve
+96<tab>56BC4662<tab>Амина<tab>Балкен<tab>Мерекекызы<tab>84<tab>84-1-M1<tab>reserve
+97<tab>56BC4663<tab><tab><tab><tab><tab><tab>reserve
+98<tab>56BC4664<tab>Александр<tab>Стрельников<tab>Владимирович<tab>84<tab>84-1-M1<tab>reserve
+99<tab>56BC4665<tab>Адият<tab>Садык<tab><tab>84<tab>84-1-M1<tab>reserve
+100<tab>56BC4666<tab>Сабина<tab>Джамаева<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+101<tab>56BC4667<tab>Арсен<tab>Рахимбеков<tab><tab>84<tab>84-1-M1<tab>reserve
+102<tab>56BC4668<tab>Айша<tab>Аубакирова<tab><tab>84<tab>84-1-M1<tab>reserve
+103<tab>56BC4669<tab>Алмас<tab>Максут<tab><tab>84<tab>84-1-M1<tab>reserve
+104<tab>56BC4670<tab>Рахатжан<tab>Жаксылыков<tab><tab>84<tab>84-1-M1<tab>reserve
+105<tab>56BC4671<tab>Гулим<tab>Муздыбаева<tab>Ерланкызы<tab>84<tab>84-2-M1<tab>reserve
+106<tab>56BC4672<tab>Инаят<tab>Сембекова<tab>Данияровна<tab>84<tab>84-2-M1<tab>reserve
+107<tab>56BC4673<tab>Карина<tab>Канаева<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+108<tab>56BC4674<tab>Наргиз<tab>Жалмагамбетова<tab>Канаткызы<tab>84<tab>84-2-M1<tab>reserve
+109<tab>56BC4675<tab>Томирис<tab>Заманбек<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+110<tab>56BC4676<tab>Айша<tab>Кожахметова<tab>Мараткызы<tab>84<tab>84-2-M1<tab>reserve
+111<tab>56BC4677<tab>Жанеля<tab>Сабыкенова<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+112<tab>56BC4678<tab>Арайлым<tab>Жанибекова<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+113<tab>56BC4679<tab>Мариям<tab>Асылбек<tab>Саматқызы<tab>84<tab>84-2-M1<tab>reserve
+114<tab>56BC4680<tab>Аттила<tab>Искаков<tab><tab>84<tab>84-4-M0<tab>reserve
+115<tab>56BC4681<tab>Темирлан<tab>Баймаганбетов<tab>Зиядинулы<tab><tab><tab><tab><tab><tab><tab>reserve
+116<tab>56BC4682<tab>Томирис<tab>Жандарбекова<tab>Мухамед-Насыровна<tab><tab><tab><tab><tab><tab><tab>reserve
+117<tab>56BC4683<tab>Аблай<tab>Мадиев<tab>Рысбекулы<tab>84<tab>84-4-M0<tab>reserve
+118<tab>56BC4684<tab>Даяна<tab>Тилеген<tab><tab>84<tab>84-4-M0<tab>reserve
+119<tab>56BC4685<tab>Ерасыл<tab>Айдарбек<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+120<tab>56BC4686<tab>Алмаз<tab>Алтынбек<tab>Алтынбекұлы<tab>84<tab>84-4-M0<tab>reserve
+121<tab>56BC4687<tab>Жанибек<tab>Кадыржанов<tab>Арманович<tab>84<tab>84-4-M0<tab>reserve
+122<tab>56BC4688<tab>Адиль<tab>Жумкен<tab>Русланулы<tab>84<tab>84-4-M0<tab>reserve
+123<tab>56BC4689<tab>Қуат<tab>Нығметтолла<tab>Асланұлы<tab><tab><tab><tab><tab><tab><tab>reserve
+124<tab>56BC4690<tab>Кайрат<tab>Кушакбаев<tab><tab>84<tab>84-4-M0<tab>reserve
+125<tab>56BC4691<tab>Асанали<tab>Шашпан<tab>Жоламанович<tab>84<tab>84-4-M0<tab>reserve
+126<tab>56BC4692<tab><tab>Омаров<tab><tab><tab><tab><tab><tab><tab>reserve
+127<tab>56BC4693<tab>Малика<tab>Айткожаева<tab>Жумабековна<tab>84<tab>84-5-M2<tab>reserve
+128<tab>56BC4694<tab>Береке<tab>Тилеген<tab><tab>84<tab>84-5-M2<tab>reserve
+129<tab>56BC4695<tab>Анель<tab>Сабыкенова<tab><tab>84<tab>84-5-M2<tab>reserve
+130<tab>56BC4696<tab>Камила<tab>Орманова<tab>Канатовна<tab>84<tab>84-5-M2<tab>reserve
+131<tab>56BC4697<tab>Салтанат<tab>Хамиева<tab>Серікқызы<tab>84<tab>84-5-M2<tab>reserve
+132<tab>56BC4698<tab>Дария<tab>Манапова<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+133<tab>56BC4699<tab>Акерке<tab>Байкен<tab><tab>84<tab>84-5-M2<tab>reserve
+134<tab>56BC4700<tab>Абдуальели<tab>Марденов<tab><tab>84<tab>84-1-M1<tab>reserve
+135<tab>56BC4701<tab>Руслан<tab>Рогатинский<tab><tab><tab><tab>31.01.2006<tab><tab><tab><tab>reserve
+136<tab>56BC4702<tab><tab><tab><tab><tab><tab><tab><tab><tab>reserve
+137<tab>56BC4703<tab>Sergei<tab>Sergeev<tab>Sergeevich<tab><tab><tab>05.05.2005<tab>8 777 123 4567<tab>5 room<tab><tab>reserve
+138<tab>56BC4704<tab>Ivan<tab>Ivanov<tab>Ivanovich<tab><tab><tab>05.05.2005<tab>8 777 123 4567<tab>5 room<tab><tab>reserve
+139<tab>56BC4705<tab>John<tab>Smith<tab>Adams<tab><tab><tab>05.05.2005<tab>8 777 123 4567<tab>5 room<tab>John.Smith@gmail.com<tab>reserve
+140<tab>56BC4706<tab>Иван<tab>Иванов<tab><tab><tab><tab>05.07.2006<tab>87775463215<tab>Школа 99<tab><tab>reserve
+141<tab>56BC4707<tab>Петр<tab>Петров<tab><tab><tab><tab>05.07.2006<tab>87775463215<tab>Школа 98<tab><tab>reserve
+142<tab>56BC4708<tab>John<tab>Smith<tab>Sergeevich<tab><tab><tab>05.05.2005<tab>8 777 123 4567<tab>5 room<tab><tab>reserve
+143<tab>56BC4709<tab>John<tab>Smith<tab>Anderson<tab><tab><tab>05.05.2005<tab>8 773 123 4567<tab>45 room<tab>John.Smith@gmail.com<tab>reserve
+144<tab>56BC4710<tab>Ivan<tab>Sergeev<tab>Petrovich<tab><tab><tab>05.05.2005<tab>8 777 123 4567<tab>5 room<tab><tab>reserve
+145<tab>56BC4711<tab>Lemon<tab>Apple<tab>Anderson<tab><tab><tab>05.05.2005<tab>8 777 123 4567<tab>5 room<tab><tab>reserve
+146<tab>56BC4712<tab>Адия<tab>Жумабаева<tab><tab>70<tab>70-1-M1<tab>12.12.12<tab>8 705 296 3699<tab>школа №70<tab><tab>reserve
+147<tab>56BC4713<tab>Толеби<tab>Бикасым<tab><tab>70<tab>70-1-M1<tab>0<tab>8 702 089 7540<tab>школа № 70<tab><tab>reserve
+148<tab>56BC4714<tab>Амина<tab>Бикасым<tab><tab><tab><tab>0<tab>8 702 932 0205<tab>школа №70<tab><tab>reserve
+149<tab>56BC4715<tab>Медина<tab>Ерсултан<tab><tab>70<tab>70-1-M1<tab>0<tab>8 701 725 1703<tab>школа №70<tab><tab>reserve
+150<tab>56BC4716<tab>Валерия<tab>Пак<tab><tab>37<tab>37-5-M2<tab>0<tab>8 777 118 6194<tab>KILC<tab><tab>reserve
+151<tab>56BC4717<tab>Асем<tab>Кудацбергенова<tab><tab><tab><tab>0<tab>8 775 771 4254<tab>школа №37<tab><tab>reserve
+152<tab>56BC4718<tab>Асем<tab>Кудайбергенова<tab><tab>37<tab>37-5-M2<tab>0<tab>8 775 771 4254<tab>школа №37<tab><tab>reserve
+153<tab>56BC4719<tab>Дильназ<tab>Кудайбергенова<tab><tab>37<tab>37-5-M2<tab>0<tab>8 771 264 7907<tab>0 <tab><tab>reserve
+154<tab>56BC4720<tab>Дамир<tab>Абулгазимов<tab><tab>37<tab>37-5-M2<tab>0<tab>8 707 930 9838<tab>0<tab><tab>reserve
+155<tab>56BC4721<tab>Арсен<tab>Рустимов<tab><tab>37<tab>37-5-M2<tab>0<tab>8 777 050 7179<tab>0<tab><tab>reserve
+156<tab>56BC4722<tab>Аруна<tab>Берик<tab><tab>75<tab>75-1-M1<tab>0<tab>0<tab>0<tab><tab>reserve
+157<tab>56BC4723<tab>Амир<tab>Базаров<tab><tab>75<tab>75-1-M1<tab>0<tab>0<tab>0<tab><tab>reserve
+158<tab>56BC4724<tab>Ильяс<tab>Ахметов<tab><tab>75<tab>75-1-M1<tab>0<tab>0<tab>0<tab><tab>reserve
+159<tab>56BC4725<tab>Дияра<tab>Дармен<tab><tab>75<tab>75-1-M1<tab>0<tab>0<tab>0<tab><tab>reserve
+160<tab>56BC4726<tab>Анель<tab>Алпыс<tab><tab>75<tab>75-1-M1<tab>0<tab>0<tab>0<tab><tab>reserve
+161<tab>56BC4727<tab>Аружан<tab>Урыспаева<tab><tab>75<tab>75-1-M1<tab>0<tab>0<tab>0<tab><tab>reserve
+162<tab>56BC4728<tab>Амина<tab>Спабекова<tab><tab>75<tab>75-1-M1<tab>0<tab>0<tab>0<tab><tab>reserve
+163<tab>56BC4729<tab>Аиша<tab>Мадраимова<tab><tab>75<tab>75-1-M1<tab>0<tab>0<tab>0<tab><tab>reserve
+164<tab>56BC4730<tab>Сымбат <tab>Турабекова<tab><tab>75<tab>75-1-M1<tab>0<tab>0<tab>0<tab><tab>reserve
+165<tab>56BC4731<tab>Даулет<tab>Спабеков<tab><tab>75<tab>75-1-M1<tab>0<tab>0<tab>0<tab><tab>reserve
+166<tab>56BC4732<tab>Али<tab>Сансызбаев<tab><tab>75<tab>75-1-M1<tab>0<tab>0<tab>0<tab><tab>reserve
+167<tab>56BC4733<tab><tab><tab><tab><tab><tab>0<tab>0<tab>0<tab><tab>reserve
+168<tab>56BC4734<tab>Акерке<tab>Ахпанбаева<tab><tab>84<tab>84-4-M0<tab>0<tab>0<tab>0<tab><tab>reserve
+169<tab>56BC4735<tab>Назерке<tab>Ахпанбаева<tab><tab>84<tab>84-4-M0<tab>0<tab>0<tab>0<tab><tab>reserve
+170<tab>56BC4736<tab>Марал<tab>Адильханова<tab><tab>85<tab>85-1-M2<tab>0<tab>87026750698<tab>85 школа<tab><tab>reserve
+171<tab>56BC4737<tab>Болат<tab>Капизов<tab><tab>85<tab>85-1-M2<tab>0<tab>87477587713<tab>85 школа<tab><tab>reserve
+172<tab>56BC4738<tab>Досымжан<tab>Кыдырбай<tab><tab>85<tab>85-1-M2<tab>0<tab>87053039587<tab>85 школа<tab><tab>reserve
+173<tab>56BC4739<tab>Тамерлан<tab>Шакенов<tab><tab>85<tab>85-1-M2<tab>0<tab>87074231327<tab>85 школа<tab><tab>reserve
+174<tab>56BC4740<tab>Жания<tab>Сапар<tab><tab>85<tab>85-1-M2<tab>0<tab>87074414652<tab>85 школа<tab><tab>reserve
+175<tab>56BC4741<tab>Фатима<tab>Алпысбай<tab><tab>85<tab>85-1-M2<tab>0<tab>87714556528<tab>85 школа<tab><tab>reserve
+176<tab>56BC4742<tab>Акбота<tab>Кадирова<tab><tab>85<tab>85-1-M2<tab>0<tab>87475186361<tab>85 школа<tab><tab>reserve
+177<tab>56BC4743<tab>Дильназ<tab>Уйсимбаева<tab><tab><tab><tab>0<tab>0<tab>0<tab><tab>reserve
+178<tab>56BC4744<tab>Адилет<tab>Ажигали<tab><tab>70<tab>70-2-M0<tab>0<tab>0<tab>школа 70<tab><tab>reserve
+179<tab>56BC4745<tab>Наргиз<tab>Маратова<tab><tab>70<tab>70-2-M0<tab>0<tab>0<tab>0<tab><tab>reserve
+180<tab>56BC4746<tab>Амина<tab>Мурат<tab><tab>70<tab>70-2-M0<tab>0<tab>0<tab>0<tab><tab>reserve
+181<tab>56BC4747<tab>Кантаев<tab>Ерасыл<tab><tab>70<tab>70-2-M0<tab>0<tab>0<tab>0<tab><tab>reserve
+182<tab>56BC4748<tab>Айганым<tab>Бакыт<tab><tab>70<tab>70-2-M0<tab>0<tab>0<tab>0<tab><tab>reserve
+183<tab>56BC4749<tab>Айгерим<tab>Жылкадирова<tab><tab>70<tab>70-2-M0<tab>0<tab>0<tab>0<tab><tab>reserve
+184<tab>56BC4750<tab>Артем<tab>Казмерюк<tab><tab>75<tab>75-1-M1<tab>0<tab>0<tab>0<tab>artemkazm@gmail.com<tab>reserve
+185<tab>56BC4751<tab>Алима<tab>Сулейменова<tab><tab>75<tab>75-1-M1<tab>0<tab>0<tab>0<tab>alimasukeimenova@gmail.com<tab>reserve
+186<tab>56BC4752<tab>Даурен<tab>Ескаутов<tab><tab>85<tab>85-1-M2<tab>0<tab>0<tab>85 школа<tab>daurenesk@mail.ru<tab>reserve
+187<tab>56BC4753<tab>Амира<tab>Жанабаева<tab><tab>75<tab>75-1-M1<tab>0<tab>0<tab>75 школа<tab>amirazhan@mail.ru<tab>reserve
+188<tab>56BC4754<tab>Диас<tab>Набиев<tab><tab>70<tab>70-1-M1<tab>0<tab>0<tab>школа 37<tab>diasnabiev@mail.ru<tab>reserve
+189<tab>56BC4755<tab>Куралай<tab>Х<tab><tab>37<tab>37-6-M0<tab>0<tab>0<tab>0<tab>kuralai@mail.ru<tab>reserve
+190<tab>56BC4756<tab>Илья<tab>Ситников<tab><tab>37<tab>37-6-M0<tab>0<tab>0<tab>0<tab>ilyasitninkov@mail.ru<tab>reserve
+191<tab>56BC4757<tab>Диас<tab>Х<tab><tab>37<tab>37-6-M0<tab>0<tab>0<tab>0<tab>diasschool37@mail.ru<tab>reserve
+192<tab>56BC4758<tab>Едиль<tab>Х<tab><tab>37<tab>37-6-M0<tab>0<tab>0<tab>0<tab>edilschool37@mail.ru<tab>reserve
+193<tab>56BC4759<tab>Сабина<tab>Джамабаева<tab><tab>84<tab>84-1-M1<tab>0<tab>0<tab>0<tab>dgamabayevas@mail.ru<tab>reserve
+194<tab>56BC4760<tab>Жанела<tab>Садыкова<tab><tab>84<tab>84-2-M1<tab>0<tab>0<tab>0<tab>zhanelasadykova@mail.ru<tab>reserve
+195<tab>56BC4761<tab>Арайлым<tab>Жанибекова<tab><tab>84<tab>84-2-M1<tab>0<tab>0<tab>0<tab>zhanibekova@mail.ru<tab>reserve
+196<tab>56BC4762<tab>Ерасыл<tab>Айдарбек<tab><tab>84<tab>84-4-M0<tab>0<tab>0<tab>0<tab>aidarbeker@mail.ru<tab>reserve
+197<tab>56BC4763<tab>Куат<tab>Ныгметулы<tab><tab>84<tab>84-4-M0<tab>0<tab>0<tab>0<tab>kuatnygmet@mail.ru<tab>reserve
+198<tab>56BC4764<tab>Рустем<tab>Болат<tab><tab>85<tab>85-2-M1<tab>0<tab>0<tab>0<tab>rustem.bolat@mail.ru<tab>reserve
+199<tab>56BC4765<tab>Алима<tab>Арапова<tab><tab>85<tab>85-2-M1<tab>0<tab>0<tab>0<tab>alima.arapova@mail.ru<tab>reserve
+200<tab>56BC4766<tab>Рахат<tab>Тукназаров<tab><tab>85<tab>85-2-M1<tab>0<tab>0<tab>0<tab>rahat.tuknazarov@mail.ru<tab>reserve
+201<tab>56BC4767<tab>Шынар<tab>Алпысбаева<tab><tab>85<tab>85-2-M1<tab>0<tab>0<tab>0<tab>shynarsch85@mail.ru<tab>reserve
+202<tab>56BC4768<tab>Ернур<tab>Нурлыбеков<tab><tab>85<tab>85-2-M1<tab>0<tab>0<tab>0<tab>ernursch85@mail.ru<tab>reserve
+203<tab>56BC4769<tab>Камила<tab>Есенова<tab><tab>85<tab>85-2-M1<tab>0<tab>0<tab>0<tab>kamilaesen@mail.ru<tab>reserve
+204<tab>56BC4770<tab>Мансур<tab>Ахметов<tab><tab>85<tab>85-2-M1<tab>0<tab>0<tab>0<tab>mansurahm@mail.ru<tab>reserve
+205<tab>56BC4771<tab>Аяулым<tab>Жаксылыкова<tab><tab>85<tab>85-2-M1<tab>0<tab>0<tab>0<tab>ayaulymzhaks@mail.ru<tab>reserve
+206<tab>56BC4772<tab>Тимур<tab>Шейльман<tab><tab>70<tab>70-1-M1<tab>0<tab>0<tab>0<tab>timursh@mail.ru<tab>reserve
+207<tab>56BC4773<tab>Али<tab>Госман<tab><tab>85<tab>85-2-M1<tab>0<tab>0<tab>0<tab>gosmanali@mail.ru<tab>reserve
+208<tab>56BC4774<tab>Назерке<tab>Сарыбай<tab><tab>70<tab>70-2-M0<tab>0<tab>0<tab>0<tab>nazerkesarybai@mail.ru<tab>reserve
+209<tab>56BC4775<tab>Амир<tab>Хасенов<tab><tab>85<tab>85-2-M1<tab>0<tab>0<tab>0<tab>amirhasenov@mail.ru<tab>reserve
+210<tab>56BC4776<tab>Амир<tab>Курнанбеков<tab><tab>70<tab>70-1-M1<tab>0<tab>0<tab>0<tab>amirkur@mail.ru<tab>reserve
+211<tab>56BC4777<tab>John<tab>Smith<tab><tab><tab><tab>05.05.2005<tab>87772770111<tab>3A<tab><tab>reserve
+212<tab>56BC4778<tab>Сабина<tab>Нурланкызы<tab><tab>85<tab>85-2-M1<tab>0<tab>0<tab>0<tab>sabina99@mail.ru<tab>reserve
+213<tab>56BC4779<tab>Асанали<tab>Шашпан<tab><tab>85<tab>85-2-M1<tab>0<tab>0<tab>0<tab>asanalishash@mail.ru<tab>reserve
+214<tab>56BC4780<tab>Дамеля<tab>Жаксылык<tab><tab>85<tab>85-2-M1<tab>0<tab>0<tab>0<tab>damelyazh@mail.ru<tab>reserve
+215<tab>56BC4781<tab>Абылай <tab>Уменышпаев<tab><tab>85<tab>85-2-M1<tab>0<tab>0<tab>0<tab>abylaiym@mail.ru<tab>reserve
+216<tab>56BC4782<tab>Арайлым<tab>Ондасын<tab><tab>85<tab>85-2-M1<tab>0<tab>0<tab>0<tab>arailymon@mail.ru<tab>reserve
+217<tab>56BC4783<tab>Асылжан<tab>Толебай<tab><tab>85<tab>85-2-M1<tab>0<tab>0<tab>0<tab>asylzhantol@mail.ru<tab>reserve
+218<tab>56BC4784<tab>Ерасыл<tab>Муратов<tab><tab>85<tab>85-2-M1<tab>0<tab>0<tab>0<tab>erasylm@mail.ru<tab>reserve
+219<tab>56BC4785<tab>Sintia<tab>Garcia<tab>Adams<tab><tab><tab>05.05.2005<tab>87772770111<tab>3A<tab><tab>reserve
+220<tab>56BC4786<tab>Диас<tab>Сабырбаев<tab><tab>70<tab>70-3-M2<tab>0<tab>0<tab>0<tab>diassabyrb@mail.ru<tab>reserve
+221<tab>56BC4787<tab>Алина<tab>Уразаева<tab><tab>70<tab>70-3-M2<tab>0<tab>0<tab>0<tab>alonaur@mail.ru<tab>reserve
+222<tab>56BC4788<tab>Ералы<tab>Жумабай<tab><tab>70<tab>70-3-M2<tab>0<tab>0<tab>0<tab>eralyzhumabai@mail.ru<tab>reserve
+223<tab>56BC4789<tab>Амиржан<tab>Байсарин<tab><tab>70<tab>70-3-M2<tab>0<tab>0<tab>0<tab>amirzhan@mail.ru<tab>reserve
+224<tab>56BC4790<tab>Аружан<tab>Аимторина<tab><tab>70<tab>70-3-M2<tab>0<tab>0<tab>0<tab>aruzhanaim@mail.ru<tab>reserve
+225<tab>56BC4791<tab>Акжана<tab>Керимова<tab><tab>70<tab>70-3-M2<tab>0<tab>0<tab>0<tab>akzhanaker@mail.ru<tab>reserve
+226<tab>56BC4792<tab>Ажар<tab>Кантаева<tab><tab>70<tab>70-3-M2<tab>0<tab>0<tab>0<tab>azharkant@mail.ru<tab>reserve

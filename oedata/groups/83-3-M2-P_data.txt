@@ -1,0 +1,31 @@
+
+<start of new project = Fri Jul 26 12:34:27 2019>
+OEP_Created: Fri Jul 26 12:34:27 2019
+OEP_Editor: 3
+OEP_School: 83
+OEP_Group: 83-3-M2-P
+OEP_Traineer: Merei Auelbek
+OEP_VolunteerOne: Astan Makhmet 
+OEP_VolunteerOneCode: 54LD4714
+OEP_VolunteerTwo: Галымжан Маркс 
+OEP_VolunteerTwoCode: 54LD4717
+OEP_StartDate: 01.07.2019
+OEP_FinishDate: 01.07.2019
+OEP_Paid: Paid
+OEP_Status: Frozen
+OEP_Calendar: 182, 183, 185, 187, 190, 192, 194, 197, 199, 201, 204, 206, 208, 211, 213, 215, 218, 220, 222, 225, 227, 229, 232, 234, 236, 239, 241, 243, 246, 248, 266, 266, 266
+OEP_TimeList: 11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab><tab><tab>
+OEP_MondayTime: 
+OEP_TuesdayTime: 11:00-13:00
+OEP_WednesdayTime: 
+OEP_ThursdayTime: 11:00-13:00
+OEP_FridayTime: 
+OEP_SaturdayTime: 11:00-13:00
+OEP_SundayTime: 
+OEP_Monday: 
+OEP_Tuesday: 1
+OEP_Wednesday: 
+OEP_Thursday: 1
+OEP_Friday: 
+OEP_Saturday: 1
+OEP_Sunday: 

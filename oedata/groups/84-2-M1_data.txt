@@ -1,0 +1,31 @@
+
+<start of new project = Fri Oct 4 15:45:01 2019>
+OEP_Created: Fri Oct 4 15:45:01 2019
+OEP_Editor: 8
+OEP_School: 84
+OEP_Group: 84-2-M1
+OEP_Traineer: Merei Auelbek
+OEP_VolunteerOne: Syrym Serikov 
+OEP_VolunteerOneCode: 54LD4721
+OEP_VolunteerTwo: Галымжан Маркс 
+OEP_VolunteerTwoCode: 54LD4717
+OEP_StartDate: 14.06.2019
+OEP_FinishDate: 24.07.2019
+OEP_Paid: Paid
+OEP_Status: Finished
+OEP_Calendar: 165, 168, 170, 172, 175, 177, 179, 182, 184, 186, 191, 193, 196, 198, 200, 203, 205, 207, 269, 269, 269
+OEP_TimeList: 12.00–14.00<tab>12.00–14.00<tab>12.00–14.00<tab>12.00–14.00<tab>12.00–14.00<tab>12.00–14.00<tab>12.00–14.00<tab>12.00–14.00<tab>12.00–14.00<tab>12.00–14.00<tab>12.00–14.00<tab>12.00–14.00<tab>12.00–14.00<tab>12.00–14.00<tab>12.00–14.00<tab>12.00–14.00<tab>12.00–14.00<tab>12.00–14.00<tab><tab><tab>
+OEP_MondayTime: 12.00–14.00
+OEP_TuesdayTime: 
+OEP_WednesdayTime: 12.00–14.00
+OEP_ThursdayTime: 
+OEP_FridayTime: 12.00–14.00
+OEP_SaturdayTime: 
+OEP_SundayTime: 
+OEP_Monday: 1
+OEP_Tuesday: 
+OEP_Wednesday: 1
+OEP_Thursday: 
+OEP_Friday: 1
+OEP_Saturday: 
+OEP_Sunday: 

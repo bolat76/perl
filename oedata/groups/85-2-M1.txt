@@ -1,0 +1,1106 @@
+
+
+
+<start of new project = 54LD4733-20192208143516>
+OEP_School: 85
+OEP_Group: 85-2-M1
+OEP_Lesson: 1
+OEP_Date: 31.07.2019
+OEP_Topic: hello, how do u spell it
+OEP_Participation_56BC4766: 1
+OEP_LateMinutes_56BC4766: 0
+OEP_LiftMinus_56BC4766: 0
+OEP_Tests_56BC4766: 0
+OEP_LiftPlus_56BC4766: 
+OEP_TotalPoints_56BC4766: 1200
+OEP_Eval_56BC4766: 10
+OEP_UserComment_56BC4766: 
+OEP_HomeWork_56BC4766: 
+OEP_Participation_56BC4768: 1
+OEP_LateMinutes_56BC4768: 0
+OEP_LiftMinus_56BC4768: 0
+OEP_Tests_56BC4768: 0
+OEP_LiftPlus_56BC4768: 
+OEP_TotalPoints_56BC4768: 1200
+OEP_Eval_56BC4768: 10
+OEP_UserComment_56BC4768: 
+OEP_HomeWork_56BC4768: 
+OEP_Participation_56BC4771: 1
+OEP_LateMinutes_56BC4771: 0
+OEP_LiftMinus_56BC4771: 0
+OEP_Tests_56BC4771: 0
+OEP_LiftPlus_56BC4771: 
+OEP_TotalPoints_56BC4771: 1200
+OEP_Eval_56BC4771: 10
+OEP_UserComment_56BC4771: 
+OEP_HomeWork_56BC4771: 
+OEP_Comments: 
+
+<start of new project = 54LD4733-20192208143611>
+OEP_School: 85
+OEP_Group: 85-2-M1
+OEP_Lesson: 2
+OEP_Date: 02.08.2019
+OEP_Topic: family, feelings
+OEP_Participation_56BC4766: 1
+OEP_LateMinutes_56BC4766: 0
+OEP_LiftMinus_56BC4766: 0
+OEP_Tests_56BC4766: 0
+OEP_LiftPlus_56BC4766: 
+OEP_TotalPoints_56BC4766: 1200
+OEP_Eval_56BC4766: 10
+OEP_UserComment_56BC4766: 
+OEP_HomeWork_56BC4766: 
+OEP_Participation_56BC4768: 1
+OEP_LateMinutes_56BC4768: 0
+OEP_LiftMinus_56BC4768: 0
+OEP_Tests_56BC4768: 0
+OEP_LiftPlus_56BC4768: 
+OEP_TotalPoints_56BC4768: 1200
+OEP_Eval_56BC4768: 10
+OEP_UserComment_56BC4768: 
+OEP_HomeWork_56BC4768: 
+OEP_Participation_56BC4771: 1
+OEP_LateMinutes_56BC4771: 0
+OEP_LiftMinus_56BC4771: 0
+OEP_Tests_56BC4771: 0
+OEP_LiftPlus_56BC4771: 
+OEP_TotalPoints_56BC4771: 1200
+OEP_Eval_56BC4771: 10
+OEP_UserComment_56BC4771: 
+OEP_HomeWork_56BC4771: 
+OEP_Participation_56BC4773: 1
+OEP_LateMinutes_56BC4773: 0
+OEP_LiftMinus_56BC4773: 0
+OEP_Tests_56BC4773: 0
+OEP_LiftPlus_56BC4773: 
+OEP_TotalPoints_56BC4773: 1200
+OEP_Eval_56BC4773: 10
+OEP_UserComment_56BC4773: 
+OEP_HomeWork_56BC4773: 
+OEP_Comments: 
+
+
+
+<start of new project = 54LD4733-20192208144007>
+OEP_School: 85
+OEP_Group: 85-2-M1
+OEP_Lesson: 3
+OEP_Date: 05.08.2019
+OEP_Topic: cuisine
+OEP_Participation_56BC4766: 1
+OEP_LateMinutes_56BC4766: 0
+OEP_LiftMinus_56BC4766: 0
+OEP_Tests_56BC4766: 0
+OEP_LiftPlus_56BC4766: 
+OEP_TotalPoints_56BC4766: 1200
+OEP_Eval_56BC4766: 10
+OEP_UserComment_56BC4766: 
+OEP_HomeWork_56BC4766: 
+OEP_Participation_56BC4768: 1
+OEP_LateMinutes_56BC4768: 0
+OEP_LiftMinus_56BC4768: 0
+OEP_Tests_56BC4768: 0
+OEP_LiftPlus_56BC4768: 
+OEP_TotalPoints_56BC4768: 1200
+OEP_Eval_56BC4768: 10
+OEP_UserComment_56BC4768: 
+OEP_HomeWork_56BC4768: 
+OEP_Participation_56BC4771: 1
+OEP_LateMinutes_56BC4771: 0
+OEP_LiftMinus_56BC4771: 0
+OEP_Tests_56BC4771: 0
+OEP_LiftPlus_56BC4771: 
+OEP_TotalPoints_56BC4771: 1200
+OEP_Eval_56BC4771: 10
+OEP_UserComment_56BC4771: 
+OEP_HomeWork_56BC4771: 
+OEP_Participation_56BC4773: 1
+OEP_LateMinutes_56BC4773: 0
+OEP_LiftMinus_56BC4773: 0
+OEP_Tests_56BC4773: 0
+OEP_LiftPlus_56BC4773: 
+OEP_TotalPoints_56BC4773: 1200
+OEP_Eval_56BC4773: 10
+OEP_UserComment_56BC4773: very active on the lessons.
+OEP_HomeWork_56BC4773: 
+OEP_Comments: 
+
+<start of new project = 54LD4733-20192208144114>
+OEP_School: 85
+OEP_Group: 85-2-M1
+OEP_Lesson: 4
+OEP_Date: 07.08.2019
+OEP_Topic: summing up
+OEP_Participation_56BC4766: 1
+OEP_LateMinutes_56BC4766: 0
+OEP_LiftMinus_56BC4766: 0
+OEP_Tests_56BC4766: 0
+OEP_LiftPlus_56BC4766: 
+OEP_TotalPoints_56BC4766: 1200
+OEP_Eval_56BC4766: 10
+OEP_UserComment_56BC4766: 
+OEP_HomeWork_56BC4766: 
+OEP_Participation_56BC4768: 1
+OEP_LateMinutes_56BC4768: 0
+OEP_LiftMinus_56BC4768: 0
+OEP_Tests_56BC4768: 0
+OEP_LiftPlus_56BC4768: 
+OEP_TotalPoints_56BC4768: 1200
+OEP_Eval_56BC4768: 10
+OEP_UserComment_56BC4768: 
+OEP_HomeWork_56BC4768: 
+OEP_Participation_56BC4771: 1
+OEP_LateMinutes_56BC4771: 0
+OEP_LiftMinus_56BC4771: 0
+OEP_Tests_56BC4771: 0
+OEP_LiftPlus_56BC4771: 
+OEP_TotalPoints_56BC4771: 1200
+OEP_Eval_56BC4771: 10
+OEP_UserComment_56BC4771: 
+OEP_HomeWork_56BC4771: 
+OEP_Participation_56BC4773: 1
+OEP_LateMinutes_56BC4773: 0
+OEP_LiftMinus_56BC4773: 0
+OEP_Tests_56BC4773: 0
+OEP_LiftPlus_56BC4773: 
+OEP_TotalPoints_56BC4773: 1200
+OEP_Eval_56BC4773: 10
+OEP_UserComment_56BC4773: 
+OEP_HomeWork_56BC4773: 
+OEP_Participation_56BC4779: 1
+OEP_LateMinutes_56BC4779: 0
+OEP_LiftMinus_56BC4779: 0
+OEP_Tests_56BC4779: 0
+OEP_LiftPlus_56BC4779: 
+OEP_TotalPoints_56BC4779: 1200
+OEP_Eval_56BC4779: 10
+OEP_UserComment_56BC4779: 
+OEP_HomeWork_56BC4779: 
+OEP_Participation_56BC4784: 1
+OEP_LateMinutes_56BC4784: 0
+OEP_LiftMinus_56BC4784: 0
+OEP_Tests_56BC4784: 0
+OEP_LiftPlus_56BC4784: 
+OEP_TotalPoints_56BC4784: 1200
+OEP_Eval_56BC4784: 7
+OEP_UserComment_56BC4784: showed no interest and active performance
+OEP_HomeWork_56BC4784: 
+OEP_Comments: 
+
+<start of new project = 54LD4733-20192208144257>
+OEP_School: 85
+OEP_Group: 85-2-M1
+OEP_Lesson: 5
+OEP_Date: 09.08.2019
+OEP_Topic: coaching session
+OEP_Participation_56BC4766: 1
+OEP_LateMinutes_56BC4766: 0
+OEP_LiftMinus_56BC4766: 0
+OEP_Tests_56BC4766: 0
+OEP_LiftPlus_56BC4766: 
+OEP_TotalPoints_56BC4766: 1200
+OEP_Eval_56BC4766: 10
+OEP_UserComment_56BC4766: 
+OEP_HomeWork_56BC4766: 
+OEP_Participation_56BC4768: 1
+OEP_LateMinutes_56BC4768: 0
+OEP_LiftMinus_56BC4768: 0
+OEP_Tests_56BC4768: 0
+OEP_LiftPlus_56BC4768: 
+OEP_TotalPoints_56BC4768: 1200
+OEP_Eval_56BC4768: 10
+OEP_UserComment_56BC4768: rich vocabulary!
+OEP_HomeWork_56BC4768: 
+OEP_Participation_56BC4771: 1
+OEP_LateMinutes_56BC4771: 10
+OEP_LiftMinus_56BC4771: 100
+OEP_Tests_56BC4771: 0
+OEP_LiftPlus_56BC4771: 
+OEP_TotalPoints_56BC4771: 1100
+OEP_Eval_56BC4771: 10
+OEP_UserComment_56BC4771: 
+OEP_HomeWork_56BC4771: 
+OEP_Participation_56BC4773: 1
+OEP_LateMinutes_56BC4773: 0
+OEP_LiftMinus_56BC4773: 0
+OEP_Tests_56BC4773: 0
+OEP_LiftPlus_56BC4773: 
+OEP_TotalPoints_56BC4773: 1200
+OEP_Eval_56BC4773: 10
+OEP_UserComment_56BC4773: 
+OEP_HomeWork_56BC4773: 
+OEP_Participation_56BC4779: 1
+OEP_LateMinutes_56BC4779: 0
+OEP_LiftMinus_56BC4779: 0
+OEP_Tests_56BC4779: 0
+OEP_LiftPlus_56BC4779: 
+OEP_TotalPoints_56BC4779: 1200
+OEP_Eval_56BC4779: 10
+OEP_UserComment_56BC4779: 
+OEP_HomeWork_56BC4779: 
+OEP_Comments: 
+
+<start of new project = 54LD4733-20192208144619>
+OEP_School: 85
+OEP_Group: 85-2-M1
+OEP_Lesson: 6
+OEP_Date: 12.08.2019
+OEP_Topic: time, health
+OEP_Participation_56BC4768: 1
+OEP_LateMinutes_56BC4768: 0
+OEP_LiftMinus_56BC4768: 0
+OEP_Tests_56BC4768: 0
+OEP_LiftPlus_56BC4768: 
+OEP_TotalPoints_56BC4768: 1200
+OEP_Eval_56BC4768: 9
+OEP_UserComment_56BC4768: 
+OEP_HomeWork_56BC4768: 
+OEP_Participation_56BC4769: 1
+OEP_LateMinutes_56BC4769: 0
+OEP_LiftMinus_56BC4769: 0
+OEP_Tests_56BC4769: 0
+OEP_LiftPlus_56BC4769: 
+OEP_TotalPoints_56BC4769: 1200
+OEP_Eval_56BC4769: 7
+OEP_UserComment_56BC4769: was talking the whole lesson to the classmates
+OEP_HomeWork_56BC4769: 
+OEP_Participation_56BC4771: 1
+OEP_LateMinutes_56BC4771: 10
+OEP_LiftMinus_56BC4771: 100
+OEP_Tests_56BC4771: 0
+OEP_LiftPlus_56BC4771: 
+OEP_TotalPoints_56BC4771: 1100
+OEP_Eval_56BC4771: 10
+OEP_UserComment_56BC4771: gets along with new student relally well.
+OEP_HomeWork_56BC4771: 
+OEP_Participation_56BC4773: 1
+OEP_LateMinutes_56BC4773: 0
+OEP_LiftMinus_56BC4773: 0
+OEP_Tests_56BC4773: 0
+OEP_LiftPlus_56BC4773: 
+OEP_TotalPoints_56BC4773: 1200
+OEP_Eval_56BC4773: 9
+OEP_UserComment_56BC4773: 
+OEP_HomeWork_56BC4773: 
+OEP_Participation_56BC4775: 1
+OEP_LateMinutes_56BC4775: 0
+OEP_LiftMinus_56BC4775: 0
+OEP_Tests_56BC4775: 0
+OEP_LiftPlus_56BC4775: 
+OEP_TotalPoints_56BC4775: 1200
+OEP_Eval_56BC4775: 9
+OEP_UserComment_56BC4775: 
+OEP_HomeWork_56BC4775: 
+OEP_Participation_56BC4778: 1
+OEP_LateMinutes_56BC4778: 0
+OEP_LiftMinus_56BC4778: 0
+OEP_Tests_56BC4778: 0
+OEP_LiftPlus_56BC4778: 
+OEP_TotalPoints_56BC4778: 1200
+OEP_Eval_56BC4778: 7
+OEP_UserComment_56BC4778: was talking the whole lesson to the classmates
+OEP_HomeWork_56BC4778: 
+OEP_Participation_56BC4779: 1
+OEP_LateMinutes_56BC4779: 5
+OEP_LiftMinus_56BC4779: 50
+OEP_Tests_56BC4779: 0
+OEP_LiftPlus_56BC4779: 
+OEP_TotalPoints_56BC4779: 1150
+OEP_Eval_56BC4779: 10
+OEP_UserComment_56BC4779: 
+OEP_HomeWork_56BC4779: 
+OEP_Participation_56BC4782: 1
+OEP_LateMinutes_56BC4782: 0
+OEP_LiftMinus_56BC4782: 0
+OEP_Tests_56BC4782: 0
+OEP_LiftPlus_56BC4782: 
+OEP_TotalPoints_56BC4782: 1200
+OEP_Eval_56BC4782: 7
+OEP_UserComment_56BC4782: was not active
+OEP_HomeWork_56BC4782: 
+OEP_Participation_56BC4784: 1
+OEP_LateMinutes_56BC4784: 15
+OEP_LiftMinus_56BC4784: 150
+OEP_Tests_56BC4784: 0
+OEP_LiftPlus_56BC4784: 
+OEP_TotalPoints_56BC4784: 1050
+OEP_Eval_56BC4784: 5
+OEP_UserComment_56BC4784: 
+OEP_HomeWork_56BC4784: 
+OEP_Comments: 
+
+<start of new project = 54LD4733-20192208144919>
+OEP_School: 85
+OEP_Group: 85-2-M1
+OEP_Lesson: 7
+OEP_Date: 14.08.2019
+OEP_Topic: sport, summing up
+OEP_Participation_56BC4766: 1
+OEP_LateMinutes_56BC4766: 10
+OEP_LiftMinus_56BC4766: 100
+OEP_Tests_56BC4766: 0
+OEP_LiftPlus_56BC4766: 
+OEP_TotalPoints_56BC4766: 1100
+OEP_Eval_56BC4766: 9
+OEP_UserComment_56BC4766: 
+OEP_HomeWork_56BC4766: 
+OEP_Participation_56BC4768: 1
+OEP_LateMinutes_56BC4768: 0
+OEP_LiftMinus_56BC4768: 0
+OEP_Tests_56BC4768: 0
+OEP_LiftPlus_56BC4768: 
+OEP_TotalPoints_56BC4768: 1200
+OEP_Eval_56BC4768: 9
+OEP_UserComment_56BC4768: 
+OEP_HomeWork_56BC4768: 
+OEP_Participation_56BC4769: 1
+OEP_LateMinutes_56BC4769: 0
+OEP_LiftMinus_56BC4769: 0
+OEP_Tests_56BC4769: 0
+OEP_LiftPlus_56BC4769: 
+OEP_TotalPoints_56BC4769: 1200
+OEP_Eval_56BC4769: 9
+OEP_UserComment_56BC4769: 
+OEP_HomeWork_56BC4769: 
+OEP_Participation_56BC4771: 1
+OEP_LateMinutes_56BC4771: 8
+OEP_LiftMinus_56BC4771: 80
+OEP_Tests_56BC4771: 0
+OEP_LiftPlus_56BC4771: 
+OEP_TotalPoints_56BC4771: 1120
+OEP_Eval_56BC4771: 9
+OEP_UserComment_56BC4771: 
+OEP_HomeWork_56BC4771: 
+OEP_Participation_56BC4773: 1
+OEP_LateMinutes_56BC4773: 0
+OEP_LiftMinus_56BC4773: 0
+OEP_Tests_56BC4773: 0
+OEP_LiftPlus_56BC4773: 
+OEP_TotalPoints_56BC4773: 1200
+OEP_Eval_56BC4773: 9
+OEP_UserComment_56BC4773: 
+OEP_HomeWork_56BC4773: 
+OEP_Participation_56BC4775: 1
+OEP_LateMinutes_56BC4775: 0
+OEP_LiftMinus_56BC4775: 0
+OEP_Tests_56BC4775: 0
+OEP_LiftPlus_56BC4775: 
+OEP_TotalPoints_56BC4775: 1200
+OEP_Eval_56BC4775: 9
+OEP_UserComment_56BC4775: 
+OEP_HomeWork_56BC4775: 
+OEP_Participation_56BC4778: 1
+OEP_LateMinutes_56BC4778: 0
+OEP_LiftMinus_56BC4778: 0
+OEP_Tests_56BC4778: 0
+OEP_LiftPlus_56BC4778: 
+OEP_TotalPoints_56BC4778: 1200
+OEP_Eval_56BC4778: 9
+OEP_UserComment_56BC4778: 
+OEP_HomeWork_56BC4778: 
+OEP_Participation_56BC4779: 1
+OEP_LateMinutes_56BC4779: 5
+OEP_LiftMinus_56BC4779: 50
+OEP_Tests_56BC4779: 0
+OEP_LiftPlus_56BC4779: 
+OEP_TotalPoints_56BC4779: 1150
+OEP_Eval_56BC4779: 9
+OEP_UserComment_56BC4779: 
+OEP_HomeWork_56BC4779: 
+OEP_Participation_56BC4780: 1
+OEP_LateMinutes_56BC4780: 11
+OEP_LiftMinus_56BC4780: 110
+OEP_Tests_56BC4780: 0
+OEP_LiftPlus_56BC4780: 
+OEP_TotalPoints_56BC4780: 1090
+OEP_Eval_56BC4780: 9
+OEP_UserComment_56BC4780: 
+OEP_HomeWork_56BC4780: 
+OEP_Participation_56BC4781: 1
+OEP_LateMinutes_56BC4781: 10
+OEP_LiftMinus_56BC4781: 100
+OEP_Tests_56BC4781: 0
+OEP_LiftPlus_56BC4781: 
+OEP_TotalPoints_56BC4781: 1100
+OEP_Eval_56BC4781: 9
+OEP_UserComment_56BC4781: 
+OEP_HomeWork_56BC4781: 
+OEP_Participation_56BC4782: 1
+OEP_LateMinutes_56BC4782: 0
+OEP_LiftMinus_56BC4782: 0
+OEP_Tests_56BC4782: 0
+OEP_LiftPlus_56BC4782: 
+OEP_TotalPoints_56BC4782: 1200
+OEP_Eval_56BC4782: 9
+OEP_UserComment_56BC4782: 
+OEP_HomeWork_56BC4782: 
+OEP_Comments: 
+
+<start of new project = 54LD4733-20192208150108>
+OEP_School: 85
+OEP_Group: 85-2-M1
+OEP_Lesson: 8
+OEP_Date: 16.08.2019
+OEP_Topic: test 1
+OEP_Participation_56BC4766: 1
+OEP_LateMinutes_56BC4766: 0
+OEP_LiftMinus_56BC4766: 0
+OEP_Tests_56BC4766: 52
+OEP_LiftPlus_56BC4766: 20
+OEP_TotalPoints_56BC4766: 1220
+OEP_Eval_56BC4766: 3
+OEP_UserComment_56BC4766: disappointed in the results
+OEP_HomeWork_56BC4766: 
+OEP_Participation_56BC4768: 1
+OEP_LateMinutes_56BC4768: 0
+OEP_LiftMinus_56BC4768: 0
+OEP_Tests_56BC4768: 85
+OEP_LiftPlus_56BC4768: 350
+OEP_TotalPoints_56BC4768: 1550
+OEP_Eval_56BC4768: 10
+OEP_UserComment_56BC4768: excellent, next time better!
+OEP_HomeWork_56BC4768: 
+OEP_Participation_56BC4771: 1
+OEP_LateMinutes_56BC4771: 0
+OEP_LiftMinus_56BC4771: 0
+OEP_Tests_56BC4771: 74
+OEP_LiftPlus_56BC4771: 240
+OEP_TotalPoints_56BC4771: 1440
+OEP_Eval_56BC4771: 9
+OEP_UserComment_56BC4771: great, keep up the good work!
+OEP_HomeWork_56BC4771: 
+OEP_Participation_56BC4773: 1
+OEP_LateMinutes_56BC4773: 0
+OEP_LiftMinus_56BC4773: 0
+OEP_Tests_56BC4773: 60
+OEP_LiftPlus_56BC4773: 100
+OEP_TotalPoints_56BC4773: 1300
+OEP_Eval_56BC4773: 6
+OEP_UserComment_56BC4773: lower than excepted, still not bad.
+OEP_HomeWork_56BC4773: 
+OEP_Participation_56BC4775: 1
+OEP_LateMinutes_56BC4775: 0
+OEP_LiftMinus_56BC4775: 0
+OEP_Tests_56BC4775: 52
+OEP_LiftPlus_56BC4775: 20
+OEP_TotalPoints_56BC4775: 1220
+OEP_Eval_56BC4775: 3
+OEP_UserComment_56BC4775: not bad
+OEP_HomeWork_56BC4775: 
+OEP_Participation_56BC4778: 1
+OEP_LateMinutes_56BC4778: 0
+OEP_LiftMinus_56BC4778: 0
+OEP_Tests_56BC4778: 70
+OEP_LiftPlus_56BC4778: 200
+OEP_TotalPoints_56BC4778: 1400
+OEP_Eval_56BC4778: 9
+OEP_UserComment_56BC4778: i am more than impressed by Sabina, because she was present only on 2 lessons!
+OEP_HomeWork_56BC4778: 
+OEP_Participation_56BC4779: 1
+OEP_LateMinutes_56BC4779: 0
+OEP_LiftMinus_56BC4779: 0
+OEP_Tests_56BC4779: 71
+OEP_LiftPlus_56BC4779: 210
+OEP_TotalPoints_56BC4779: 1410
+OEP_Eval_56BC4779: 9
+OEP_UserComment_56BC4779: excellent, because Asanali joined us only on the 3 rd lesson
+OEP_HomeWork_56BC4779: 
+OEP_Participation_56BC4780: 1
+OEP_LateMinutes_56BC4780: 0
+OEP_LiftMinus_56BC4780: 0
+OEP_Tests_56BC4780: 57
+OEP_LiftPlus_56BC4780: 70
+OEP_TotalPoints_56BC4780: 1270
+OEP_Eval_56BC4780: 5
+OEP_UserComment_56BC4780: good
+OEP_HomeWork_56BC4780: 
+OEP_Participation_56BC4781: 1
+OEP_LateMinutes_56BC4781: 0
+OEP_LiftMinus_56BC4781: 0
+OEP_Tests_56BC4781: 53
+OEP_LiftPlus_56BC4781: 30
+OEP_TotalPoints_56BC4781: 1230
+OEP_Eval_56BC4781: 4
+OEP_UserComment_56BC4781: not bad, considering that Abylai was only on 1 lesson
+OEP_HomeWork_56BC4781: 
+OEP_Participation_56BC4782: 1
+OEP_LateMinutes_56BC4782: 0
+OEP_LiftMinus_56BC4782: 0
+OEP_Tests_56BC4782: 50.4
+OEP_LiftPlus_56BC4782: 3.99999999999999
+OEP_TotalPoints_56BC4782: 1204
+OEP_Eval_56BC4782: 2
+OEP_UserComment_56BC4782: weak results
+OEP_HomeWork_56BC4782: 
+OEP_Comments: 
+
+<start of new project = 54LD4733-20192208150502>
+OEP_School: 85
+OEP_Group: 85-2-M1
+OEP_Lesson: 9
+OEP_Date: 19.08.2019
+OEP_Topic: correct the mistakes
+OEP_Participation_56BC4768: 1
+OEP_LateMinutes_56BC4768: 0
+OEP_LiftMinus_56BC4768: 0
+OEP_Tests_56BC4768: 0
+OEP_LiftPlus_56BC4768: 
+OEP_TotalPoints_56BC4768: 1200
+OEP_Eval_56BC4768: 8
+OEP_UserComment_56BC4768: 
+OEP_HomeWork_56BC4768: 
+OEP_Participation_56BC4769: 1
+OEP_LateMinutes_56BC4769: 0
+OEP_LiftMinus_56BC4769: 0
+OEP_Tests_56BC4769: 0
+OEP_LiftPlus_56BC4769: 
+OEP_TotalPoints_56BC4769: 1200
+OEP_Eval_56BC4769: 8
+OEP_UserComment_56BC4769: 
+OEP_HomeWork_56BC4769: 
+OEP_Participation_56BC4771: 1
+OEP_LateMinutes_56BC4771: 0
+OEP_LiftMinus_56BC4771: 0
+OEP_Tests_56BC4771: 0
+OEP_LiftPlus_56BC4771: 
+OEP_TotalPoints_56BC4771: 1200
+OEP_Eval_56BC4771: 8
+OEP_UserComment_56BC4771: 
+OEP_HomeWork_56BC4771: 
+OEP_Participation_56BC4773: 1
+OEP_LateMinutes_56BC4773: 0
+OEP_LiftMinus_56BC4773: 0
+OEP_Tests_56BC4773: 0
+OEP_LiftPlus_56BC4773: 
+OEP_TotalPoints_56BC4773: 1200
+OEP_Eval_56BC4773: 8
+OEP_UserComment_56BC4773: 
+OEP_HomeWork_56BC4773: 
+OEP_Participation_56BC4775: 1
+OEP_LateMinutes_56BC4775: 0
+OEP_LiftMinus_56BC4775: 0
+OEP_Tests_56BC4775: 0
+OEP_LiftPlus_56BC4775: 
+OEP_TotalPoints_56BC4775: 1200
+OEP_Eval_56BC4775: 8
+OEP_UserComment_56BC4775: 
+OEP_HomeWork_56BC4775: 
+OEP_Participation_56BC4778: 1
+OEP_LateMinutes_56BC4778: 0
+OEP_LiftMinus_56BC4778: 0
+OEP_Tests_56BC4778: 0
+OEP_LiftPlus_56BC4778: 
+OEP_TotalPoints_56BC4778: 1200
+OEP_Eval_56BC4778: 8
+OEP_UserComment_56BC4778: 
+OEP_HomeWork_56BC4778: 
+OEP_Participation_56BC4779: 1
+OEP_LateMinutes_56BC4779: 13
+OEP_LiftMinus_56BC4779: 130
+OEP_Tests_56BC4779: 0
+OEP_LiftPlus_56BC4779: 
+OEP_TotalPoints_56BC4779: 1070
+OEP_Eval_56BC4779: 8
+OEP_UserComment_56BC4779: 
+OEP_HomeWork_56BC4779: 
+OEP_Participation_56BC4780: 1
+OEP_LateMinutes_56BC4780: 0
+OEP_LiftMinus_56BC4780: 0
+OEP_Tests_56BC4780: 0
+OEP_LiftPlus_56BC4780: 
+OEP_TotalPoints_56BC4780: 1200
+OEP_Eval_56BC4780: 8
+OEP_UserComment_56BC4780: 
+OEP_HomeWork_56BC4780: 
+OEP_Participation_56BC4781: 1
+OEP_LateMinutes_56BC4781: 8
+OEP_LiftMinus_56BC4781: 80
+OEP_Tests_56BC4781: 0
+OEP_LiftPlus_56BC4781: 
+OEP_TotalPoints_56BC4781: 1120
+OEP_Eval_56BC4781: 8
+OEP_UserComment_56BC4781: 
+OEP_HomeWork_56BC4781: 
+OEP_Participation_56BC4782: 1
+OEP_LateMinutes_56BC4782: 0
+OEP_LiftMinus_56BC4782: 0
+OEP_Tests_56BC4782: 0
+OEP_LiftPlus_56BC4782: 
+OEP_TotalPoints_56BC4782: 1200
+OEP_Eval_56BC4782: 8
+OEP_UserComment_56BC4782: 
+OEP_HomeWork_56BC4782: 
+OEP_Participation_56BC4783: 1
+OEP_LateMinutes_56BC4783: 0
+OEP_LiftMinus_56BC4783: 0
+OEP_Tests_56BC4783: 0
+OEP_LiftPlus_56BC4783: 
+OEP_TotalPoints_56BC4783: 1200
+OEP_Eval_56BC4783: 8
+OEP_UserComment_56BC4783: Asylzhan need to work hard to keep up with others!
+OEP_HomeWork_56BC4783: 
+OEP_Comments: 
+
+<start of new project = 54LD4733-20192208150834>
+OEP_School: 85
+OEP_Group: 85-2-M1
+OEP_Lesson: 10
+OEP_Date: 21.08.2019
+OEP_Topic: free time and problems
+OEP_Participation_56BC4766: 1
+OEP_LateMinutes_56BC4766: 0
+OEP_LiftMinus_56BC4766: 0
+OEP_Tests_56BC4766: 0
+OEP_LiftPlus_56BC4766: 
+OEP_TotalPoints_56BC4766: 1200
+OEP_Eval_56BC4766: 8
+OEP_UserComment_56BC4766: 
+OEP_HomeWork_56BC4766: 
+OEP_Participation_56BC4768: 1
+OEP_LateMinutes_56BC4768: 0
+OEP_LiftMinus_56BC4768: 0
+OEP_Tests_56BC4768: 0
+OEP_LiftPlus_56BC4768: 
+OEP_TotalPoints_56BC4768: 1200
+OEP_Eval_56BC4768: 10
+OEP_UserComment_56BC4768: 
+OEP_HomeWork_56BC4768: 
+OEP_Participation_56BC4769: 1
+OEP_LateMinutes_56BC4769: 0
+OEP_LiftMinus_56BC4769: 0
+OEP_Tests_56BC4769: 0
+OEP_LiftPlus_56BC4769: 
+OEP_TotalPoints_56BC4769: 1200
+OEP_Eval_56BC4769: 8
+OEP_UserComment_56BC4769: Kamila needs to work on confidence and presentation skills
+OEP_HomeWork_56BC4769: 
+OEP_Participation_56BC4771: 1
+OEP_LateMinutes_56BC4771: 0
+OEP_LiftMinus_56BC4771: 0
+OEP_Tests_56BC4771: 0
+OEP_LiftPlus_56BC4771: 
+OEP_TotalPoints_56BC4771: 1200
+OEP_Eval_56BC4771: 8
+OEP_UserComment_56BC4771: 
+OEP_HomeWork_56BC4771: 
+OEP_Participation_56BC4773: 1
+OEP_LateMinutes_56BC4773: 0
+OEP_LiftMinus_56BC4773: 0
+OEP_Tests_56BC4773: 0
+OEP_LiftPlus_56BC4773: 
+OEP_TotalPoints_56BC4773: 1200
+OEP_Eval_56BC4773: 8
+OEP_UserComment_56BC4773: 
+OEP_HomeWork_56BC4773: 
+OEP_Participation_56BC4775: 1
+OEP_LateMinutes_56BC4775: 0
+OEP_LiftMinus_56BC4775: 0
+OEP_Tests_56BC4775: 0
+OEP_LiftPlus_56BC4775: 
+OEP_TotalPoints_56BC4775: 1200
+OEP_Eval_56BC4775: 8
+OEP_UserComment_56BC4775: 
+OEP_HomeWork_56BC4775: 
+OEP_Participation_56BC4778: 1
+OEP_LateMinutes_56BC4778: 0
+OEP_LiftMinus_56BC4778: 0
+OEP_Tests_56BC4778: 0
+OEP_LiftPlus_56BC4778: 
+OEP_TotalPoints_56BC4778: 1200
+OEP_Eval_56BC4778: 0
+OEP_UserComment_56BC4778: 
+OEP_HomeWork_56BC4778: 
+OEP_Participation_56BC4779: 1
+OEP_LateMinutes_56BC4779: 0
+OEP_LiftMinus_56BC4779: 0
+OEP_Tests_56BC4779: 0
+OEP_LiftPlus_56BC4779: 
+OEP_TotalPoints_56BC4779: 1200
+OEP_Eval_56BC4779: 10
+OEP_UserComment_56BC4779: very active
+OEP_HomeWork_56BC4779: 
+OEP_Participation_56BC4780: 1
+OEP_LateMinutes_56BC4780: 0
+OEP_LiftMinus_56BC4780: 0
+OEP_Tests_56BC4780: 0
+OEP_LiftPlus_56BC4780: 
+OEP_TotalPoints_56BC4780: 1200
+OEP_Eval_56BC4780: 6
+OEP_UserComment_56BC4780: was not active
+OEP_HomeWork_56BC4780: 
+OEP_Participation_56BC4781: 1
+OEP_LateMinutes_56BC4781: 0
+OEP_LiftMinus_56BC4781: 0
+OEP_Tests_56BC4781: 0
+OEP_LiftPlus_56BC4781: 
+OEP_TotalPoints_56BC4781: 1200
+OEP_Eval_56BC4781: 8
+OEP_UserComment_56BC4781: was active, but talked a lot and distracted others
+OEP_HomeWork_56BC4781: 
+OEP_Participation_56BC4782: 1
+OEP_LateMinutes_56BC4782: 0
+OEP_LiftMinus_56BC4782: 0
+OEP_Tests_56BC4782: 0
+OEP_LiftPlus_56BC4782: 
+OEP_TotalPoints_56BC4782: 1200
+OEP_Eval_56BC4782: 6
+OEP_UserComment_56BC4782: was not active
+OEP_HomeWork_56BC4782: 
+OEP_Participation_56BC4783: 1
+OEP_LateMinutes_56BC4783: 0
+OEP_LiftMinus_56BC4783: 0
+OEP_Tests_56BC4783: 0
+OEP_LiftPlus_56BC4783: 
+OEP_TotalPoints_56BC4783: 1200
+OEP_Eval_56BC4783: 6
+OEP_UserComment_56BC4783: was not active
+OEP_HomeWork_56BC4783: 
+OEP_Comments: 
+
+<start of new project = 54LD4733-20192308215401>
+OEP_School: 85
+OEP_Group: 85-2-M1
+OEP_Lesson: 11
+OEP_Date: 23.08.2019
+OEP_Topic: date, weather
+OEP_Participation_56BC4766: 1
+OEP_LateMinutes_56BC4766: 0
+OEP_LiftMinus_56BC4766: 0
+OEP_Tests_56BC4766: 0
+OEP_LiftPlus_56BC4766: 
+OEP_TotalPoints_56BC4766: 1200
+OEP_Eval_56BC4766: 10
+OEP_UserComment_56BC4766: was more active than usual!
+OEP_HomeWork_56BC4766: 
+OEP_Participation_56BC4768: 1
+OEP_LateMinutes_56BC4768: 0
+OEP_LiftMinus_56BC4768: 0
+OEP_Tests_56BC4768: 0
+OEP_LiftPlus_56BC4768: 
+OEP_TotalPoints_56BC4768: 1200
+OEP_Eval_56BC4768: 9
+OEP_UserComment_56BC4768: 
+OEP_HomeWork_56BC4768: 
+OEP_Participation_56BC4769: 1
+OEP_LateMinutes_56BC4769: 0
+OEP_LiftMinus_56BC4769: 0
+OEP_Tests_56BC4769: 0
+OEP_LiftPlus_56BC4769: 
+OEP_TotalPoints_56BC4769: 1200
+OEP_Eval_56BC4769: 7
+OEP_UserComment_56BC4769: needs to overcome her fear of speaking up
+OEP_HomeWork_56BC4769: 
+OEP_Participation_56BC4771: 1
+OEP_LateMinutes_56BC4771: 0
+OEP_LiftMinus_56BC4771: 0
+OEP_Tests_56BC4771: 0
+OEP_LiftPlus_56BC4771: 
+OEP_TotalPoints_56BC4771: 1200
+OEP_Eval_56BC4771: 8
+OEP_UserComment_56BC4771: 
+OEP_HomeWork_56BC4771: 
+OEP_Participation_56BC4773: 1
+OEP_LateMinutes_56BC4773: 40
+OEP_LiftMinus_56BC4773: 400
+OEP_Tests_56BC4773: 0
+OEP_LiftPlus_56BC4773: 
+OEP_TotalPoints_56BC4773: 800
+OEP_Eval_56BC4773: 8
+OEP_UserComment_56BC4773: 
+OEP_HomeWork_56BC4773: 
+OEP_Participation_56BC4775: 1
+OEP_LateMinutes_56BC4775: 0
+OEP_LiftMinus_56BC4775: 0
+OEP_Tests_56BC4775: 0
+OEP_LiftPlus_56BC4775: 
+OEP_TotalPoints_56BC4775: 1200
+OEP_Eval_56BC4775: 7
+OEP_UserComment_56BC4775: Amir kept quiet most of the class
+OEP_HomeWork_56BC4775: 
+OEP_Participation_56BC4778: 1
+OEP_LateMinutes_56BC4778: 0
+OEP_LiftMinus_56BC4778: 0
+OEP_Tests_56BC4778: 0
+OEP_LiftPlus_56BC4778: 
+OEP_TotalPoints_56BC4778: 1200
+OEP_Eval_56BC4778: 8
+OEP_UserComment_56BC4778: shows good knowledge
+OEP_HomeWork_56BC4778: 
+OEP_Participation_56BC4780: 1
+OEP_LateMinutes_56BC4780: 0
+OEP_LiftMinus_56BC4780: 0
+OEP_Tests_56BC4780: 0
+OEP_LiftPlus_56BC4780: 
+OEP_TotalPoints_56BC4780: 1200
+OEP_Eval_56BC4780: 7
+OEP_UserComment_56BC4780: Damelya needs to be more active, because she has the potential
+OEP_HomeWork_56BC4780: 
+OEP_Participation_56BC4781: 1
+OEP_LateMinutes_56BC4781: 0
+OEP_LiftMinus_56BC4781: 0
+OEP_Tests_56BC4781: 0
+OEP_LiftPlus_56BC4781: 
+OEP_TotalPoints_56BC4781: 1200
+OEP_Eval_56BC4781: 7
+OEP_UserComment_56BC4781: Abylai needs to be more active, because he has the potential
+OEP_HomeWork_56BC4781: 
+OEP_Participation_56BC4782: 1
+OEP_LateMinutes_56BC4782: 0
+OEP_LiftMinus_56BC4782: 0
+OEP_Tests_56BC4782: 0
+OEP_LiftPlus_56BC4782: 
+OEP_TotalPoints_56BC4782: 1200
+OEP_Eval_56BC4782: 7
+OEP_UserComment_56BC4782: Arailym is not active
+OEP_HomeWork_56BC4782: 
+OEP_Participation_56BC4783: 1
+OEP_LateMinutes_56BC4783: 0
+OEP_LiftMinus_56BC4783: 0
+OEP_Tests_56BC4783: 0
+OEP_LiftPlus_56BC4783: 
+OEP_TotalPoints_56BC4783: 1200
+OEP_Eval_56BC4783: 7
+OEP_UserComment_56BC4783: Asylzhan must be more confident and should study out of the class
+OEP_HomeWork_56BC4783: 
+OEP_Comments: 
+
+<start of new project = 54LD4733-20192608160321>
+OEP_School: 85
+OEP_Group: 85-2-M1
+OEP_Lesson: 12
+OEP_Date: 26.08.2019
+OEP_Topic: holidays, travelling
+OEP_Participation_56BC4768: 1
+OEP_LateMinutes_56BC4768: 0
+OEP_LiftMinus_56BC4768: 0
+OEP_Tests_56BC4768: 0
+OEP_LiftPlus_56BC4768: 
+OEP_TotalPoints_56BC4768: 1200
+OEP_Eval_56BC4768: 7
+OEP_UserComment_56BC4768: 
+OEP_HomeWork_56BC4768: 
+OEP_Participation_56BC4769: 1
+OEP_LateMinutes_56BC4769: 0
+OEP_LiftMinus_56BC4769: 0
+OEP_Tests_56BC4769: 0
+OEP_LiftPlus_56BC4769: 
+OEP_TotalPoints_56BC4769: 1200
+OEP_Eval_56BC4769: 7
+OEP_UserComment_56BC4769: 
+OEP_HomeWork_56BC4769: 
+OEP_Participation_56BC4771: 1
+OEP_LateMinutes_56BC4771: 0
+OEP_LiftMinus_56BC4771: 0
+OEP_Tests_56BC4771: 0
+OEP_LiftPlus_56BC4771: 
+OEP_TotalPoints_56BC4771: 1200
+OEP_Eval_56BC4771: 7
+OEP_UserComment_56BC4771: 
+OEP_HomeWork_56BC4771: 
+OEP_Participation_56BC4773: 1
+OEP_LateMinutes_56BC4773: 0
+OEP_LiftMinus_56BC4773: 0
+OEP_Tests_56BC4773: 0
+OEP_LiftPlus_56BC4773: 
+OEP_TotalPoints_56BC4773: 1200
+OEP_Eval_56BC4773: 7
+OEP_UserComment_56BC4773: 
+OEP_HomeWork_56BC4773: 
+OEP_Participation_56BC4775: 1
+OEP_LateMinutes_56BC4775: 0
+OEP_LiftMinus_56BC4775: 0
+OEP_Tests_56BC4775: 0
+OEP_LiftPlus_56BC4775: 
+OEP_TotalPoints_56BC4775: 1200
+OEP_Eval_56BC4775: 7
+OEP_UserComment_56BC4775: 
+OEP_HomeWork_56BC4775: 
+OEP_Participation_56BC4778: 1
+OEP_LateMinutes_56BC4778: 0
+OEP_LiftMinus_56BC4778: 0
+OEP_Tests_56BC4778: 0
+OEP_LiftPlus_56BC4778: 
+OEP_TotalPoints_56BC4778: 1200
+OEP_Eval_56BC4778: 7
+OEP_UserComment_56BC4778: 
+OEP_HomeWork_56BC4778: 
+OEP_Participation_56BC4780: 1
+OEP_LateMinutes_56BC4780: 0
+OEP_LiftMinus_56BC4780: 0
+OEP_Tests_56BC4780: 0
+OEP_LiftPlus_56BC4780: 
+OEP_TotalPoints_56BC4780: 1200
+OEP_Eval_56BC4780: 6
+OEP_UserComment_56BC4780: 
+OEP_HomeWork_56BC4780: 
+OEP_Participation_56BC4781: 1
+OEP_LateMinutes_56BC4781: 0
+OEP_LiftMinus_56BC4781: 0
+OEP_Tests_56BC4781: 0
+OEP_LiftPlus_56BC4781: 
+OEP_TotalPoints_56BC4781: 1200
+OEP_Eval_56BC4781: 5
+OEP_UserComment_56BC4781: 
+OEP_HomeWork_56BC4781: 
+OEP_Participation_56BC4782: 1
+OEP_LateMinutes_56BC4782: 0
+OEP_LiftMinus_56BC4782: 0
+OEP_Tests_56BC4782: 0
+OEP_LiftPlus_56BC4782: 
+OEP_TotalPoints_56BC4782: 1200
+OEP_Eval_56BC4782: 5
+OEP_UserComment_56BC4782: 
+OEP_HomeWork_56BC4782: 
+OEP_Participation_56BC4783: 1
+OEP_LateMinutes_56BC4783: 0
+OEP_LiftMinus_56BC4783: 0
+OEP_Tests_56BC4783: 0
+OEP_LiftPlus_56BC4783: 
+OEP_TotalPoints_56BC4783: 1200
+OEP_Eval_56BC4783: 5
+OEP_UserComment_56BC4783: doesnt do homework, doesnot learn new words, even though she really needs it
+OEP_HomeWork_56BC4783: 
+OEP_Comments: 
+
+<start of new project = 54LD4733-20191509001542>
+OEP_School: 85
+OEP_Group: 85-2-M1
+OEP_Lesson: 13
+OEP_Date: 14.09.2019
+OEP_Topic: correction work, tenses, in the town, revision
+OEP_Participation_56BC4766: 1
+OEP_LateMinutes_56BC4766: 0
+OEP_LiftMinus_56BC4766: 0
+OEP_Tests_56BC4766: 0
+OEP_LiftPlus_56BC4766: 
+OEP_TotalPoints_56BC4766: 1200
+OEP_Eval_56BC4766: 8
+OEP_UserComment_56BC4766: 
+OEP_HomeWork_56BC4766: 
+OEP_Participation_56BC4768: 1
+OEP_LateMinutes_56BC4768: 0
+OEP_LiftMinus_56BC4768: 0
+OEP_Tests_56BC4768: 0
+OEP_LiftPlus_56BC4768: 
+OEP_TotalPoints_56BC4768: 1200
+OEP_Eval_56BC4768: 8
+OEP_UserComment_56BC4768: 
+OEP_HomeWork_56BC4768: 
+OEP_Participation_56BC4769: 1
+OEP_LateMinutes_56BC4769: 0
+OEP_LiftMinus_56BC4769: 0
+OEP_Tests_56BC4769: 0
+OEP_LiftPlus_56BC4769: 
+OEP_TotalPoints_56BC4769: 1200
+OEP_Eval_56BC4769: 7
+OEP_UserComment_56BC4769: is not attentive on the lessons, near the end gave some correct answers and showed progress!
+OEP_HomeWork_56BC4769: 
+OEP_Participation_56BC4775: 1
+OEP_LateMinutes_56BC4775: 0
+OEP_LiftMinus_56BC4775: 0
+OEP_Tests_56BC4775: 0
+OEP_LiftPlus_56BC4775: 
+OEP_TotalPoints_56BC4775: 1200
+OEP_Eval_56BC4775: 8
+OEP_UserComment_56BC4775: 
+OEP_HomeWork_56BC4775: 
+OEP_Participation_56BC4781: 1
+OEP_LateMinutes_56BC4781: 0
+OEP_LiftMinus_56BC4781: 0
+OEP_Tests_56BC4781: 0
+OEP_LiftPlus_56BC4781: 
+OEP_TotalPoints_56BC4781: 1200
+OEP_Eval_56BC4781: 6
+OEP_UserComment_56BC4781: was not active
+OEP_HomeWork_56BC4781: 
+OEP_Participation_56BC4782: 1
+OEP_LateMinutes_56BC4782: 0
+OEP_LiftMinus_56BC4782: 0
+OEP_Tests_56BC4782: 0
+OEP_LiftPlus_56BC4782: 
+OEP_TotalPoints_56BC4782: 1200
+OEP_Eval_56BC4782: 6
+OEP_UserComment_56BC4782: was not attentive and spoke Russian a lot
+OEP_HomeWork_56BC4782: 
+OEP_Comments: 
+
+<start of new project = 54LD4733-20191509172520>
+OEP_School: 85
+OEP_Group: 85-2-M1
+OEP_Lesson: 14
+OEP_Date: 15.09.2019
+OEP_Topic: would u like, everyday things, talking
+OEP_Participation_56BC4766: 1
+OEP_LateMinutes_56BC4766: 0
+OEP_LiftMinus_56BC4766: 0
+OEP_Tests_56BC4766: 0
+OEP_LiftPlus_56BC4766: 
+OEP_TotalPoints_56BC4766: 1200
+OEP_Eval_56BC4766: 7
+OEP_UserComment_56BC4766: 
+OEP_HomeWork_56BC4766: 
+OEP_Participation_56BC4768: 1
+OEP_LateMinutes_56BC4768: 0
+OEP_LiftMinus_56BC4768: 0
+OEP_Tests_56BC4768: 0
+OEP_LiftPlus_56BC4768: 
+OEP_TotalPoints_56BC4768: 1200
+OEP_Eval_56BC4768: 8
+OEP_UserComment_56BC4768: 
+OEP_HomeWork_56BC4768: 
+OEP_Participation_56BC4775: 1
+OEP_LateMinutes_56BC4775: 0
+OEP_LiftMinus_56BC4775: 0
+OEP_Tests_56BC4775: 0
+OEP_LiftPlus_56BC4775: 
+OEP_TotalPoints_56BC4775: 1200
+OEP_Eval_56BC4775: 7
+OEP_UserComment_56BC4775: 
+OEP_HomeWork_56BC4775: 
+OEP_Participation_56BC4779: 1
+OEP_LateMinutes_56BC4779: 0
+OEP_LiftMinus_56BC4779: 0
+OEP_Tests_56BC4779: 0
+OEP_LiftPlus_56BC4779: 
+OEP_TotalPoints_56BC4779: 1200
+OEP_Eval_56BC4779: 7
+OEP_UserComment_56BC4779: 
+OEP_HomeWork_56BC4779: 
+OEP_Participation_56BC4780: 1
+OEP_LateMinutes_56BC4780: 0
+OEP_LiftMinus_56BC4780: 0
+OEP_Tests_56BC4780: 0
+OEP_LiftPlus_56BC4780: 
+OEP_TotalPoints_56BC4780: 1200
+OEP_Eval_56BC4780: 6
+OEP_UserComment_56BC4780: was distracted a lot
+OEP_HomeWork_56BC4780: 
+OEP_Participation_56BC4781: 1
+OEP_LateMinutes_56BC4781: 0
+OEP_LiftMinus_56BC4781: 0
+OEP_Tests_56BC4781: 0
+OEP_LiftPlus_56BC4781: 
+OEP_TotalPoints_56BC4781: 1200
+OEP_Eval_56BC4781: 9
+OEP_UserComment_56BC4781: was active and showed good understanding!
+OEP_HomeWork_56BC4781: 
+OEP_Participation_56BC4782: 1
+OEP_LateMinutes_56BC4782: 0
+OEP_LiftMinus_56BC4782: 0
+OEP_Tests_56BC4782: 0
+OEP_LiftPlus_56BC4782: 
+OEP_TotalPoints_56BC4782: 1200
+OEP_Eval_56BC4782: 6
+OEP_UserComment_56BC4782: was distracted a lot
+OEP_HomeWork_56BC4782: 
+OEP_Participation_56BC4784: 1
+OEP_LateMinutes_56BC4784: 0
+OEP_LiftMinus_56BC4784: 0
+OEP_Tests_56BC4784: 0
+OEP_LiftPlus_56BC4784: 
+OEP_TotalPoints_56BC4784: 1200
+OEP_Eval_56BC4784: 0
+OEP_UserComment_56BC4784: 
+OEP_HomeWork_56BC4784: 
+OEP_Comments: 

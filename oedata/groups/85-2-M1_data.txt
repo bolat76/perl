@@ -1,0 +1,31 @@
+
+<start of new project = Fri Oct 4 15:47:07 2019>
+OEP_Created: Fri Oct 4 15:47:07 2019
+OEP_Editor: 8
+OEP_School: 85
+OEP_Group: 85-2-M1
+OEP_Traineer: Merei Auelbek
+OEP_VolunteerOne: Жанарай Шартенова 
+OEP_VolunteerOneCode: 54LD4732
+OEP_VolunteerTwo: Дильназ Утемисова 
+OEP_VolunteerTwoCode: 54LD4733
+OEP_StartDate: 31.07.2019
+OEP_FinishDate: 15.09.2019
+OEP_Paid: Paid
+OEP_Status: Finished
+OEP_Calendar: 212, 214, 217, 219, 221, 224, 226, 228, 231, 233, 235, 238, 240, 242, 245, 247, 249, 252, 254, 256, 259
+OEP_TimeList: 10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00
+OEP_MondayTime: 10:00 - 12:00
+OEP_TuesdayTime: 
+OEP_WednesdayTime: 10:00 - 12:00
+OEP_ThursdayTime: 
+OEP_FridayTime: 10:00 - 12:00
+OEP_SaturdayTime: 
+OEP_SundayTime: 
+OEP_Monday: 1
+OEP_Tuesday: 
+OEP_Wednesday: 1
+OEP_Thursday: 
+OEP_Friday: 1
+OEP_Saturday: 
+OEP_Sunday: 

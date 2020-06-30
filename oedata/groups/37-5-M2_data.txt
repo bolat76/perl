@@ -1,0 +1,31 @@
+
+<start of new project = Thu Aug 22 15:20:34 2019>
+OEP_Created: Thu Aug 22 15:20:34 2019
+OEP_Editor: 8
+OEP_School: 37
+OEP_Group: 37-5-M2
+OEP_Traineer: Kamila Azhigulova
+OEP_VolunteerOne: Милана Рогатинская Николаевна
+OEP_VolunteerOneCode: 54LD4710
+OEP_VolunteerTwo: Камила Ажигулова 
+OEP_VolunteerTwoCode: 54LD4707
+OEP_StartDate: 19.06.2019
+OEP_FinishDate: 04.09.2019
+OEP_Paid: Paid
+OEP_Status: Active
+OEP_Calendar: 175, 177, 179, 182, 184, 186, 191, 193, 196, 198, 203, 207, 212, 214, 186, 219, 221, 224, 226, 231, 233, 235, 238, 240, 242, 245, 247, 249, 252, 288, , , 
+OEP_TimeList: 14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab>14:00-16:00<tab><tab><tab>
+OEP_MondayTime: 14:00-16:00
+OEP_TuesdayTime: 
+OEP_WednesdayTime: 14:00-16:00
+OEP_ThursdayTime: 
+OEP_FridayTime: 14:00-16:00
+OEP_SaturdayTime: 
+OEP_SundayTime: 
+OEP_Monday: 1
+OEP_Tuesday: 
+OEP_Wednesday: 1
+OEP_Thursday: 
+OEP_Friday: 1
+OEP_Saturday: 
+OEP_Sunday: 

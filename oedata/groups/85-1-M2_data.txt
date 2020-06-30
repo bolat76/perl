@@ -1,0 +1,31 @@
+
+<start of new project = Fri Oct 4 15:46:56 2019>
+OEP_Created: Fri Oct 4 15:46:56 2019
+OEP_Editor: 8
+OEP_School: 85
+OEP_Group: 85-1-M2
+OEP_Traineer: Merei Auelbek
+OEP_VolunteerOne: Адия Каким 
+OEP_VolunteerOneCode: 54LD4735
+OEP_VolunteerTwo: Ади Нурлыбаев 
+OEP_VolunteerTwoCode: 54LD4703
+OEP_StartDate: 27.07.2019
+OEP_FinishDate: 05.10.2019
+OEP_Paid: Paid
+OEP_Status: Frozen
+OEP_Calendar: 208, 211, 213, 215, 218, 220, 222, 225, 229, 232, 234, 236, 239, 241, 243, 246, 248, 250, 253, 255, 257, 260, 262, 264, 267, 269, 271, 274, 276, 278, 338, 338, 338
+OEP_TimeList: 12:00 - 14:00 <tab>12:00 - 14:00<tab>12:00 - 14:00 <tab>12:00 - 14:00<tab>12:00 - 14:00<tab>12:00 - 14:00 <tab>12:00 - 14:00<tab>12:00 - 14:00<tab>12:00 - 14:00 <tab>12:00 - 14:00<tab>12:00 - 14:00<tab>12:00 - 14:00 <tab>12:00 - 14:00<tab>12:00 - 14:00<tab>12:00 - 14:00 <tab>12:00 - 14:00<tab>12:00 - 14:00<tab>12:00 - 14:00 <tab>12:00 - 14:00<tab>12:00 - 14:00<tab>12:00 - 14:00 <tab>12:00 - 14:00<tab>12:00 - 14:00<tab>12:00 - 14:00 <tab>12:00 - 14:00<tab>12:00 - 14:00<tab>12:00 - 14:00 <tab>12:00 - 14:00<tab>12:00 - 14:00<tab>12:00 - 14:00 <tab><tab><tab>
+OEP_MondayTime: 
+OEP_TuesdayTime: 12:00 - 14:00
+OEP_WednesdayTime: 
+OEP_ThursdayTime: 12:00 - 14:00 
+OEP_FridayTime: 
+OEP_SaturdayTime: 12:00 - 14:00
+OEP_SundayTime: 
+OEP_Monday: 
+OEP_Tuesday: 1
+OEP_Wednesday: 
+OEP_Thursday: 1
+OEP_Friday: 
+OEP_Saturday: 1
+OEP_Sunday: 

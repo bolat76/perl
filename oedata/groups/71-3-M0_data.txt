@@ -1,0 +1,29 @@
+
+<start of new project = Tue Jul 23 16:08:01 2019>
+OEP_Created: Tue Jul 23 16:08:01 2019
+OEP_Editor: 8
+OEP_School: 71
+OEP_Group: 71-3-M0
+OEP_Traineer: Murager Sharipkanov
+OEP_VolunteerOne: Valeriya Klyain
+OEP_VolunteerTwo: Astan Makhmet
+OEP_StartDate: 04.06.2019
+OEP_FinishDate: 16.07.2019
+OEP_Paid: Paid
+OEP_Status: Finished
+OEP_Calendar: 165, 168, 170, 172, 175, 177, 179, 182, 184, 186, 189, 191, 193, 196, 198, 200, 203, 205, 266, 266, 266
+OEP_TimeList: 12.00�14.00<tab>12.00�14.00<tab>12.00�14.00<tab>12.00�14.00<tab>12.00�14.00<tab>12.00�14.00<tab>12.00�14.00<tab>12.00�14.00<tab>12.00�14.00<tab>12.00�14.00<tab>12.00�14.00<tab>12.00�14.00<tab>12.00�14.00<tab>12.00�14.00<tab>12.00�14.00<tab>12.00�14.00<tab>12.00�14.00<tab>12.00�14.00<tab><tab><tab>
+OEP_MondayTime: 
+OEP_TuesdayTime: 10:00-12:00
+OEP_WednesdayTime: 
+OEP_ThursdayTime: 10:00-12:00
+OEP_FridayTime: 
+OEP_SaturdayTime: 10:00-12:00
+OEP_SundayTime: 
+OEP_Monday: 
+OEP_Tuesday: 1
+OEP_Wednesday: 
+OEP_Thursday: 1
+OEP_Friday: 
+OEP_Saturday: 1
+OEP_Sunday: 

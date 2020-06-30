@@ -1,0 +1,31 @@
+
+<start of new project = Fri Jul 26 12:33:07 2019>
+OEP_Created: Fri Jul 26 12:33:07 2019
+OEP_Editor: 3
+OEP_School: 83
+OEP_Group: 83-1-M0
+OEP_Traineer: Merei Auelbek
+OEP_VolunteerOne: Мерей Ауелбек 
+OEP_VolunteerOneCode: 54LD4709
+OEP_VolunteerTwo: Мерей Ауелбек 
+OEP_VolunteerTwoCode: 54LD4709
+OEP_StartDate: 09.03.2019
+OEP_FinishDate: 02.07.2019
+OEP_Paid: Paid
+OEP_Status: Finished
+OEP_Calendar: 68, 70, 72, 74, 77, 79, 81, 84, 86, 88, 91, 93, 95, 98, 100, 102, 105, 107, 269, 269, 269
+OEP_TimeList: 11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab><tab><tab>
+OEP_MondayTime: 11:00-13:00
+OEP_TuesdayTime: 
+OEP_WednesdayTime: 11:00-13:00
+OEP_ThursdayTime: 
+OEP_FridayTime: 11:00-13:00
+OEP_SaturdayTime: 
+OEP_SundayTime: 
+OEP_Monday: 1
+OEP_Tuesday: 
+OEP_Wednesday: 1
+OEP_Thursday: 
+OEP_Friday: 1
+OEP_Saturday: 
+OEP_Sunday: 

@@ -1,0 +1,31 @@
+
+<start of new project = Fri Jul 26 12:44:00 2019>
+OEP_Created: Fri Jul 26 12:44:00 2019
+OEP_Editor: 3
+OEP_School: 84
+OEP_Group: 84-5-M2
+OEP_Traineer: Merei Auelbek
+OEP_VolunteerOne: Нурмухаммед Баядилов 
+OEP_VolunteerOneCode: 54LD4720
+OEP_VolunteerTwo: Нурмухаммед Баядилов 
+OEP_VolunteerTwoCode: 54LD4720
+OEP_StartDate: 17.06.2019
+OEP_FinishDate: 05.07.2019
+OEP_Paid: Paid
+OEP_Status: Frozen
+OEP_Calendar: 168, 170, 172, 175, 177, 179, 182, 184, 186
+OEP_TimeList: 9:30-11:30<tab>9:30-11:30<tab>9:30-11:30<tab>9:30-11:30<tab>9:30-11:30<tab>9:30-11:30<tab>9:30-11:30<tab>9:30-11:30<tab>9:30-11:30
+OEP_MondayTime: 9:30-11:30
+OEP_TuesdayTime: 
+OEP_WednesdayTime: 9:30-11:30
+OEP_ThursdayTime: 
+OEP_FridayTime: 9:30-11:30
+OEP_SaturdayTime: 
+OEP_SundayTime: 
+OEP_Monday: 1
+OEP_Tuesday: 
+OEP_Wednesday: 1
+OEP_Thursday: 
+OEP_Friday: 1
+OEP_Saturday: 
+OEP_Sunday: 

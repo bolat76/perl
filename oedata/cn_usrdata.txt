@@ -1,0 +1,16 @@
+1<tab>Volonteer<tab>Ади<tab>Нурлыбаев<tab>Бауыржанович<tab>lgx<tab>87779994906<tab>confirmed<tab>nurlybayev.adi@gmail.com<tab>Thu Aug 1 12:50:27 2019<tab>26.12.2001<tab>Male<tab>NIS PhM Nur-Sultan<tab>043898354<tab>011226550538<tab>Работаю<tab><tab>reserve
+2<tab>Parent<tab>Милана<tab>Рогатинская<tab><tab>123<tab>87027632713<tab>confirmed<tab>jourlana.m@gmail.com<tab>Sat Aug 10 12:38:13 2019<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+3<tab>Volonteer<tab>Bolatkhan<tab>Jaidarinov<tab><tab>123<tab>87772770326<tab>confirmed<tab>b.jaidarinov@gmail.com<tab>Wed Aug 21 13:32:55 2019<tab>12.07.1976<tab>Male<tab>Washington DC<tab>12334444<tab>4564 5345 5555<tab>Работаю<tab><tab>reserve
+4<tab>Parent<tab>Жанар<tab>Абдуллаева<tab>Джалгасыновна<tab>family2005<tab>87024882933<tab>confirmed<tab>djani2012@mail.ru<tab>Fri Aug 23 15:33:08 2019<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+5<tab>School<tab>Людмила<tab>Бурлаченко<tab><tab>123<tab>8888888<tab>confirmed<tab>sociolift@gmail.com<tab>Sat Aug 31 16:18:52 2019<tab><tab><tab><tab><tab><tab><tab>85<tab>reserve
+6<tab>Parent<tab>Найля<tab>Абдулвагапова<tab>Шафиковна<tab>3817<tab>7773022633<tab>candidate<tab>nailya.1984@mail.ru<tab>Mon Sep 2 11:02:15 2019<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+7<tab>Parent<tab>Дина<tab>Фращ<tab>Сатбековна<tab>ernar2004<tab>87757928200<tab>candidate<tab>dina_frash@mail.ru<tab>Tue Sep 3 12:44:12 2019<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+8<tab>Parent<tab>Ислам<tab>Арыстанбек<tab>Аскарулы<tab>islammiras<tab>87784178831<tab>candidate<tab>kenzheahmetovag@mail.ru<tab>Tue Sep 3 12:55:59 2019<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+9<tab>Parent<tab>Батыр<tab>Нурсолтанов<tab>Дулатулы<tab>2006<tab>87779946881<tab>candidate<tab>kozhmanbetov.a@gmail.com<tab>Tue Sep 3 13:34:37 2019<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+10<tab>Parent<tab>Бахытгуль<tab>Каппасова<tab>Сансызбаевна<tab>7910590k<tab>87013507030<tab>candidate<tab>kappasova777@mail.ru<tab>Wed Sep 4 19:55:58 2019<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+11<tab>Parent<tab>Данара<tab>Есымханкызы<tab><tab>9876543210<tab>87072041022<tab>candidate<tab>danaray@inbox.ru<tab>Wed Sep 4 20:15:35 2019<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+12<tab>Parent<tab>Динара<tab>Кабыкенова<tab><tab>qwerty123<tab>+7(700)495-77-79<tab>candidate<tab>dinara_2784@mail.ru<tab>Thu Sep 5 21:55:49 2019<tab><tab><tab><tab><tab><tab><tab><tab>reserve
+13<tab>Parent<tab>Асель<tab>Айтмурзина<tab>Дюсебековна<tab>berlin2014<tab>87012705479<tab>candidate<tab>asel_78@mail.ru<tab>Tue Sep 10 17:05:07 2019<tab><tab><tab><tab><tab><tab><tab>71<tab>reserve
+14<tab>Parent<tab>Мадина<tab>Турбаева<tab>Муратовна<tab>25102005m<tab>87026487755<tab>candidate<tab>madina_kz_2005@mail.ru<tab>Thu Sep 26 19:51:04 2019<tab><tab><tab><tab><tab><tab><tab>84 школа<tab>reserve
+15<tab>Parent<tab>Данияр<tab>Сембеков<tab><tab>aldo139<tab>87029991173<tab>candidate<tab>daniyar82@inbox.ru<tab>Thu Sep 26 22:51:24 2019<tab><tab><tab><tab><tab><tab><tab>84<tab>reserve
+16<tab>Parent<tab>Айнагуль<tab>Нургазина<tab>Еркеновна<tab>ainagul1977<tab>87027635418<tab>candidate<tab>aina.nur@mail.ru<tab>Sat Apr 4 23:31:56 2020<tab><tab><tab><tab><tab><tab><tab>84<tab>reserve

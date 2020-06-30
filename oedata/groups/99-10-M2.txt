@@ -1,0 +1,26 @@
+
+<start of new project = 3-20191007142359>
+OEP_School: 99
+OEP_Group: 99-10-M2
+OEP_Lesson: 4
+OEP_Date: 10.07.2019
+OEP_Topic: sdf gsdf gsdfg 
+OEP_Participation_56BC4703: 1
+OEP_LateMinutes_56BC4703: 10
+OEP_LiftMinus_56BC4703: 100
+OEP_Tests_56BC4703: 55
+OEP_LiftPlus_56BC4703: 50
+OEP_TotalPoints_56BC4703: 1150
+OEP_Eval_56BC4703: 5
+OEP_UserComment_56BC4703: dsfg sdfg sdf
+OEP_HomeWork_56BC4703: 8
+OEP_Participation_56BC4709: 1
+OEP_LateMinutes_56BC4709: 15
+OEP_LiftMinus_56BC4709: 150
+OEP_Tests_56BC4709: 58
+OEP_LiftPlus_56BC4709: 80
+OEP_TotalPoints_56BC4709: 1130
+OEP_Eval_56BC4709: 8
+OEP_UserComment_56BC4709: sd fgsd fg
+OEP_HomeWork_56BC4709: 8
+OEP_Comments: sd fgsd fgsdf gsdfg sdfgsdfg

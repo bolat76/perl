@@ -1,0 +1,48 @@
+
+<start of new project = 3-20190807213440>
+OEP_School: 99
+OEP_Group: 99-M2-1
+OEP_Lesson: 1
+OEP_Date: 08.07.2019
+OEP_Topic: weeks
+OEP_Participation_56BC4703: 1
+OEP_LateMinutes_56BC4703: 12
+OEP_LiftMinus_56BC4703: 120
+OEP_Tests_56BC4703: 0
+OEP_LiftPlus_56BC4703: 
+OEP_TotalPoints_56BC4703: 1080
+OEP_Eval_56BC4703: 4
+OEP_Participation_56BC4705: 1
+OEP_LateMinutes_56BC4705: 0
+OEP_LiftMinus_56BC4705: 0
+OEP_Tests_56BC4705: 0
+OEP_LiftPlus_56BC4705: 
+OEP_TotalPoints_56BC4705: 1200
+OEP_Eval_56BC4705: 3
+OEP_Comments: as dfasdfasdf asdfasdfa sdf asdfasdf
+
+<start of new project = 3-20190807215753>
+OEP_School: 99
+OEP_Group: 99-M2-1
+OEP_Lesson: 2
+OEP_Date: 03.07.2019
+OEP_Topic: seasons
+OEP_Participation_56BC4703: 1
+OEP_LateMinutes_56BC4703: 12
+OEP_LiftMinus_56BC4703: 120
+OEP_Tests_56BC4703: 56
+OEP_LiftPlus_56BC4703: 60
+OEP_TotalPoints_56BC4703: 1140
+OEP_Eval_56BC4703: 5
+OEP_UserComment_56BC4703: sdfgsdfg sdfgs dfg
+OEP_HomeWork_56BC4703: 8
+OEP_Participation_56BC4705: 1
+OEP_LateMinutes_56BC4705: 10
+OEP_LiftMinus_56BC4705: 100
+OEP_Tests_56BC4705: 67
+OEP_LiftPlus_56BC4705: 170
+OEP_TotalPoints_56BC4705: 1270
+OEP_Eval_56BC4705: 4
+OEP_UserComment_56BC4705: asdfasd asdf asd
+OEP_HomeWork_56BC4705: 9
+OEP_Comments: zzxcvzxz vzxcvzxcvzxcv zxcv zxcvzxc vzx

@@ -1,0 +1,31 @@
+
+<start of new project = Mon Aug 5 19:39:36 2019>
+OEP_Created: Mon Aug 5 19:39:36 2019
+OEP_Editor: 8
+OEP_School: 37
+OEP_Group: 37-6-M0
+OEP_Traineer: Kamila Azhigulova
+OEP_VolunteerOne: Мерей Ауелбек 
+OEP_VolunteerOneCode: 54LD4709
+OEP_VolunteerTwo: Тамила Каримова 
+OEP_VolunteerTwoCode: 54LD4711
+OEP_StartDate: 18.03.2019
+OEP_FinishDate: 05.05.2019
+OEP_Paid: Paid
+OEP_Status: Finished
+OEP_Calendar: 77, 79, 81, 84, 86, 88, 91, 93, 95, 98, 100, 102, 105, 107, 109, 112, 114, 116, 119, 121, 123
+OEP_TimeList: 10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00<tab>10:00 - 12:00
+OEP_MondayTime: 10:00 - 12:00
+OEP_TuesdayTime: 
+OEP_WednesdayTime: 10:00 - 12:00
+OEP_ThursdayTime: 
+OEP_FridayTime: 10:00 - 12:00
+OEP_SaturdayTime: 
+OEP_SundayTime: 
+OEP_Monday: 1
+OEP_Tuesday: 
+OEP_Wednesday: 1
+OEP_Thursday: 
+OEP_Friday: 1
+OEP_Saturday: 
+OEP_Sunday: 

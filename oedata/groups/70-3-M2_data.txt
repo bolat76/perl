@@ -1,0 +1,31 @@
+
+<start of new project = Fri Oct 4 15:51:46 2019>
+OEP_Created: Fri Oct 4 15:51:46 2019
+OEP_Editor: 8
+OEP_School: 70
+OEP_Group: 70-3-M2
+OEP_Traineer: Kamila Azhigulova 
+OEP_VolunteerOne: Айзере Аманбекова 
+OEP_VolunteerOneCode: 54LD4736
+OEP_VolunteerTwo: Асем Нугуманова 
+OEP_VolunteerTwoCode: 54LD4737
+OEP_StartDate: 22.08.2019
+OEP_FinishDate: 22.11.2019
+OEP_Paid: Paid
+OEP_Status: Frozen
+OEP_Calendar: 234, 235, 238, 240, 242, 245, 247, 249, 252, 254, 256, 259, 261, 263, 266, 268, 270, 273, 275, 277, 280, 282, 284, 287, 289, 291, 294, 296, 298, 301, 303, 305, 308
+OEP_TimeList: 11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00
+OEP_MondayTime: 11:00-13:00
+OEP_TuesdayTime: 
+OEP_WednesdayTime: 11:00-13:00
+OEP_ThursdayTime: 
+OEP_FridayTime: 11:00-13:00
+OEP_SaturdayTime: 
+OEP_SundayTime: 
+OEP_Monday: 1
+OEP_Tuesday: 
+OEP_Wednesday: 1
+OEP_Thursday: 
+OEP_Friday: 1
+OEP_Saturday: 
+OEP_Sunday: 

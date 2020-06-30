@@ -1,0 +1,31 @@
+
+<start of new project = Fri Jul 26 12:32:21 2019>
+OEP_Created: Fri Jul 26 12:32:21 2019
+OEP_Editor: 3
+OEP_School: 52
+OEP_Group: 52-1-M2-P
+OEP_Traineer: Kamila Azhigulova
+OEP_VolunteerOne: Aigul Kurmangaliyeva 
+OEP_VolunteerOneCode: 54LD4712
+OEP_VolunteerTwo: Meruert Aitzhanova 
+OEP_VolunteerTwoCode: 54LD4719
+OEP_StartDate: 03.01.2019
+OEP_FinishDate: 02.03.2019
+OEP_Paid: Free
+OEP_Status: Frozen
+OEP_Calendar: 3, 7, 9, 14, 16, 21, 23, 28, 30, 35, 37, 42, 44, 49, 51, 56, 58, 63, 65, 70, 72, 77, 79, 84, 86, 91, 93, 98, 100, 105, 266, 267, 268
+OEP_TimeList: 15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab>15:30-17:30<tab><tab><tab>
+OEP_MondayTime: 15:30-17:30
+OEP_TuesdayTime: 
+OEP_WednesdayTime: 15:30-17:30
+OEP_ThursdayTime: 
+OEP_FridayTime: 
+OEP_SaturdayTime: 
+OEP_SundayTime: 
+OEP_Monday: 1
+OEP_Tuesday: 
+OEP_Wednesday: 1
+OEP_Thursday: 
+OEP_Friday: 
+OEP_Saturday: 
+OEP_Sunday: 

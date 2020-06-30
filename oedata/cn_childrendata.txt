@@ -1,0 +1,5 @@
+2<tab>1<tab>Руслан<tab>Рогатинский<tab><tab>confirmed<tab>37<tab>А<tab>1<tab>ruslan@mail.ru<tab>1<tab>31.01.2006<tab>Мужской<tab>Sat Aug 10 12:40:26 2019<tab>56BC4701<tab>55FM4705<tab>reserved
+11<tab>1<tab>Айсана<tab>Аманжол<tab><tab>candidate<tab>75<tab>8 д<tab>2<tab>danaray@inbox.ru<tab>87072041022<tab>16.03.2005<tab>Женский<tab>Wed Sep 4 21:47:24 2019<tab>reserve
+12<tab>1<tab>Алихан<tab>Кабыкенов<tab><tab>candidate<tab>71<tab>8 А<tab>1<tab>dinara_2784@mail.ru<tab>+77003337543<tab>04.02.2006<tab>Мужской<tab>Thu Sep 5 21:57:43 2019<tab>reserve
+13<tab>1<tab>Дайана<tab>Айтмурзина<tab>Ануаровна<tab>candidate<tab>71<tab>10 В<tab>1<tab>asel_78@mail.ru<tab>87056313570<tab>01.06.2004<tab>Женский<tab>Tue Sep 10 17:13:18 2019<tab>reserve
+15<tab>1<tab>Инаят<tab>Сембекова<tab><tab>candidate<tab>84<tab>Д<tab>1<tab>daniyar82@inbox.ru<tab>87011009727<tab>30.07.2006<tab>Женский<tab>Thu Sep 26 22:56:17 2019<tab>reserve

@@ -1,0 +1,7 @@
+1<tab>56BC4636<tab>83-1-M0<tab><tab><tab><tab><tab>Free<tab>Free<tab>Paid<tab>Paid<tab>reserve
+2<tab>56BC4637<tab>83-1-M0<tab><tab>02.04.2019<tab><tab><tab>Free<tab>Paid<tab>Paid<tab>Paid<tab>reserve
+3<tab>56BC4638<tab>83-1-M0<tab><tab>27.04.2019<tab><tab><tab>Free<tab>Paid<tab>Paid<tab>Paid<tab>reserve
+4<tab>56BC4639<tab>83-1-M0<tab>18.05.2019<tab><tab><tab><tab>Paid<tab>Free<tab>Paid<tab>Paid<tab>reserve
+5<tab>56BC4640<tab>83-1-M0<tab><tab><tab><tab><tab>Free<tab>Free<tab>Paid<tab>Paid<tab>reserve
+6<tab>56BC4641<tab>83-1-M0<tab>06.04.2019<tab><tab><tab><tab>Paid<tab>Free<tab>Paid<tab>Paid<tab>reserve
+7<tab>56BC4642<tab>83-1-M0<tab>04.04.2019<tab>04.04.2019<tab><tab><tab>Paid<tab>Paid<tab>Paid<tab>Paid<tab>reserve

@@ -1,0 +1,31 @@
+
+<start of new project = Mon Aug 5 14:07:38 2019>
+OEP_Created: Mon Aug 5 14:07:38 2019
+OEP_Editor: 8
+OEP_School: 70
+OEP_Group: 70-1-M1
+OEP_Traineer: Kamila Azhigulova
+OEP_VolunteerOne: Айганым Рашит 
+OEP_VolunteerOneCode: 54LD4728
+OEP_VolunteerTwo: Нагимаш Аскергали 
+OEP_VolunteerTwoCode: 54LD4727
+OEP_StartDate: 05.08.2019
+OEP_FinishDate: 10.10.2019
+OEP_Paid: Paid
+OEP_Status: Active
+OEP_Calendar: 217, 219, 221, 224, 226, 228, 231, 233, 235, 238, 240, 242, 245, 247, 249, 252, 254, 256, 259, 261, 263
+OEP_TimeList: 11:00 - 13:00<tab>11:00 - 13:00<tab>11:00 - 13:00<tab>11:00 - 13:00<tab>11:00 - 13:00<tab>11:00 - 13:00<tab>11:00 - 13:00<tab>11:00 - 13:00<tab>11:00 - 13:00<tab>11:00 - 13:00<tab>11:00 - 13:00<tab>11:00 - 13:00<tab>11:00 - 13:00<tab>11:00 - 13:00<tab>11:00 - 13:00<tab>11:00 - 13:00<tab>11:00 - 13:00<tab>11:00 - 13:00<tab>11:00 - 13:00<tab>11:00 - 13:00<tab>11:00 - 13:00
+OEP_MondayTime: 11:00 - 13:00
+OEP_TuesdayTime: 
+OEP_WednesdayTime: 11:00 - 13:00
+OEP_ThursdayTime: 
+OEP_FridayTime: 11:00 - 13:00
+OEP_SaturdayTime: 
+OEP_SundayTime: 
+OEP_Monday: 1
+OEP_Tuesday: 
+OEP_Wednesday: 1
+OEP_Thursday: 
+OEP_Friday: 1
+OEP_Saturday: 
+OEP_Sunday: 

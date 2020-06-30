@@ -1,0 +1,31 @@
+
+<start of new project = Fri Jul 26 12:14:24 2019>
+OEP_Created: Fri Jul 26 12:14:24 2019
+OEP_Editor: 3
+OEP_School: 71
+OEP_Group: 71-1-M1
+OEP_Traineer: Murager Sharipkanov
+OEP_VolunteerOne: Ziyada Bakhytkalieva 
+OEP_VolunteerOneCode: 54LD4722
+OEP_VolunteerTwo: Murager Sharipkanov 
+OEP_VolunteerTwoCode: 54LD4706
+OEP_StartDate: 08.05.2019
+OEP_FinishDate: 26.06.2019
+OEP_Paid: Paid
+OEP_Status: Finished
+OEP_Calendar: 128, 130, 133, 135, 137, 140, 142, 144, 147, 149, 151, 154, 156, 158, 161, 163, 165, 168, 264, 265, 266
+OEP_TimeList: 11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab>11:00-13:00<tab><tab><tab>
+OEP_MondayTime: 11:00-13:00
+OEP_TuesdayTime: 
+OEP_WednesdayTime: 11:00-13:00
+OEP_ThursdayTime: 
+OEP_FridayTime: 11:00-13:00
+OEP_SaturdayTime: 
+OEP_SundayTime: 
+OEP_Monday: 1
+OEP_Tuesday: 
+OEP_Wednesday: 1
+OEP_Thursday: 
+OEP_Friday: 1
+OEP_Saturday: 
+OEP_Sunday: 

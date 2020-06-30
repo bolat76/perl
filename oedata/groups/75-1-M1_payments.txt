@@ -1,0 +1,13 @@
+1<tab>56BC4722<tab>75-1-M1<tab>16.07.2019<tab><tab><tab><tab>Paid<tab>Free<tab>Paid<tab>Paid<tab>reserve
+2<tab>56BC4728<tab>75-1-M1<tab>24.07.2019<tab>04.09.2019<tab><tab><tab>Paid<tab>Paid<tab>Paid<tab>Paid<tab>reserve
+3<tab>56BC4731<tab>75-1-M1<tab>24.07.2019<tab>04.09.2019<tab><tab><tab>Paid<tab>Paid<tab>Paid<tab>Paid<tab>reserve
+4<tab>56BC4723<tab>75-1-M1<tab>28.07.2019<tab>28.07.2019<tab><tab><tab>Paid<tab>reserve
+5<tab>56BC4724<tab>75-1-M1<tab>29.07.2019<tab><tab><tab><tab>Paid<tab>Paid<tab>Paid<tab>Paid<tab>reserve
+6<tab>56BC4730<tab>75-1-M1<tab>29.07.2019<tab>29.07.2019<tab><tab><tab>Paid<tab>Paid<tab>Paid<tab>Paid<tab>reserve
+7<tab>56BC4725<tab>75-1-M1<tab>01.08.2019<tab><tab><tab><tab>Paid<tab>Paid<tab>Paid<tab>Paid<tab>reserve
+8<tab>56BC4750<tab>75-1-M1<tab>05.08.2019<tab><tab><tab><tab>Paid<tab>Free<tab>Paid<tab>Paid<tab>reserve
+9<tab>56BC4751<tab>75-1-M1<tab>05.08.2019<tab><tab><tab><tab>Paid<tab>Free<tab>Paid<tab>Paid<tab>reserve
+10<tab>56BC4726<tab>75-1-M1<tab>06.08.2019<tab><tab><tab><tab>Paid<tab>Paid<tab>Paid<tab>Paid<tab>reserve
+11<tab>56BC4753<tab>75-1-M1<tab>04.09.2019<tab><tab><tab><tab>Paid<tab>Free<tab>Paid<tab>Paid<tab>reserve
+12<tab>56BC4729<tab>75-1-M1<tab>01.08.2019<tab>01.08.2019<tab><tab><tab>Paid<tab>Paid<tab>Paid<tab>Paid<tab>reserve
+13<tab>56BC4727<tab>75-1-M1<tab>06.09.2019<tab>06.09.2019<tab><tab><tab>Paid<tab>Paid<tab>Paid<tab>Paid<tab>reserve

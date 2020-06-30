@@ -1,0 +1,5 @@
+<p>[<a href='http://accelerator.kvadra.kz/cgi-bin/groupdata.cgi'>Общий список в основной таблице</a>]-[]-[]-[]-
+[<a href='http://accelerator.kvadra.kz/cgi-bin/groupdata.cgi?action=biglist'>Открыть все группы</a>]-[]-[]-[]-
+[<a href='http://accelerator.kvadra.kz/cgi-bin/read.cgi?list=all'>Список всех школ</a>]-[]-[]-[]-
+[<a href='http://accelerator.kvadra.kz/cgi-bin/calendar.cgi'>Календарь занятий</a>]</p>
+</body></html>
